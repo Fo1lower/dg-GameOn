@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/99-db/not-tonight/"}
+{"dg-publish":true,"permalink":"/99-db/not-tonight/","noteIcon":""}
 ---
 
