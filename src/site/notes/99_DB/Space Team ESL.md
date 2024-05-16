@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/99-db/space-team-esl/"}
+{"dg-publish":true,"permalink":"/99-db/space-team-esl/","noteIcon":""}
 ---
 
