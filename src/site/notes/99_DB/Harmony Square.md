@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/99-db/harmony-square/"}
+{"dg-publish":true,"permalink":"/99-db/harmony-square/","noteIcon":""}
 ---
 
