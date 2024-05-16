@@ -1,4 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-db/among-us/","noteIcon":""}
+{"dg-publish":true,"permalink":"/99-db/among-us/","noteIcon":"1"}
 ---
 
+# Among Us
