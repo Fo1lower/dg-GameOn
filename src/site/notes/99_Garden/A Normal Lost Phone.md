@@ -3,9 +3,8 @@
 ---
 
 ---
-
 >[!info]+ Informationen:
->**Titel:** A Normal Lost Phone
+><img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2kfs.webp" style="float:left;height:175px;padding-right:10px">**Titel:** A Normal Lost Phone
 >**Erscheinungsjahr:** 2017
 >**Entwickler:** Accidental Queens
 >**Herausgeber:** Plug In Digital
