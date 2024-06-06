@@ -12,7 +12,7 @@
 >**Plattformen:** Android,iOS,Linux,MacOS,Nintendo Switch,Windows
 
 >[!tldr]+ Didaktische Informationen
->**Kompetenzen:** [[01_Metadata/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[01_Metadata/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
+>**Kompetenzen:** [[Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** Digitale Medien im Alltag,Freunde,Identität,Konsumverhalten,Persönliche Lebensgestaltung
 >**Einsatz als:** Aufgabe,Text
 >**Jahrgangstufe:** 8-10,Q1/2
@@ -20,7 +20,7 @@
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/Fx98oCmyxMc?si=N-RmL7bvVZoaEu3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+Zuletzt bearbeitet am: 16/05/2024, 14:30
 # Über Das Spiel:
 
 ## Didaktische Anbindung:
