@@ -37,8 +37,8 @@ Die Website folgt dem Prinzip eines [Digital Garden](https://nesslabs.com/digita
 
 Das Projekt Game On! ist Teil des Verbundsprojekts [ViFoNET](https://vifonet.de/) im Kompetenzverbund [lernen.digital](https://lernen.digital/) und wird als solches von folgenden Stellen gefördert und unterstützt:
 
-![Logo_BMBF.png](/img/user/-_Media/Logo_BMBF.png)
-![DE_Finanziert_von_der_Europäischen_Union_RG_POS.png](/img/user/-_Media/DE_Finanziert_von_der_Europ%C3%A4ischen_Union_RG_POS.png)
+![FKZ_BMBF.png](/img/user/-_Media/FKZ_BMBF.png)
+![FKZ_EU.png](/img/user/-_Media/FKZ_EU.png)
 
 ---
-Zuletzt bearbeitet am: 13/06/2024, 14:11
+Zuletzt bearbeitet am: 13/06/2024, 14:19
