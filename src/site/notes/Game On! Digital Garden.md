@@ -27,10 +27,10 @@ Die Website folgt dem Prinzip eines [Digital Garden](https://nesslabs.com/digita
 
 ## FAQ:
 
->[!faq]+ Wie kann mir der Digital Garden bei der Vorbereitung von Unterricht helfen?
+>[!faq]- Wie kann mir der Digital Garden bei der Vorbereitung von Unterricht helfen?
 >Einerseits soll der Digital Garden einladen, sich explorativ im Feld des Videospielbasierten Englischunterrichts zu bewegen und Eindrücke zu gewinnen. Gleichzeitig kann er z.B. Startpunkt einer Themen- oder Kompetenzorientierten Suche nach Unterrichtsmedien sein. Um in der Garten-Metapher zu bleiben: Es ist erlaubt und erwünscht, dass die Früchte des Gartens gepflückt werden, wenn man an ihnen vorbeiläuft.
 
->[!faq]+ Warum finde ich keine vollständig vorbereiteten Unterrichtsstunden zu Spiel X?
+>[!faq]- Warum finde ich keine vollständig vorbereiteten Unterrichtsstunden zu Spiel X?
 >Der Digital Garden soll als Absprungspunkt und Inspiration für Unterricht funktionieren. Deshalb enthält er Überlegungen und Anknüpfungspunkte, aber keine vollständig ausformulierten Planungen und/oder Arbeitsblätter. Wenn zu einem Spiel bereits Ideen, z.B. in Praxisjournals veröffentlicht wurden, sind diese auf der Unterseite des Spiels verlinkt.
 
 ## Förderung:
@@ -41,4 +41,4 @@ Das Projekt Game On! ist Teil des Verbundsprojekts [ViFoNET](https://vifonet.de/
 ![FKZ_EU.png](/img/user/-_Media/FKZ_EU.png)
 
 ---
-Zuletzt bearbeitet am: 13/06/2024, 14:49
+Zuletzt bearbeitet am: 13/06/2024, 14:58
