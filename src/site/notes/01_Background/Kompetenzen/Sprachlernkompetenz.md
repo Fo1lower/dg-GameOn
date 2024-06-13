@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/01-background/kompetenzen/sprachlernkompetenz/","tags":["competence"],"noteIcon":"1"}
+---
+
+# Sprachlernkompetenz
+
+| Spiel |  | Themen | Kompetenzen | Jgst. |
+| ----- |  | ------ | ----------- | ----- |
+
+{ .block-language-dataview}

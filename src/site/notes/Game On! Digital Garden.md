@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/game-on-digital-garden/","pinned":true,"tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/game-on-digital-garden/","pinned":true,"tags":["gardenEntry"],"noteIcon":"2"}
 ---
 
 # Willkommen im Game On! Digital Garden
@@ -41,4 +41,4 @@ Das Projekt Game On! ist Teil des Verbundsprojekts [ViFoNET](https://vifonet.de/
 ![FKZ_EU.png](/img/user/-_Media/FKZ_EU.png)
 
 ---
-Zuletzt bearbeitet am: 13/06/2024, 14:48
+Zuletzt bearbeitet am: 13/06/2024, 14:49
