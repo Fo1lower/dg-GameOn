@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/game-on-digital-garden/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/game-on-digital-garden/","tags":["gardenEntry"]}
 ---
 
 # Willkommen im Game On! Digital Garden
 
-Diese Internetseite ist die Implementation eines [Obsidian](https://obsidian.md/) Vaults, der im Rahmen des Projekts "Game On!" der [Englischen Fachdidaktik](https://www.uni-muenster.de/Anglistik/Research/Tefl/) an der [Universität Münster](https://www.uni-muenster.de/) entsteht. Sie ist eng mit der Entwicklung einer Fortbildung zum videospielbasierten Englischunterricht verknüpft, kann aber auch losgelöst von dieser genutzt werden.
+Diese Internetseite ist die Implementation eines [Obsidian](https://obsidian.md/) Vaults, der im Rahmen des Projekts Game On! der [Englischen Fachdidaktik](https://www.uni-muenster.de/Anglistik/Research/Tefl/) an der [Universität Münster](https://www.uni-muenster.de/) entsteht. Sie ist eng mit der Entwicklung einer Fortbildung zum videospielbasierten Englischunterricht verknüpft, kann aber auch losgelöst von dieser genutzt werden.
 
 Die Website folgt dem Prinzip eines [Digital Garden](https://nesslabs.com/digital-garden-set-up). Das bedeutet, dass nicht ausschließlich fertige Informationen hier zu finden sind, die dann mit der Zeit vergehen. Stattdessen werden Gedanken und Ideen stetig gedüngt, gewässert oder gar zurückgeschnitten um sich den Dynamiken von Schule und Unterricht anpassen zu können. 
-
 ## Ziele des Digital Garden:
 
 - Einen Startpunkt für Englischlehrkräfte bieten, die am Unterricht mit Videospielen interessiert sind.
@@ -34,4 +33,11 @@ Die Website folgt dem Prinzip eines [Digital Garden](https://nesslabs.com/digita
 >[!faq]+ Warum finde ich keine vollständig vorbereiteten Unterrichtsstunden zu Spiel X?
 >Der Digital Garden soll als Absprungspunkt und Inspiration für Unterricht funktionieren. Deshalb enthält er Überlegungen und Anknüpfungspunkte, aber keine vollständig ausformulierten Planungen und/oder Arbeitsblätter. Wenn zu einem Spiel bereits Ideen, z.B. in Praxisjournals veröffentlicht wurden, sind diese auf der Unterseite des Spiels verlinkt.
 
+## Förderung:
 
+Das Projekt Game On! ist Teil des Verbundsprojekts [ViFoNET](https://vifonet.de/) im Kompetenzverbund [lernen.digital](https://lernen.digital/) und wird als solches von folgenden Stellen gefördert und unterstützt:
+
+![Logo_BMBF.png](/img/user/-_Media/Logo_BMBF.png)
+![DE_Finanziert_von_der_Europäischen_Union_RG_POS.png](/img/user/-_Media/DE_Finanziert_von_der_Europ%C3%A4ischen_Union_RG_POS.png)
+---
+Zuletzt bearbeitet am: 13/06/2024, 14:01
