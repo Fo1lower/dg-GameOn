@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/space-team-esl/"}
+{"dg-publish":true,"permalink":"/99-garden/space-team-esl/","noteIcon":"1"}
 ---
 
 ---

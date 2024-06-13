@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/not-for-broadcast/"}
+{"dg-publish":true,"permalink":"/99-garden/not-for-broadcast/","noteIcon":"1"}
 ---
 
 ---

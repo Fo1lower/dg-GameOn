@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/harmony-square/"}
+{"dg-publish":true,"permalink":"/99-garden/harmony-square/","noteIcon":"1"}
 ---
 
 ---

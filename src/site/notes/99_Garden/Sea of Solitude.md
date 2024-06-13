@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/sea-of-solitude/"}
+{"dg-publish":true,"permalink":"/99-garden/sea-of-solitude/","noteIcon":"1"}
 ---
 
 ---

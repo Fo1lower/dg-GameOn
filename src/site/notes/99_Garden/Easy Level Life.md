@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/easy-level-life/"}
+{"dg-publish":true,"permalink":"/99-garden/easy-level-life/","noteIcon":"1"}
 ---
 
 ---

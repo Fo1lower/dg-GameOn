@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/game-on-digital-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/game-on-digital-garden/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # Willkommen im Game On! Digital Garden

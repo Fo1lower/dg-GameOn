@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/a-normal-lost-phone/"}
+{"dg-publish":true,"permalink":"/99-garden/a-normal-lost-phone/","noteIcon":"1"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-lists/list-usecase/"}
+{"dg-publish":true,"permalink":"/00-lists/list-usecase/","noteIcon":""}
 ---
 
 

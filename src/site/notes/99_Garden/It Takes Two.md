@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/it-takes-two/"}
+{"dg-publish":true,"permalink":"/99-garden/it-takes-two/","noteIcon":"1"}
 ---
 
 ---

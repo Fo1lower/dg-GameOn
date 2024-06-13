@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/planet-alpha/"}
+{"dg-publish":true,"permalink":"/99-garden/planet-alpha/","noteIcon":"1"}
 ---
 
 ---

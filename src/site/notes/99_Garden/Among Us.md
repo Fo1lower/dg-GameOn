@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/among-us/"}
+{"dg-publish":true,"permalink":"/99-garden/among-us/","noteIcon":"1"}
 ---
 
 <---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/life-is-strange/"}
+{"dg-publish":true,"permalink":"/99-garden/life-is-strange/","noteIcon":"1"}
 ---
 
 ---
