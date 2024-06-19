@@ -4,7 +4,11 @@
 
 # Sprachlernkompetenz
 
-| Spiel |  | Themen | Kompetenzen | Jgst. |
-| ----- |  | ------ | ----------- | ----- |
+|  | Spiel | Themen | Kompetenzen | Jgst. |
+|  | ----- | ------ | ----------- | ----- |
 
 { .block-language-dataview}
+
+
+---
+Zuletzt bearbeitet am: 19/06/2024, 10:14
