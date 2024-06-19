@@ -16,6 +16,7 @@ Die Website folgt dem Prinzip eines [Digital Garden](https://nesslabs.com/digita
 - [[Navigation Digital Garden\|Mehr Informationen zur Navigation des Digital Garden]]
 - [[01_Background/Getting Started\|Grundbegriffe des Videospielbasierten Fremdsprachenunterrichts]]
 - [[00_Lists/List Overview\|Listen von Spielen nach Jahrgangsstufe, Kompetenzen, Themen, etc.]]
+- Infos zum Game On Projekt
 
 ### Personen:
 
@@ -41,4 +42,4 @@ Das Projekt Game On! ist Teil des Verbundsprojekts [ViFoNET](https://vifonet.de/
 ![FKZ_EU.png](/img/user/-_Media/FKZ_EU.png)
 
 ---
-Zuletzt bearbeitet am: 19/06/2024, 14:01
+Zuletzt bearbeitet am: 19/06/2024, 14:32
