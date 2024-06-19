@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-lists/list-usecase/","noteIcon":""}
+{"dg-publish":true,"permalink":"/00-lists/list-usecase/","title":"Spiele nach Einsatzmöglichkeit","noteIcon":""}
 ---
 
 
