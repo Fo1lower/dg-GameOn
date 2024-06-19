@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/navigation-digital-garden/","title":"Test","pinned":true,"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/navigation-digital-garden/","title":"Zurechtfinden im Digital Garden","pinned":true,"noteIcon":"1"}
 ---
-
-# Zurechtfinden im Digital Garden
 
 Ein Digital Garden funktioniert anders als ein klassisches Blog oder Wiki. Getreu der Metapher wachsender Pflanzen sind alle Inhalte dieser Webseite im stetigen Wandel. Diese Seite bietet einen kurzen Überblick zu den Navigationsmöglichkeiten im Digital Garden.
 
@@ -31,4 +29,4 @@ Auf der rechten Seite der Website, bzw. ganz unten in der mobilen Ansicht, finde
 In der Baumstruktur auf der linken Seite sind alle Seiten des Gartens einzeln aufgelistet zu finden. Spezifische Seiten lassen sich so schnell finden. Allerdings wird in dieser Struktur der hohe Grad an Verlinkungen innerhalb der Seite nicht abgebildet.
 
 ---
-Zuletzt bearbeitet am: 19/06/2024, 13:56
+Zuletzt bearbeitet am: 19/06/2024, 13:57
