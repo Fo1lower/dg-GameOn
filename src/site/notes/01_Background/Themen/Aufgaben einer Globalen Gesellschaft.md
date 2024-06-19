@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/01-background/themen/aufgaben-einer-globalen-gesellschaft/","tags":["topic"],"noteIcon":"1"}
 ---
 
-# Themenkomplex: Aufgaben einer Globalen Gesellschaft
->[!info]+ Spiele zu diesem Thema
+## Themenkomplex: Aufgaben einer Globalen Gesellschaft
+>[!info]- Spiele mit thematischem Bezug
 > | Spiel                                               |                                                                                                                                                                | Themen                                                                                                                                                                                                                                                      | Kompetenzen                                                                                                                                                                                                                                                                                                                            | Jgst.                               |
 > | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 > | [[99_Garden/Easy Level Life\|Easy Level Life]]   | ![Test\|100](https://img.itch.zone/aW1hZ2UvNzU0NDYvMzQ5NjA5LmdpZg==/794x1000/2QcqJx.gif)                                                                       | <ul><li>[[01_Background/Themen/Aufgaben einer Globalen Gesellschaft.md\\|Aufgaben einer Globalen Gesellschaft]]</li><li>[[01_Background/Themen/Identity and Belonging.md\\|Identity and Belonging]]</li><li>[[01_Background/Themen/USA.md\\|USA]]</li></ul> | <ul><li>[[01_Background/Kompetenzen/Interkulturelle Kompetenz.md\\|Interkulturelle Kompetenz]]</li><li>[[01_Background/Kompetenzen/Text- und Medienkompetenz.md\\|Text- und Medienkompetenz]]</li></ul>                                                                                                                                | <ul><li>8-10</li></ul>              |
@@ -11,8 +11,8 @@
 > | [[99_Garden/Harmony Square\|Harmony Square]]     | ![Test\|100](https://games-im-unterricht.de/sites/default/files/styles/game_bild_cropped_480x270/public/spielbilder/Harmony%20Square%20Logo.PNG?itok=ueAAXUbs) | <ul><li>[[01_Background/Themen/Aufgaben einer Globalen Gesellschaft.md\\|Aufgaben einer Globalen Gesellschaft]]</li><li>[[01_Background/Themen/Medien.md\\|Medien]]</li></ul>                                                                               | <ul><li>[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz.md\\|Funktionale Kommunikative Kompetenz]]</li><li>[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\\|Leseverstehen]]</li><li>[[01_Background/Kompetenzen/Text- und Medienkompetenz.md\\|Text- und Medienkompetenz]]</li></ul> | <ul><li>8-10</li><li>Q1/2</li></ul> |
 > 
 { .block-language-dataview}
-## Spezifische Bezüge nach Bundesland: 
-### Sekundarstufe 2:
+### Spezifische Bezüge nach Bundesland: 
+#### Sekundarstufe 2:
 - Chancen und Risiken der Globalisierung (NRW)
 - English als lingua franca (NRW)
 - Globale Herausforderungen und Zukunftsvisionen (NRW)
@@ -39,4 +39,4 @@
 - Global Challenges (MV)
 
 ---
-Zuletzt bearbeitet am: 13/06/2024, 14:52
+Zuletzt bearbeitet am: 19/06/2024, 14:07

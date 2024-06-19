@@ -2,15 +2,15 @@
 {"dg-publish":true,"permalink":"/01-background/themen/united-kingdom/","tags":["topic"],"noteIcon":"1"}
 ---
 
-# Themenkomplex: Großbritannien
->[!info]+ Spiele mit thematischem Bezug:
+## Themenkomplex: Großbritannien
+>[!info]- Spiele mit thematischem Bezug:
 > | Spiel                                     |                                                                                               | Themen                                                                                                                                                | Kompetenzen                                                                                                                                                                                                                                                                                                                | Jgst.                  |
 > | ----------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
 > | [[99_Garden/Not Tonight\|Not Tonight]] | ![Test\|100](https://images.igdb.com/igdb/image/upload/t_cover_big/ttzqxxpoy9fqjt346om5.webp) | <ul><li>[[01_Background/Themen/United Kingdom.md\\|United Kingdom]]</li><li>[[01_Background/Themen/Zukunftsvisionen.md\\|Zukunftsvisionen]]</li></ul> | <ul><li>[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz.md\\|Funktionale Kommunikative Kompetenz]]</li><li>[[01_Background/Kompetenzen/Interkulturelle Kompetenz.md\\|Interkulturelle Kompetenz]]</li><li>[[01_Background/Kompetenzen/Text- und Medienkompetenz.md\\|Text- und Medienkompetenz]]</li></ul> | <ul><li>Q1/2</li></ul> |
 > 
 { .block-language-dataview}
-## Spezifische Bezüge nach Bundesland:
-### Sekundarstufe 1:
+### Spezifische Bezüge nach Bundesland:
+#### Sekundarstufe 1:
 - Schulalltag in GB (NRW)
 - Umgebung und Landeskunde (HB)
 - Unterschiedliche Kulturen im englischsprachigen Raum (HH)
@@ -24,7 +24,7 @@
 - UK (SL)
 - Alltagsleben im UK und USA (RLP)
 - Lebenswelten englischsprachiger Jugendlicher (RLP)
-### Sekundarstufe 2:
+#### Sekundarstufe 2:
 - UK im 21. Jahrhundert (NRW)
 - Britishness (NS)
 - Öffentliches Leben in Bezugskulturen (HH)
@@ -46,4 +46,4 @@
 - GB - Past and Present (HS)
 
 ---
-Zuletzt bearbeitet am: 13/06/2024, 14:53
+Zuletzt bearbeitet am: 19/06/2024, 14:06

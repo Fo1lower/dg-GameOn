@@ -2,35 +2,35 @@
 {"dg-publish":true,"permalink":"/01-background/themen/uebersicht-themen-und-lehrplaene/","pinned":true,"noteIcon":"1"}
 ---
 
-# Thematische Schwerpunkte des Englischunterrichts
+## Thematische Schwerpunkte des Englischunterrichts
 
 - [ ] Links zu Lehrplänen Vervollständigen #SHK 
 
-## Über die Auswahl der Themen:
+### Über die Auswahl der Themen:
 
-### Warum überhaupt thematisch suchen?
+#### Warum überhaupt thematisch suchen?
 Im Kontext der durch die KMK vorgegebenen Kompetenzorientierung mag eine thematische Schwerpunktsetzung zunächst verwirrend sein. Doch in der Praxis spielen die oft sehr konkreten thematischen Vorgaben der Lehrpläne der Länder eine große Rolle in der Pragmatik der Unterrichtsplanung.  Aus diesem Grund wurden die Lehrpläne der Bundesländer nach thematischen Vorgaben durchsucht und diese im Digital Garden in Themenkomplexen zusammengefasst. 
 
-### Zur Genese der Themenkomplexe:
+#### Zur Genese der Themenkomplexe:
 Da sich die Art und Weise in der die Länder Themen vorgeben teils deutlich unterscheidet, kann eine solche Zusammenfassung Sie natürlich nicht in Ihrer Komplexität abbilden, oder gar feste Grenzen ziehen. Die aufgestellten Themenkomplexe sollen bei der Navigation der Materialdatenbank helfen und beanspruchen nicht, die thematische Breite des Englischunterrichts in ganz Deutschland in 12 Schubladen stecken zu können.
 Auf den Seiten der Themenkomplexe finden sich neben weiterführenden Informationen und referenzierenden Materialien auch die konkreten Verweise auf die Lehrpläne der Länder.
 
-### Themenkomplexe:
-- [[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
-- [[01_Background/Themen/Work and Education\|Work and Education]]
-- [[01_Background/Themen/Science & Technology\|Science & Technology]]
+#### Themenkomplexe:
 - [[01_Background/Themen/Medien\|Medien]]
-- [[01_Background/Themen/United Kingdom\|United Kingdom]]
-- [[01_Background/Themen/Soziales Leben\|Soziales Leben]]
-- [[01_Background/Themen/USA\|USA]]
-- [[01_Background/Themen/Postkolonialismus\|Postkolonialismus]]
-- [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]]
 - [[01_Background/Themen/Natur & Umwelt\|Natur & Umwelt]]
-- [[01_Background/Themen/Elizabethan England\|Elizabethan England]]
+- [[01_Background/Themen/Postkolonialismus\|Postkolonialismus]]
+- [[01_Background/Themen/Science & Technology\|Science & Technology]]
+- [[01_Background/Themen/Soziales Leben\|Soziales Leben]]
+- [[01_Background/Themen/United Kingdom\|United Kingdom]]
+- [[01_Background/Themen/USA\|USA]]
+- [[01_Background/Themen/Work and Education\|Work and Education]]
+- [[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
 - [[01_Background/Themen/Aufgaben einer Globalen Gesellschaft\|Aufgaben einer Globalen Gesellschaft]]
+- [[01_Background/Themen/Elizabethan England\|Elizabethan England]]
+- [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]]
 
 { .block-language-dataview}
-## Lehrpläne Sekundarstufe 1:
+### Lehrpläne Sekundarstufe 1:
 - [NRW](https://www.schulentwicklung.nrw.de/lehrplaene/lehrplan/199/g9_e_klp_%203417_2019_06_23.pdf ) 
 - [Bremen](https://www.lis.bremen.de/schulqualitaet/bildungsplaene/sekundarbereich-i-15226)
 - [Hamburg](https://www.hamburg.de/contentblob/16762912/95cfa12393ecd6eb8c2d88921640fe3b/data/englisch-gym-seki-2022.pdf)
@@ -41,7 +41,7 @@ Auf den Seiten der Themenkomplexe finden sich neben weiterführenden Information
 - [Sachsen](https://www.schulportal.sachsen.de/lplandb/index.php?lplanid=816&lplansc=Ot016RpUeeLWYkna0Y8m&token=654991b6218626633eb4edb4ca60c3f6)
 - [Bayern](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/10/englisch)
 
-## Lehrpläne Sekundarstufe 2:
+### Lehrpläne Sekundarstufe 2:
 - [NRW](https://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-ii/gymnasiale-oberstufe/englisch/englisch-klp-/kompetenzen/index.html )
 - [Niedersachsen](https://bildungsportal-niedersachsen.de/allgemeinbildung/unterrichtsfaecher/sprachen-und-literatur/englisch-sek-ii)
 - [Schleswig-Holstein](https://fachportal.lernnetz.de/sh/fachanforderungen/englisch.html)
@@ -58,4 +58,4 @@ Auf den Seiten der Themenkomplexe finden sich neben weiterführenden Information
 - [Rheinland-Pfalz](https://bildung.rlp.de/lehrplaene/seite/1)
 - [Hessen](https://kultus.hessen.de/sites/kultusministerium.hessen.de/files/2022-09/kcgo_englisch_stand_august_2022_0.pdf)
 ---
-Zuletzt bearbeitet am: 13/06/2024, 14:53
+Zuletzt bearbeitet am: 19/06/2024, 14:05

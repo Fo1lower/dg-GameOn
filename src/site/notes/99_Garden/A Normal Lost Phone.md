@@ -20,11 +20,11 @@
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/Fx98oCmyxMc?si=N-RmL7bvVZoaEu3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Zuletzt bearbeitet am: 13/06/2024, 11:42
-# Über Das Spiel:
+Zuletzt bearbeitet am: 19/06/2024, 14:03
+## Über Das Spiel:
 
-## Didaktische Anbindung:
+### Didaktische Anbindung:
 
-## Links:
+### Links:
 
 

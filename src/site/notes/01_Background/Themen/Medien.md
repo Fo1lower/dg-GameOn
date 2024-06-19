@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/01-background/themen/medien/","tags":["topic"],"noteIcon":"1"}
 ---
 
-# Themenkomplex: Medien
->[!info]+ Spiele zu diesem Thema
+## Themenkomplex: Medien
+>[!info]- Spiele zu diesem Thema
 > | Spiel                                                     |                                                                                                                                                                | Themen                                                                                                                                                                                                                | Kompetenzen                                                                                                                                                                                                                                                                                                                            | Jgst.                               |
 > | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 > | [[99_Garden/A Normal Lost Phone\|A Normal Lost Phone]] | ![Test\|100](https://images.igdb.com/igdb/image/upload/t_cover_big/co2kfs.webp)                                                                                | <ul><li>[[01_Background/Themen/Identity and Belonging.md\\|Identity and Belonging]]</li><li>[[01_Background/Themen/Medien.md\\|Medien]]</li><li>[[01_Background/Themen/Soziales Leben.md\\|Soziales Leben]]</li></ul> | <ul><li>[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\\|Leseverstehen]]</li><li>[[01_Background/Kompetenzen/Text- und Medienkompetenz.md\\|Text- und Medienkompetenz]]</li></ul>                                                                                                                    | <ul><li>8-10</li><li>Q1/2</li></ul> |
@@ -11,9 +11,9 @@
 > | [[99_Garden/Not for Broadcast\|Not for Broadcast]]     | ![Test\|100](https://images.igdb.com/igdb/image/upload/t_cover_big/co5bcn.webp)                                                                                | <ul><li>[[01_Background/Themen/Medien.md\\|Medien]]</li></ul>                                                                                                                                                         | <ul><li>[[01_Background/Kompetenzen/Text- und Medienkompetenz.md\\|Text- und Medienkompetenz]]</li></ul>                                                                                                                                                                                                                               | <ul><li>Q1/2</li></ul>              |
 > 
 { .block-language-dataview}
-## Spezifische Bezüge nach Bundesland:
+### Spezifische Bezüge nach Bundesland:
 
-### Sekundarstufe 1:
+#### Sekundarstufe 1:
 - Private Mediennutzung im Alltag (NRW)      
 - Mediennutzung (HB) 
 - Leben in der digitalen Welt (HH)  
@@ -28,7 +28,7 @@
 - Kommunikation und Medien (SL)
 - Medien und Technologie (RLP) 
 
-### Sekundarstufe 2:
+#### Sekundarstufe 2:
 - Medien in Gesellschaft (NRW)
 - The Media, e.g. the Influence of the Media on Public Opinion and Personal Life (NS)
 - The Digital Revolution (NS)
@@ -43,4 +43,4 @@
 - The Media (SH)
 - The Media (SL)
 ---
-Zuletzt bearbeitet am: 13/06/2024, 14:53
+Zuletzt bearbeitet am: 19/06/2024, 14:06

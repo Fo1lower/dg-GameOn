@@ -2,14 +2,14 @@
 {"dg-publish":true,"permalink":"/01-background/themen/postkolonialismus/","tags":["topic"],"noteIcon":"1"}
 ---
 
-# Themenkomplex: Postkolonialismus
->[!info]+ Spiele zu diesem Thema
+## Themenkomplex: Postkolonialismus
+>[!info]- Spiele zu diesem Thema
 > | Spiel |  | Themen | Kompetenzen | Jgst. |
 > | ----- |  | ------ | ----------- | ----- |
 > 
 { .block-language-dataview}
-## Spezifische Bezüge nach Bundesland:
-### Sekundarstufe 2:
+### Spezifische Bezüge nach Bundesland:
+#### Sekundarstufe 2:
 - Postkolonialismus (NRW)
 - Postcolonial/Neo-Colonial Experiences (NS)
 - Öffentliches Leben in Bezugskulturen (HB)
@@ -22,4 +22,4 @@
 
 
 ---
-Zuletzt bearbeitet am: 13/06/2024, 14:53
+Zuletzt bearbeitet am: 19/06/2024, 14:06

@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/01-background/themen/identity-and-belonging/","tags":["topic"],"noteIcon":"1"}
 ---
 
-# Themenkomplex: Alltags-, Freizeit- und Lebensgestaltung // Identity and Belonging
+## Themenkomplex: Alltags-, Freizeit- und Lebensgestaltung // Identity and Belonging
 
->[!info]+ Spiele zu diesem Thema
+>[!info]- Spiele mit thematischem Bezug
 > | Spiel                                                     |                                                                                               | Themen                                                                                                                                                                                                                                                      | Kompetenzen                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Jgst.                               |
 > | --------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 > | [[99_Garden/A Normal Lost Phone\|A Normal Lost Phone]] | ![Test\|100](https://images.igdb.com/igdb/image/upload/t_cover_big/co2kfs.webp)               | <ul><li>[[01_Background/Themen/Identity and Belonging.md\\|Identity and Belonging]]</li><li>[[01_Background/Themen/Medien.md\\|Medien]]</li><li>[[01_Background/Themen/Soziales Leben.md\\|Soziales Leben]]</li></ul>                                       | <ul><li>[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\\|Leseverstehen]]</li><li>[[01_Background/Kompetenzen/Text- und Medienkompetenz.md\\|Text- und Medienkompetenz]]</li></ul>                                                                                                                                                                                                                                           | <ul><li>8-10</li><li>Q1/2</li></ul> |
@@ -17,9 +17,9 @@
 > 
 { .block-language-dataview}
 
-## Spezifische Bezüge nach Bundesland:
+### Spezifische Bezüge nach Bundesland:
 
-### Sekundarstufe 1:
+#### Sekundarstufe 1:
 - Alltag und Freizeitgestaltung von Kindern (NRW)
 - Alltagsleben (HB)
 - Persönliche Lebensgestaltung (HH)
@@ -42,7 +42,7 @@
 - Schule und Hobbies (RLP)
 - Identität, Heranwachsen, gender (RLP)
 - Freizeit und Jugendkultur (RLP)
-### Sekundarstufe 2:
+#### Sekundarstufe 2:
 - Alltagswirklichkeiten und Zukunftsperspektiven junger Erwachsener (NRW)
 - Lebensentwürfe (NRW)
 - Identity (NS)
@@ -69,4 +69,4 @@
 - Gender Issues (HS)
 
 ---
-Zuletzt bearbeitet am: 13/06/2024, 14:53
+Zuletzt bearbeitet am: 19/06/2024, 14:07
