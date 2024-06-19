@@ -12,7 +12,7 @@
 Im Kontext der durch die KMK vorgegebenen Kompetenzorientierung mag eine thematische Schwerpunktsetzung zunächst verwirrend sein. Doch in der Praxis spielen die oft sehr konkreten thematischen Vorgaben der Lehrpläne der Länder eine große Rolle in der Pragmatik der Unterrichtsplanung.  Aus diesem Grund wurden die Lehrpläne der Bundesländer nach thematischen Vorgaben durchsucht und diese im Digital Garden in Themenkomplexen zusammengefasst. 
 
 #### Zur Genese der Themenkomplexe:
-Da sich die Art und Weise in der die Länder Themen vorgeben teils deutlich unterscheidet, kann eine solche Zusammenfassung Sie natürlich nicht in Ihrer Komplexität abbilden, oder gar feste Grenzen ziehen. Die aufgestellten Themenkomplexe sollen bei der Navigation der Materialdatenbank helfen und beanspruchen nicht, die thematische Breite des Englischunterrichts in ganz Deutschland in 12 Schubladen stecken zu können.
+Da sich die Art und Weise, in welcher die Länder Themen vorgeben teils deutlich unterscheidet, kann eine solche Zusammenfassung sie natürlich nicht in Ihrer Komplexität abbilden, oder gar feste Grenzen ziehen. Die aufgestellten Themenkomplexe sollen bei der Navigation der Materialdatenbank helfen und beanspruchen nicht, die thematische Breite des Englischunterrichts in ganz Deutschland in 12 Schubladen stecken zu können.
 Auf den Seiten der Themenkomplexe finden sich neben weiterführenden Informationen und referenzierenden Materialien auch die konkreten Verweise auf die Lehrpläne der Länder.
 
 #### Themenkomplexe:
@@ -58,4 +58,4 @@ Auf den Seiten der Themenkomplexe finden sich neben weiterführenden Information
 - [Rheinland-Pfalz](https://bildung.rlp.de/lehrplaene/seite/1)
 - [Hessen](https://kultus.hessen.de/sites/kultusministerium.hessen.de/files/2022-09/kcgo_englisch_stand_august_2022_0.pdf)
 ---
-Zuletzt bearbeitet am: 19/06/2024, 14:05
+Zuletzt bearbeitet am: 19/06/2024, 14:38
