@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/harmony-square/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":" Spielesammlung/Harmony Square.md","permalink":"/spielesammlung/harmony-square/","noteIcon":"1"}
 ---
 
 ---
@@ -8,8 +8,8 @@
 >**Erscheinungsjahr:** 2020
 >**Entwickler:** Gusmanson
 >**Herausgeber:** `=this.publisher`
->**Altersfreigabe:** Kein Rating
->**Plattformen:** Web
+>**Altersfreigabe:** [[01_Background/USK/Kein Rating\|Kein Rating]]
+>**Plattformen:** [[01_Background/Plattformen/Web\|Web]]
 
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
@@ -21,11 +21,12 @@
 >`=this.trailer-embed`
 
 
-# Über Das Spiel:
-
-## Didaktische Anbindung:
-
-## Links:
+## Über Das Spiel:
+Harmony Square ist ein Spiel mit Desinformations-Thematik. Spieler\*innen übernehmen die Rolle eines Mitarbeiters, der für Harmonie im fiktiven Ort Harmony Square sorgen soll. Allerdings geht es nicht um echte Harmonie, sondern darum, Spannungen zwischen verschiedenen Gruppen zu schüren und Desinformation zu verbreiten.
+### Didaktische Anbindung:
+- [ ] #SHK 
+### Links:
+[spielbar auf Developerseite](https://harmonysquare.game)
 
 ---
-Zuletzt bearbeitet am: 13/06/2024, 11:42
+Zuletzt bearbeitet am: 27/06/2024, 11:26

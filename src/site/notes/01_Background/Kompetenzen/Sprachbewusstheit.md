@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/01-background/kompetenzen/sprachbewusstheit/","tags":["competence"],"noteIcon":"1"}
+{"dg-publish":true,"dg-path":" Hintergrundwissen/Kompetenzen/Sprachbewusstheit.md","permalink":"/hintergrundwissen/kompetenzen/sprachbewusstheit/","tags":["competence"],"noteIcon":"1"}
 ---
 
-# Sprachbewusstheit
+## Sprachbewusstheit
 
-|  | Spiel | Themen | Kompetenzen | Jgst. |
-|  | ----- | ------ | ----------- | ----- |
 
-{ .block-language-dataview}
+>[!example]- **Spiele mit Bezug zur Kompetenz:**
+>```dataview
+TABLE WITHOUT ID "![Test|100](" + cover-img +")" AS "", file.link as "Spiel",  topic as "Themen", competences as "Kompetenzen", in_grade as "Jgst."
+FROM "99_Garden" AND [[]]
 
 
 ---
-Zuletzt bearbeitet am: 19/06/2024, 10:13
+Zuletzt bearbeitet am: 26/06/2024, 10:24

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/life-is-strange/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":" Spielesammlung/Life is Strange.md","permalink":"/spielesammlung/life-is-strange/","noteIcon":"1"}
 ---
 
 ---
@@ -8,8 +8,8 @@
 >**Erscheinungsjahr:** 2015
 >**Entwickler:** Don't Nod
 >**Herausgeber:** Square Enix
->**Altersfreigabe:** 12+
->**Plattformen:** Android,iOS,Linux,MacOS,Playstation 4,Windows,Xbox One
+>**Altersfreigabe:** [[01_Background/USK/12+\|12+]]
+>**Plattformen:** [[01_Background/Plattformen/Android\|Android]],[[01_Background/Plattformen/iOS\|iOS]],[[01_Background/Plattformen/Linux\|Linux]],[[01_Background/Plattformen/MacOS\|MacOS]],[[01_Background/Plattformen/Playstation 4\|Playstation 4]],[[01_Background/Plattformen/Windows\|Windows]],[[01_Background/Plattformen/Xbox One\|Xbox One]]
 
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
@@ -21,11 +21,12 @@
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/gnVJjRVLYnk?si=hqoaK9qzY36zipUi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-# Über Das Spiel:
-
-## Didaktische Anbindung:
-
-## Links:
+## Über Das Spiel:
+Life is Strange ist ein episodisches Adventure-Spiel, in dem der/die Spieler\*in die Studentin Max Caulfield steuert, die die Fähigkeit entdeckt, die Zeit zurückzudrehen. Mit dieser Kraft muss sie das Leben ihrer besten Freundin Chloe retten und die mysteriösen Ereignisse in ihrer Heimatstadt Arcadia Bay aufdecken.
+### Didaktische Anbindung:
+- [ ] #SHK 
+### Links:
+[Offizielle Webseite](https://lifeisstrange.square-enix-games.com/en-gb)
 
 ---
-Zuletzt bearbeitet am: 13/06/2024, 13:40
+Zuletzt bearbeitet am: 27/06/2024, 11:26

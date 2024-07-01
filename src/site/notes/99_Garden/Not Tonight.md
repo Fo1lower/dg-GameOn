@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/not-tonight/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":" Spielesammlung/Not Tonight.md","permalink":"/spielesammlung/not-tonight/","noteIcon":"1"}
 ---
 
 ---
@@ -8,8 +8,8 @@
 >**Erscheinungsjahr:** 2018
 >**Entwickler:** PanicBarn
 >**Herausgeber:** No More Robots
->**Altersfreigabe:** Kein Rating
->**Plattformen:** Nintendo Switch,Windows
+>**Altersfreigabe:** [[01_Background/USK/Kein Rating\|Kein Rating]]
+>**Plattformen:** [[01_Background/Plattformen/Nintendo Switch\|Nintendo Switch]],[[01_Background/Plattformen/Windows\|Windows]]
 
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
@@ -21,11 +21,12 @@
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/a8jtPQY3_fw?si=oPBjXO7aaLljVITj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-# Über Das Spiel:
-
-## Didaktische Anbindung:
-
-## Links:
+## Über Das Spiel:
+Not Tonight ist ein Rollenspiel mit düsterem Humor, das den/die Spieler\*in in ein alternatives Großbritannien nach dem Brexit versetzt. Man schlüpft in die Rolle eines europäischen Bürgers, der seine Staatsbürgerschaft verloren hat und nun als Bouncer arbeiten muss, um zu überleben und ins "richtige" Großbritannien zurückkehren zu können.
+### Didaktische Anbindung:
+- [ ] #SHK 
+### Links:
+[Steam-Page](https://store.steampowered.com/app/733790/Not_Tonight/?l=german)
 
 ---
-Zuletzt bearbeitet am: 13/06/2024, 13:40
+Zuletzt bearbeitet am: 27/06/2024, 11:26

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-background/themen/natur-and-umwelt/","tags":["topic"],"noteIcon":"1"}
+{"dg-publish":true,"dg-path":" Hintergrundwissen/Themen/Natur & Umwelt.md","permalink":"/hintergrundwissen/themen/natur-and-umwelt/","tags":["topic"],"noteIcon":"1"}
 ---
 
 ## Themenkomplex: Natur & Umwelt

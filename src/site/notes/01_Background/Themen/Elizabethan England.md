@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-background/themen/elizabethan-england/","tags":["topic"],"noteIcon":"1"}
+{"dg-publish":true,"dg-path":" Hintergrundwissen/Themen/Elizabethan England.md","permalink":"/hintergrundwissen/themen/elizabethan-england/","tags":["topic"],"noteIcon":"1"}
 ---
 
 ## Themenkomplex: Shakespeare and Elizabethan England

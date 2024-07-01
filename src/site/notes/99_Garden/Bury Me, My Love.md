@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/bury-me-my-love/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":" Spielesammlung/Bury Me, My Love.md","permalink":"/spielesammlung/bury-me-my-love/","noteIcon":"1"}
 ---
 
 ---
@@ -8,8 +8,8 @@
 >**Erscheinungsjahr:** 2017
 >**Entwickler:** ARTE France
 >**Herausgeber:** Plug In Digital
->**Altersfreigabe:** Kein Rating
->**Plattformen:** Android,iOS,Nintendo Switch,Windows
+>**Altersfreigabe:** [[01_Background/USK/Kein Rating\|Kein Rating]]
+>**Plattformen:** [[01_Background/Plattformen/Android\|Android]],[[01_Background/Plattformen/iOS\|iOS]],[[01_Background/Plattformen/Nintendo Switch\|Nintendo Switch]],[[01_Background/Plattformen/Windows\|Windows]]
 
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
@@ -21,11 +21,16 @@
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/PKVns6TahJk?si=6sYxpRo0EDx5yL4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-# Über Das Spiel:
+## Über Das Spiel:
+Bury Me, My Love ist ein interaktives narratives Spiel für Mobiltelefone. Der/Die Spieler\*in übernimmt die Rolle von Majd, einem Mann in Europa, der per SMS mit seiner Frau Nour kommuniziert, die auf einer gefährlichen Reise Richtung Europa ist. Durch die Nachrichten erfährt der/die Spieler\*in von ihren Erlebnissen, Ängsten und Hoffnungen und muss moralische Entscheidungen für Majd treffen, die Nour's Reise beeinflussen.
 
-## Didaktische Anbindung:
+### Didaktische Anbindung:
+- [ ] #SHK 
+### Links:
+[Webseite von ARTE (Prologue kostenlos)]([https://burymemylove.arte.tv/](https://burymemylove.arte.tv/))
+[iOS App Store](https://itunes.apple.com/us/app/bury-me-my-love/id1281473147)
+[Google Play Store](https://play.google.com/store/apps/details?id=com.plug_in_digital.emma)
 
-## Links:
 
 ---
-Zuletzt bearbeitet am: 13/06/2024, 11:42
+Zuletzt bearbeitet am: 27/06/2024, 11:26

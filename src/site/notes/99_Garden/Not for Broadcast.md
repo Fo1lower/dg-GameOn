@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/not-for-broadcast/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":" Spielesammlung/Not for Broadcast.md","permalink":"/spielesammlung/not-for-broadcast/","noteIcon":"1"}
 ---
 
 ---
@@ -8,8 +8,8 @@
 >**Erscheinungsjahr:** 2022
 >**Entwickler:** NotGames
 >**Herausgeber:** tinyBuild
->**Altersfreigabe:** 16+
->**Plattformen:** Playstation 4,Windows,Xbox One
+>**Altersfreigabe:** [[01_Background/USK/16+\|16+]]
+>**Plattformen:** [[01_Background/Plattformen/Playstation 4\|Playstation 4]],[[01_Background/Plattformen/Windows\|Windows]],[[01_Background/Plattformen/Xbox One\|Xbox One]]
 
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
@@ -21,11 +21,12 @@
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/Ey_Ips4WId8?si=29h7X8BvFeX-lK9J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-# Über Das Spiel:
-
-## Didaktische Anbindung:
-
-## Links:
+## Über Das Spiel:
+Not For Broadcast ist ein satirischer Simulator, der den/die Spieler\*in hinter die Kulissen einer chaotischen Live-Nachrichtensendung wirft. Als Regisseur\*in steuerst du, was auf Sendung geht: blende unpassende Äußerungen aus, halte die Werbetreibenden bei Laune und sorge dafür, dass die Show trotz aller Absurditäten weiterläuft.
+### Didaktische Anbindung:
+- [ ] #SHK 
+### Links:
+[Offizielle Webseite](https://www.notforbroadcastgame.com)
 
 ---
-Zuletzt bearbeitet am: 13/06/2024, 13:40
+Zuletzt bearbeitet am: 27/06/2024, 11:26
