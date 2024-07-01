@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" Spielesammlung/Bury Me, My Love.md","permalink":"/spielesammlung/bury-me-my-love/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/99-garden/bury-me-my-love/","noteIcon":"1"}
 ---
 
 ---

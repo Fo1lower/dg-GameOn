@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" Hintergrundwissen/Themen/United Kingdom.md","permalink":"/hintergrundwissen/themen/united-kingdom/","tags":["topic"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/01-background/themen/united-kingdom/","tags":["topic"],"noteIcon":"1"}
 ---
 
 ## Themenkomplex: Großbritannien

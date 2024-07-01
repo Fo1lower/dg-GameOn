@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" Hintergrundwissen/Themen/Work and Education.md","permalink":"/hintergrundwissen/themen/work-and-education/","tags":["topic"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/01-background/themen/work-and-education/","tags":["topic"],"noteIcon":"1"}
 ---
 
 ## Themenkomplex: Berufs- und Arbeitswelt (Sek 1)

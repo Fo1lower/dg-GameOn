@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" Spielesammlung/Not Tonight.md","permalink":"/spielesammlung/not-tonight/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/99-garden/not-tonight/","noteIcon":"1"}
 ---
 
 ---

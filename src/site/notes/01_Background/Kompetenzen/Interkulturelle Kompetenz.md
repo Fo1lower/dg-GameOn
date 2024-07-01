@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" Hintergrundwissen/Kompetenzen/Interkulturelle Kompetenz.md","permalink":"/hintergrundwissen/kompetenzen/interkulturelle-kompetenz/","tags":["competence"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/01-background/kompetenzen/interkulturelle-kompetenz/","tags":["competence"],"noteIcon":"1"}
 ---
 
 ## Interkulturelle Kompetenz

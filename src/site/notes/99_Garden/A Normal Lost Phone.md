@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" Spielesammlung/A Normal Lost Phone.md","permalink":"/spielesammlung/a-normal-lost-phone/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/99-garden/a-normal-lost-phone/","noteIcon":"1"}
 ---
 
 ## A Normal Lost Phone

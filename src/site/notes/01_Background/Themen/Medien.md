@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" Hintergrundwissen/Themen/Medien.md","permalink":"/hintergrundwissen/themen/medien/","tags":["topic"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/01-background/themen/medien/","tags":["topic"],"noteIcon":"1"}
 ---
 
 ## Themenkomplex: Medien

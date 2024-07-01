@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" Spielelisten/List Overview.md","permalink":"/spielelisten/list-overview/","title":"Listenübersicht","pinned":true,"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/00-lists/list-overview/","title":"Listenübersicht","pinned":true,"noteIcon":"2"}
 ---
 
 | Liste                                                             | Zuletzt bearbeitet |

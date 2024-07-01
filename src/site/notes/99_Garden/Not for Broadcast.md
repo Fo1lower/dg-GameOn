@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" Spielesammlung/Not for Broadcast.md","permalink":"/spielesammlung/not-for-broadcast/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/99-garden/not-for-broadcast/","noteIcon":"1"}
 ---
 
 ---

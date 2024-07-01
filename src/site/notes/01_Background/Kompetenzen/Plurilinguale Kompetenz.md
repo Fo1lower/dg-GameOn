@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" Hintergrundwissen/Kompetenzen/Plurilinguale Kompetenz.md","permalink":"/hintergrundwissen/kompetenzen/plurilinguale-kompetenz/","tags":["competence"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/01-background/kompetenzen/plurilinguale-kompetenz/","tags":["competence"],"noteIcon":"1"}
 ---
 
 ## Plurilinguale Kompetenz

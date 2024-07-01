@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" Hintergrundwissen/Themen/Soziales Leben.md","permalink":"/hintergrundwissen/themen/soziales-leben/","tags":["topic"],"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/01-background/themen/soziales-leben/","tags":["topic"],"noteIcon":"1"}
 ---
 
 ## Themenkomplex: Soziales Leben
