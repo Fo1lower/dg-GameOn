@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/planet-alpha/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Spielesammlung/Planet Alpha.md","permalink":"/spielesammlung/planet-alpha/","noteIcon":"1"}
 ---
 
 ---

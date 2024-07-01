@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-background/kompetenzen/sprachlernkompetenz/","tags":["competence"],"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Kompetenzen/Sprachlernkompetenz.md","permalink":"/hintergrundwissen/kompetenzen/sprachlernkompetenz/","tags":["competence"],"noteIcon":"1"}
 ---
 
 ## Sprachlernkompetenz

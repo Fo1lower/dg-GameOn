@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-background/kompetenzen/sprachbewusstheit/","tags":["competence"],"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Kompetenzen/Sprachbewusstheit.md","permalink":"/hintergrundwissen/kompetenzen/sprachbewusstheit/","tags":["competence"],"noteIcon":"1"}
 ---
 
 ## Sprachbewusstheit

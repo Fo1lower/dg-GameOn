@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/easy-level-life/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Spielesammlung/Easy Level Life.md","permalink":"/spielesammlung/easy-level-life/","noteIcon":"1"}
 ---
 
 ---

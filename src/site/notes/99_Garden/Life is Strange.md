@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/life-is-strange/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Spielesammlung/Life is Strange.md","permalink":"/spielesammlung/life-is-strange/","noteIcon":"1"}
 ---
 
 ---

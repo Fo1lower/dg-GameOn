@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/sea-of-solitude/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Spielesammlung/Sea of Solitude.md","permalink":"/spielesammlung/sea-of-solitude/","noteIcon":"1"}
 ---
 
 ---

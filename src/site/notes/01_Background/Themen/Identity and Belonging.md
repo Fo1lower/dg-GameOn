@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-background/themen/identity-and-belonging/","tags":["topic"],"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Identity and Belonging.md","permalink":"/hintergrundwissen/themen/identity-and-belonging/","tags":["topic"],"noteIcon":"1"}
 ---
 
 ## Themenkomplex: Alltags-, Freizeit- und Lebensgestaltung // Identity and Belonging

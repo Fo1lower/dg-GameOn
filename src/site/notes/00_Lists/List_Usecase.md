@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-lists/list-usecase/","title":"Spiele nach Einsatzmöglichkeit","noteIcon":"2"}
+{"dg-publish":true,"dg-path":"Spielelisten/List_Usecase.md","permalink":"/spielelisten/list-usecase/","title":"Spiele nach Einsatzmöglichkeit","noteIcon":"2"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-background/kompetenzen/text-und-medienkompetenz/","tags":["#competence"],"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Kompetenzen/Text- und Medienkompetenz.md","permalink":"/hintergrundwissen/kompetenzen/text-und-medienkompetenz/","tags":["#competence"],"noteIcon":"1"}
 ---
 
 ## Text- Und Medienkompetenz

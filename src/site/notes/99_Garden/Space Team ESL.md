@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/space-team-esl/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Spielesammlung/Space Team ESL.md","permalink":"/spielesammlung/space-team-esl/","noteIcon":"1"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-background/themen/zukunftsvisionen/","tags":["topic"],"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Zukunftsvisionen.md","permalink":"/hintergrundwissen/themen/zukunftsvisionen/","tags":["topic"],"noteIcon":"1"}
 ---
 
 ## Themenkomplex: Zukunftsvisionen

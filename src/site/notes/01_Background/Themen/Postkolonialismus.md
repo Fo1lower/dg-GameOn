@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-background/themen/postkolonialismus/","tags":["topic"],"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Postkolonialismus.md","permalink":"/hintergrundwissen/themen/postkolonialismus/","tags":["topic"],"noteIcon":"1"}
 ---
 
 ## Themenkomplex: Postkolonialismus

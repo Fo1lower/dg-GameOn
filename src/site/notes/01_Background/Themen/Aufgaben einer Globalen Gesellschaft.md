@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-background/themen/aufgaben-einer-globalen-gesellschaft/","tags":["topic"],"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Aufgaben einer Globalen Gesellschaft.md","permalink":"/hintergrundwissen/themen/aufgaben-einer-globalen-gesellschaft/","tags":["topic"],"noteIcon":"1"}
 ---
 
 ## Themenkomplex: Aufgaben einer Globalen Gesellschaft

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/keep-talking-and-nobody-explodes/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Spielesammlung/Keep Talking and Nobody Explodes.md","permalink":"/spielesammlung/keep-talking-and-nobody-explodes/","noteIcon":"1"}
 ---
 
 ---

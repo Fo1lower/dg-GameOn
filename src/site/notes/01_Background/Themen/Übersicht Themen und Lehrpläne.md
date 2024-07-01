@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-background/themen/uebersicht-themen-und-lehrplaene/","pinned":true,"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Übersicht Themen und Lehrpläne.md","permalink":"/hintergrundwissen/themen/uebersicht-themen-und-lehrplaene/","pinned":true,"noteIcon":"1"}
 ---
 
 ## Thematische Schwerpunkte des Englischunterrichts

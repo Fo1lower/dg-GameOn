@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-background/kompetenzen/fremdsprachenspezifische-digitale-kompetenz/","tags":["competence"],"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Kompetenzen/Fremdsprachenspezifische digitale Kompetenz.md","permalink":"/hintergrundwissen/kompetenzen/fremdsprachenspezifische-digitale-kompetenz/","tags":["competence"],"noteIcon":"1"}
 ---
 
 ## Fremdsprachenspezifische Digitale Kompetenz

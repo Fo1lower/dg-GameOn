@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/stardew-valley/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Spielesammlung/Stardew Valley.md","permalink":"/spielesammlung/stardew-valley/","noteIcon":"1"}
 ---
 
 ---

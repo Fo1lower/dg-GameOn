@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/among-us/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Spielesammlung/Among Us.md","permalink":"/spielesammlung/among-us/","noteIcon":"1"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-background/themen/usa/","tags":["topic"],"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/USA.md","permalink":"/hintergrundwissen/themen/usa/","tags":["topic"],"noteIcon":"1"}
 ---
 
 ## Themenkomplex: USA

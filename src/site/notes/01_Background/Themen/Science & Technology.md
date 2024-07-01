@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-background/themen/science-and-technology/","tags":["topic"],"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Science & Technology.md","permalink":"/hintergrundwissen/themen/science-and-technology/","tags":["topic"],"noteIcon":"1"}
 ---
 
 ## Themenkomplex: Science and Technology

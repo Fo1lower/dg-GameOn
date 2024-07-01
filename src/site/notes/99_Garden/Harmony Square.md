@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-garden/harmony-square/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Spielesammlung/Harmony Square.md","permalink":"/spielesammlung/harmony-square/","noteIcon":"1"}
 ---
 
 ---
