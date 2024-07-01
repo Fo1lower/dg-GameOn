@@ -6,10 +6,11 @@
 
 
 >[!example]- **Spiele mit Bezug zur Kompetenz:**
->```dataview
-TABLE WITHOUT ID "![Test|100](" + cover-img +")" AS "", file.link as "Spiel",  topic as "Themen", competences as "Kompetenzen", in_grade as "Jgst."
-FROM "99_Garden" AND [[]]
+> |  | Spiel | Themen | Kompetenzen | Jgst. |
+> |  | ----- | ------ | ----------- | ----- |
+> 
+{ .block-language-dataview}
 
 
 ---
-Zuletzt bearbeitet am: 26/06/2024, 10:24
+Zuletzt bearbeitet am: 01/07/2024, 13:31
