@@ -14,7 +14,7 @@
 
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Kommunikative Strategien\|Kommunikative Strategien]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]
->**Thematische Anbindung:** `=default(this.topic,"")`
+>**Thematische Anbindung:** \-
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]]
 >**Jahrgangstufe:** 8-10
 
@@ -34,4 +34,4 @@ Among Us ist ein Online-Multiplayer-Spiel für 4 bis 10 Spieler\*innen, in dem 
 
 
 ---
-Zuletzt bearbeitet am: 01/07/2024, 14:15
+Zuletzt bearbeitet am: 01/07/2024, 14:22
