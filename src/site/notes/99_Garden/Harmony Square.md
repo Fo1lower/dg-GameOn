@@ -14,12 +14,8 @@
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Aufgaben einer Globalen Gesellschaft\|Aufgaben einer Globalen Gesellschaft]],[[01_Background/Themen/Medien\|Medien]]
->**Einsatz als:** Artefakt,Text
+>**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Artefakt\|Artefakt]],[[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 8-10,Q1/2
-
->[!hint]+ Spieltrailer:
->`=this.trailer-embed`
-
 
 ## Über Das Spiel:
 Harmony Square ist ein Spiel mit Desinformations-Thematik. Spieler\*innen übernehmen die Rolle eines Mitarbeiters, der für Harmonie im fiktiven Ort Harmony Square sorgen soll. Allerdings geht es nicht um echte Harmonie, sondern darum, Spannungen zwischen verschiedenen Gruppen zu schüren und Desinformation zu verbreiten.
@@ -29,4 +25,4 @@ Harmony Square ist ein Spiel mit Desinformations-Thematik. Spieler\*innen über
 [spielbar auf Developerseite](https://harmonysquare.game)
 
 ---
-Zuletzt bearbeitet am: 27/06/2024, 11:26
+Zuletzt bearbeitet am: 01/07/2024, 14:15

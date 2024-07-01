@@ -14,7 +14,7 @@
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]]
->**Einsatz als:** Text
+>**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 8-10,Q1/2
 
 >[!hint]+ Spieltrailer:
@@ -29,4 +29,4 @@ Sea of Solitude entführt den/die Spieler\*in in eine wunderschöne, aber melan
 [Offizielle Webseite](https://www.ea.com/en-gb/games/sea-of-solitude)
 
 ---
-Zuletzt bearbeitet am: 27/06/2024, 11:21
+Zuletzt bearbeitet am: 01/07/2024, 14:15

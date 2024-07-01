@@ -14,7 +14,7 @@
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Aufgaben einer Globalen Gesellschaft\|Aufgaben einer Globalen Gesellschaft]],[[01_Background/Themen/Identity and Belonging\|Identity and Belonging]]
->**Einsatz als:** Text
+>**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 8-10,Q1/2
 
 >[!hint]+ Spieltrailer:
@@ -33,4 +33,4 @@ Bury Me, My Love ist ein interaktives narratives Spiel für Mobiltelefone. Der
 
 
 ---
-Zuletzt bearbeitet am: 27/06/2024, 11:26
+Zuletzt bearbeitet am: 01/07/2024, 14:15

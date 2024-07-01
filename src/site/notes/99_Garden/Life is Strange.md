@@ -14,7 +14,7 @@
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]],[[01_Background/Themen/Soziales Leben\|Soziales Leben]],[[01_Background/Themen/USA\|USA]]
->**Einsatz als:** Text
+>**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
 
 >[!hint]+ Spieltrailer:
@@ -29,4 +29,4 @@ Life is Strange ist ein episodisches Adventure-Spiel, in dem der/die Spieler\*i
 [Offizielle Webseite](https://lifeisstrange.square-enix-games.com/en-gb)
 
 ---
-Zuletzt bearbeitet am: 27/06/2024, 11:26
+Zuletzt bearbeitet am: 01/07/2024, 14:15

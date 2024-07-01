@@ -5,7 +5,7 @@
 ---
 >[!info]+ Informationen:
 ><img src="https://img.itch.zone/aW1hZ2UvNzU0NDYvMzQ5NjA5LmdpZg==/794x1000/2QcqJx.gif" style="float:left;height:175px;padding-right:10px">**Titel:** Easy Level Life
->**Erscheinungsjahr:** `=dateformat(date(this.release_date), "yyyy")`
+>**Erscheinungsjahr:** 2016
 >**Entwickler:** DE Team
 >**Herausgeber:** DE Team
 >**Altersfreigabe:** [[01_Background/USK/Kein Rating\|Kein Rating]]
@@ -14,7 +14,7 @@
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Aufgaben einer Globalen Gesellschaft\|Aufgaben einer Globalen Gesellschaft]],[[01_Background/Themen/Identity and Belonging\|Identity and Belonging]],[[01_Background/Themen/USA\|USA]]
->**Einsatz als:** Artefakt,Text
+>**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Artefakt\|Artefakt]],[[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 8-10
 
 ## Über Das Spiel:
@@ -25,5 +25,5 @@ Easy Level Life ist ein sehr kurzes Erlebnisspiel für PC, in dem der/die Spiel
 [kostenlos spielbar auf itch.io]([https://timecube.itch.io/easy-level-life](https://timecube.itch.io/easy-level-life))
 
 ---
-Zuletzt bearbeitet am: 27/06/2024, 11:26
+Zuletzt bearbeitet am: 01/07/2024, 13:59
 

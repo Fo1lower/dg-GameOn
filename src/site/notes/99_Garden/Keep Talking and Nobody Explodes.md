@@ -13,8 +13,8 @@
 
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Kommunikative Strategien\|Kommunikative Strategien]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Mediation\|Mediation]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]
->**Thematische Anbindung:** `=this.topic`
->**Einsatz als:** Aufgabe
+>**Thematische Anbindung:** `=default(this.topic,"")`
+>**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]]
 >**Jahrgangstufe:** 8-10,Q1/2
 
 >[!hint]+ Spieltrailer:
@@ -29,4 +29,4 @@ Keep Talking and Nobody Explodes ist ein kooperatives Puzzle-Spiel für zwei ode
 [Offizielle Webseite](https://keeptalkinggame.com)
 
 ---
-Zuletzt bearbeitet am: 27/06/2024, 11:26
+Zuletzt bearbeitet am: 01/07/2024, 14:15

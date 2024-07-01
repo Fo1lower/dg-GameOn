@@ -14,7 +14,7 @@
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Medien\|Medien]]
->**Einsatz als:** Aufgabe,Text
+>**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]],[[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
 
 >[!hint]+ Spieltrailer:
@@ -29,4 +29,4 @@ Not For Broadcast ist ein satirischer Simulator, der den/die Spieler\*in hinter
 [Offizielle Webseite](https://www.notforbroadcastgame.com)
 
 ---
-Zuletzt bearbeitet am: 27/06/2024, 11:26
+Zuletzt bearbeitet am: 01/07/2024, 14:15

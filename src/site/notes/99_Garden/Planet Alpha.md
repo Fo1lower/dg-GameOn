@@ -14,7 +14,7 @@
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]]
 >**Thematische Anbindung:** [[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
->**Einsatz als:** Aufgabe,Text
+>**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]],[[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 8-10,Q1/2
 
 >[!hint]+ Spieltrailer:
@@ -29,4 +29,4 @@ Planet Alpha ist ein actionreiches 2D-Side-Scroller mit Puzzle-Elementen, in de
 [Offizielle Webseite](https://www.team17.com/games/planet-alpha/)
 
 ---
-Zuletzt bearbeitet am: 27/06/2024, 11:21
+Zuletzt bearbeitet am: 01/07/2024, 14:15

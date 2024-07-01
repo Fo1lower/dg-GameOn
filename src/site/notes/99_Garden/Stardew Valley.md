@@ -14,7 +14,7 @@
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Kommunikative Strategien\|Kommunikative Strategien]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]
 >**Thematische Anbindung:** [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]],[[01_Background/Themen/Natur & Umwelt\|Natur & Umwelt]],[[01_Background/Themen/Soziales Leben\|Soziales Leben]]
->**Einsatz als:** Aufgabe
+>**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]]
 >**Jahrgangstufe:** 8-10
 
 >[!hint]+ Spieltrailer:
@@ -29,4 +29,4 @@ Stardew Valley entführt Player in die idyllische Welt von Pelican Town, wo sie
 [Offizielle Webseite](https://www.stardewvalley.net)
 
 ---
-Zuletzt bearbeitet am: 27/06/2024, 11:21
+Zuletzt bearbeitet am: 01/07/2024, 14:15

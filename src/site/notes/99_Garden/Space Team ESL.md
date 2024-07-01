@@ -13,13 +13,9 @@
 
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Kommunikative Strategien\|Kommunikative Strategien]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]
->**Thematische Anbindung:** `=this.topic`
->**Einsatz als:** Aufgabe
+>**Thematische Anbindung:** `=default(this.topic,"")`
+>**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]]
 >**Jahrgangstufe:** 5-7,8-10,Q1/2
-
->[!hint]+ Spieltrailer:
->`=this.trailer-embed`
-
 
 ## Über Das Spiel:
 Space Team ESL ist ein Lernspiel der Concordia University. In dem Spiel bilden 2-4 Player die Crew eines Raumschiffs und arbeiten zusammen an den Anweisungen auf den jeweiligen Bildschirmen. Erfolg in Space Team ESL erfordert effiziente Kommunikation und Teamarbeit.
@@ -32,4 +28,4 @@ Space Team ESL ist ein Lernspiel der Concordia University. In dem Spiel bilden 2
 
 
 ---
-Zuletzt bearbeitet am: 27/06/2024, 11:21
+Zuletzt bearbeitet am: 01/07/2024, 14:15

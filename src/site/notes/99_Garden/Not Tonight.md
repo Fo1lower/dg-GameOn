@@ -14,7 +14,7 @@
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/United Kingdom\|United Kingdom]],[[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
->**Einsatz als:** Artefakt,Text
+>**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Artefakt\|Artefakt]],[[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
 
 >[!hint]+ Spieltrailer:
@@ -29,4 +29,4 @@ Not Tonight ist ein Rollenspiel mit düsterem Humor, das den/die Spieler\*in i
 [Steam-Page](https://store.steampowered.com/app/733790/Not_Tonight/?l=german)
 
 ---
-Zuletzt bearbeitet am: 27/06/2024, 11:26
+Zuletzt bearbeitet am: 01/07/2024, 14:15
