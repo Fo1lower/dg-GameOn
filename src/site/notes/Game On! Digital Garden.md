@@ -15,7 +15,7 @@ Die Website folgt dem Prinzip eines [Digital Garden](https://nesslabs.com/digita
 #### Wo geht es weiter?
 
 - [[Navigation Digital Garden\|Mehr Informationen zur Navigation des Digital Garden]]
-- [[Getting Started\|Grundbegriffe des Videospielbasierten Fremdsprachenunterrichts]]
+- [[01_Background/Grundbegriffe/Getting Started\|Grundbegriffe des Videospielbasierten Fremdsprachenunterrichts]]
 - [[00_Lists/List Overview\|Listen von Spielen nach Jahrgangsstufe, Kompetenzen, Themen, etc.]]
 - Infos zum Game On Projekt
 
@@ -26,6 +26,8 @@ Die Website folgt dem Prinzip eines [Digital Garden](https://nesslabs.com/digita
 [Dr. Daniel Becker](https://www.uni-muenster.de/Anglistik/Research/Tefl/team/daniel_becker.html) ist ausgebildeter Lehrer, Post-Doc-Researcher und Dozierender and der Universität Münster. Er publiziert unter anderem zu Themen der Literatur- und Kulturdidaktik, Mental Health im Englischunterricht, sowie zum Einsatz von Videospielen im Fremdsprachenunterricht. 
 
 [Prof. Dr. Frauke Matz](https://www.uni-muenster.de/Anglistik/Research/Tefl/team/Prof._Dr._Frauke_Matz) leitet als Inhaberin des Lehrstuhls für englische Fachdidaktik an der Universität Münster das Game On! Projekt. Ihr Team steht besonders für praxisorientierte und theoretisch fundierte Forschung im Bereich des Fremdsprachenlernens.
+
+Florian Grannaß und Nico Schubert arbeiten als studentische Hilfskräfte im Projekt an der Pflege dieser Seite mit.
 
 #### FAQ:
 
@@ -43,4 +45,4 @@ Das Projekt Game On! ist Teil des Verbundsprojekts [ViFoNET](https://vifonet.de/
 ![FKZ_EU.png](/img/user/-_Media/FKZ_EU.png)
 
 ---
-Zuletzt bearbeitet am: 20/06/2024, 13:33
+Zuletzt bearbeitet am: 01/07/2024, 14:33

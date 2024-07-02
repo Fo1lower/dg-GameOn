@@ -6,7 +6,7 @@ Ein Digital Garden funktioniert anders als ein klassisches Blog oder Wiki. Getre
 
 >[!faq] Wo fange ich am besten an?
 > Einen guten Startpunkt für die konkrete Suche nach Spielen für den Unterricht bietet die [[00_Lists/List Overview\|Listenübersicht]]. Dort können Spiele nach verschiedensten Auflistungen durchsucht werden. 
-> Einen inhaltlichen Einstieg in das Thema **videospielbasierter Fremdsprachenunterricht** bietet die Seite [[Getting Started\|Getting Started]].
+> Einen inhaltlichen Einstieg in das Thema **videospielbasierter Fremdsprachenunterricht** bietet die Seite [[01_Background/Grundbegriffe/Getting Started\|Getting Started]].
 ## Seitensymbole
 Der Bearbeitungsstand der jeweiligen Seite kann über Ihr Symbol in der rechten Navigation[](Getting%20Started.md)en werden:
 <img src="https://raw.githubusercontent.com/oleeskild/digitalgarden/3d0155d9923c36f3637f87bf45b7142c6162e608/src/site/img/tree-1.svg" style="float:left;height:100px;padding-right:10px">

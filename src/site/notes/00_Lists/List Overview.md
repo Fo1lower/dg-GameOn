@@ -4,8 +4,8 @@
 
 | Liste                                                             | Zuletzt bearbeitet |
 | ----------------------------------------------------------------- | ------------------ |
-| [[00_Lists/List_Games by Competence\|Spiele nach Kompetenzen]] | 01/07/2024, 14:22  |
-| [[00_Lists/List_Jgst\|Spiele nach Jahrgangsstufe]]             | 01/07/2024, 14:23  |
+| [[00_Lists/List_Games by Competence\|Spiele nach Kompetenzen]] | 01/07/2024, 14:35  |
+| [[00_Lists/List_Jgst\|Spiele nach Jahrgangsstufe]]             | 01/07/2024, 14:35  |
 | [[00_Lists/List_Usecase\|Spiele nach Einsatzmöglichkeit]]      | 01/07/2024, 14:20  |
 
 { .block-language-dataview}
