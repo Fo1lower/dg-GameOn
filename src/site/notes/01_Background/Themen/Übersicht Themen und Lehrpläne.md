@@ -14,24 +14,24 @@ Da sich die Art und Weise, in welcher die Länder Themen vorgeben teils deutlich
 Auf den Seiten der Themenkomplexe finden sich neben weiterführenden Informationen und referenzierenden Materialien auch die konkreten Verweise auf die Lehrpläne der Länder.
 
 #### Themenkomplexe:
-- [[01_Background/Themen/Aufgaben einer Globalen Gesellschaft\|Aufgaben einer Globalen Gesellschaft]]
-- [[01_Background/Themen/Elizabethan England\|Elizabethan England]]
-- [[01_Background/Themen/Medien\|Medien]]
+- [[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
+- [[01_Background/Themen/United Kingdom\|United Kingdom]]
+- [[01_Background/Themen/Work and Education\|Work and Education]]
+- [[01_Background/Themen/USA\|USA]]
+- [[01_Background/Themen/Soziales Leben\|Soziales Leben]]
 - [[01_Background/Themen/Postkolonialismus\|Postkolonialismus]]
 - [[01_Background/Themen/Science & Technology\|Science & Technology]]
-- [[01_Background/Themen/Soziales Leben\|Soziales Leben]]
-- [[01_Background/Themen/USA\|USA]]
-- [[01_Background/Themen/United Kingdom\|United Kingdom]]
-- [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]]
+- [[01_Background/Themen/Medien\|Medien]]
 - [[01_Background/Themen/Natur & Umwelt\|Natur & Umwelt]]
-- [[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
-- [[01_Background/Themen/Work and Education\|Work and Education]]
+- [[01_Background/Themen/Elizabethan England\|Elizabethan England]]
+- [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]]
+- [[01_Background/Themen/Aufgaben einer Globalen Gesellschaft\|Aufgaben einer Globalen Gesellschaft]]
 
 { .block-language-dataview}
 ### Lehrpläne Sekundarstufe 1:
 - [NRW](https://www.schulentwicklung.nrw.de/lehrplaene/lehrplan/199/g9_e_klp_%203417_2019_06_23.pdf ) 
 - [Bremen](https://www.lis.bremen.de/schulqualitaet/bildungsplaene/sekundarbereich-i-15226)
-- [Hamburg](https://www.hamburg.de/contentblob/16762912/95cfa12393ecd6eb8c2d88921640fe3b/data/englisch-gym-seki-2022.pdf)
+- [Hamburg](https://www.hamburg.de/resource/blob/122938/ea8fcb338d06e068c1e13091afa61761/englisch-gym-seki-2022-data.pdf)
 - [Schleswig-Holstein](https://fachportal.lernnetz.de/sh/fachanforderungen/englisch.html)
 - [Berlin / Brandenburg](https://bildungsserver.berlin-brandenburg.de/fileadmin/bbb/unterricht/rahmenlehrplaene/Rahmenlehrplanprojekt/amtliche_Fassung/Teil_C_Mod_Fremdsprachen_2015_11_16_web.pdf)
 - [Mecklenburg-Vorpommern](https://www.bildung-mv.de/export/sites/bildungsserver/downloads/unterricht/rahmenplaene_allgemeinbildende_schulen/Englisch/RP_EN_AHR_7-10.pdf)
@@ -56,4 +56,4 @@ Auf den Seiten der Themenkomplexe finden sich neben weiterführenden Information
 - [Rheinland-Pfalz](https://bildung.rlp.de/lehrplaene/seite/1)
 - [Hessen](https://kultus.hessen.de/sites/kultusministerium.hessen.de/files/2022-09/kcgo_englisch_stand_august_2022_0.pdf)
 ---
-Zuletzt bearbeitet am: 01/07/2024, 11:35
+Zuletzt bearbeitet am: 10/07/2024, 13:16

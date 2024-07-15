@@ -34,5 +34,5 @@ A Normal Lost Phone ist ein narratives Point-and-Click-Adventure-Spiel, in dem 
 
 
 ---
-Zuletzt bearbeitet am: 01/07/2024, 14:09
+Zuletzt bearbeitet am: 03/07/2024, 08:28
 
