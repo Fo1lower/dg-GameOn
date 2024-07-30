@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Spielesammlung/L.A. Noire.md","permalink":"/spielesammlung/l-a-noire/","noteIcon":null}
+{"dg-publish":true,"dg-path":"Spielesammlung/L.A. Noire.md","permalink":"/spielesammlung/l-a-noire/","noteIcon":"1"}
 ---
 
 ---
@@ -22,10 +22,10 @@
 
 
 ## Über Das Spiel:
-
+In dem Spiel "L.A. Noire" müssen die Speilenden die Rolle des Polizeibeamten Cole Phelps einnehmen und eine Reihe von Mordfällen in Los Angeles aufklären. Das Videospiel ist im Stil des "film noir" der 1940er gehalten und fängt die Nachkriegszeit in L.A. ein, die durch Glanz und Glamour, aber auch Korruption und Drogen geprägt war. Neben der Aufklärung der Kriminalfälle und der Karriere Phelps stehen auch seine Erlebnisse im zweiten Weltkrieg in Japan im Fokus. 
 ### Didaktische Anbindung:
 Berger, R., & McDougall, J. (2013).Reading videogames as (authorless) literature. _Literacy_, _47_(3),142-149. [https://onlinelibrary.wiley.com/doi/10.1111/lit.12004](https://onlinelibrary.wiley.com/doi/10.1111/lit.12004) 
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 15/07/2024, 13:04
+Zuletzt bearbeitet am: 30/07/2024, 13:43

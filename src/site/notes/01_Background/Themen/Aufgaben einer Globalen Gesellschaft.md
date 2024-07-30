@@ -18,15 +18,18 @@
 - Chancen und Risiken der Globalisierung (NRW)
 - English als lingua franca (NRW)
 - Globale Herausforderungen und Zukunftsvisionen (NRW)
-- Effects on the World of Work (NS)
-	- Impact on Personal Lives (NS)
-	- Global Responsibility concerning e.g. Politics, the Environment, Economy (NS)
-	- English as a Global Language (NS)
+- Environment, Science and Technology (TH)
+- Politics and Economy (TH) 
+- Effects on the World of Work (NI)
+	- Impact on Personal Lives (NI)
+	- Global Responsibility concerning e.g. Politics, the Environment, Economy (NI)
+	- English as a Global Language (NI)
 - Global Chances and Challenges (HH)
 	- Sustainability
 	- Globalisation
 	- English as a global language
 - Global Challenges (SH)
+- Themen globaler Bedeutung (HB)
 - Contemporary Issues in Society (MV)
 - Interdependency (MV)
 - Environmental Awareness (MV)
@@ -41,4 +44,4 @@
 - Global Challenges (MV)
 
 ---
-Zuletzt bearbeitet am: 19/06/2024, 14:07
+Zuletzt bearbeitet am: 17/07/2024, 14:53

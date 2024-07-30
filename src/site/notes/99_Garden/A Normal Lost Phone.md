@@ -23,7 +23,7 @@
 ## Über Das Spiel:
 A Normal Lost Phone ist ein narratives Point-and-Click-Adventure-Spiel, in dem der/die Spieler\*in die Rolle eines Teenagers übernimmt, der/die das Smartphone einer anderen Person findet. Das Spiel ermutigt die Spieler, das Telefon zu erkunden und die Nachrichten, Fotos und Apps des Besitzers zu durchsuchen, um mehr über dessen Leben, Beziehungen und Geheimnisse zu erfahren.
 ### Didaktische Anbindung:
-- [ ]  #SHK 
+
 ### Links:
 [Developerseite](https://dearvillagers.itch.io/a-normal-lost-phone)
 [iOS App Store](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/de/app/a-normal-lost-phone/id1181828672&ved=2ahUKEwjF5Pa5n_uGAxWo_7sIHefBAegQFnoECDoQAQ&usg=AOvVaw3ejKuA-f1IBRdb0nuYD03X)
@@ -34,5 +34,5 @@ A Normal Lost Phone ist ein narratives Point-and-Click-Adventure-Spiel, in dem 
 
 
 ---
-Zuletzt bearbeitet am: 03/07/2024, 08:28
+Zuletzt bearbeitet am: 30/07/2024, 13:38
 

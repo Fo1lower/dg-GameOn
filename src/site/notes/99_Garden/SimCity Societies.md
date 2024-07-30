@@ -22,10 +22,10 @@
 
 
 ## Über Das Spiel:
-
+SimCity Societies ist ein Städtebau-Spiel mit Fokus auf sozialer Entwicklung. Im Gegensatz zu früheren SimCity-Teilen steht hier nicht die Wirtschaft im Vordergrund, sondern die Bedürfnisse und Wünsche der Bürger. Spieler gestalten ihre Stadt durch die Balance verschiedener Gesellschaftswerte wie Kreativität, Spiritualität oder Autorität.
 ### Didaktische Anbindung:
 Lacasa, P., García-Pernía, M. R., & Núñez, P. (2014). Adolescents Media Experiences in the Classroom: SimCity as a Cultural Model. _Journal of Education and Training Studies_, _2_(1), 103-116. [https://eric.ed.gov/?id=EJ1055115](https://eric.ed.gov/?id=EJ1055115) 
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 15/07/2024, 13:07
+Zuletzt bearbeitet am: 25/07/2024, 11:39

@@ -14,32 +14,39 @@ Da sich die Art und Weise, in welcher die Länder Themen vorgeben teils deutlich
 Auf den Seiten der Themenkomplexe finden sich neben weiterführenden Informationen und referenzierenden Materialien auch die konkreten Verweise auf die Lehrpläne der Länder.
 
 #### Themenkomplexe:
-- [[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
-- [[01_Background/Themen/United Kingdom\|United Kingdom]]
-- [[01_Background/Themen/Work and Education\|Work and Education]]
-- [[01_Background/Themen/USA\|USA]]
-- [[01_Background/Themen/Soziales Leben\|Soziales Leben]]
-- [[01_Background/Themen/Postkolonialismus\|Postkolonialismus]]
-- [[01_Background/Themen/Science & Technology\|Science & Technology]]
-- [[01_Background/Themen/Medien\|Medien]]
-- [[01_Background/Themen/Natur & Umwelt\|Natur & Umwelt]]
-- [[01_Background/Themen/Elizabethan England\|Elizabethan England]]
-- [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]]
 - [[01_Background/Themen/Aufgaben einer Globalen Gesellschaft\|Aufgaben einer Globalen Gesellschaft]]
+- [[01_Background/Themen/Elizabethan England\|Elizabethan England]]
+- [[01_Background/Themen/Medien\|Medien]]
+- [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]]
+- [[01_Background/Themen/Postkolonialismus\|Postkolonialismus]]
+- [[01_Background/Themen/USA\|USA]]
+- [[01_Background/Themen/United Kingdom\|United Kingdom]]
+- [[01_Background/Themen/Science & Technology\|Science & Technology]]
+- [[01_Background/Themen/Work and Education\|Work and Education]]
+- [[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
+- [[01_Background/Themen/Soziales Leben\|Soziales Leben]]
+- [[01_Background/Themen/Natur & Umwelt\|Natur & Umwelt]]
 
 { .block-language-dataview}
 ### Lehrpläne Sekundarstufe 1:
+- [Saarland](https://www.saarland.de/mbk/DE/portale/bildungsserver/unterricht-und-bildungsthemen/lehrplaenehandreichungen/lehrplaeneallgemeinbildende/Gymnasium/Gymnasien_node)
 - [NRW](https://www.schulentwicklung.nrw.de/lehrplaene/lehrplan/199/g9_e_klp_%203417_2019_06_23.pdf ) 
+- [Niedersachsen](https://cuvo.nibis.de/cuvo.php?p=search&k0_0=Fach&v0_0=Englisch&k0_1=Schulbereich&v0_1=Sek+I&k0_2=Dokumentenart&v0_2=Kerncurriculum&)
+-  [Schleswig-Holstein](https://fachportal.lernnetz.de/sh/fachanforderungen/englisch.html)
 - [Bremen](https://www.lis.bremen.de/schulqualitaet/bildungsplaene/sekundarbereich-i-15226)
 - [Hamburg](https://www.hamburg.de/resource/blob/122938/ea8fcb338d06e068c1e13091afa61761/englisch-gym-seki-2022-data.pdf)
-- [Schleswig-Holstein](https://fachportal.lernnetz.de/sh/fachanforderungen/englisch.html)
-- [Berlin / Brandenburg](https://bildungsserver.berlin-brandenburg.de/fileadmin/bbb/unterricht/rahmenlehrplaene/Rahmenlehrplanprojekt/amtliche_Fassung/Teil_C_Mod_Fremdsprachen_2015_11_16_web.pdf)
 - [Mecklenburg-Vorpommern](https://www.bildung-mv.de/export/sites/bildungsserver/downloads/unterricht/rahmenplaene_allgemeinbildende_schulen/Englisch/RP_EN_AHR_7-10.pdf)
+- [Berlin / Brandenburg](https://bildungsserver.berlin-brandenburg.de/fileadmin/bbb/unterricht/rahmenlehrplaene/Rahmenlehrplanprojekt/amtliche_Fassung/Teil_C_Mod_Fremdsprachen_2015_11_16_web.pdf)
 - [Sachsen Anhalt](https://www.bildung-lsa.de/pool/RRL_Lehrplaene/Endfassungen/lp_sks_englisch.pdf)
 - [Sachsen](https://www.schulportal.sachsen.de/lplandb/index.php?lplanid=816&lplansc=Ot016RpUeeLWYkna0Y8m&token=654991b6218626633eb4edb4ca60c3f6)
+- [Thüringen](https://www.schulportal-thueringen.de/lehrplaene)
 - [Bayern](https://www.lehrplanplus.bayern.de/fachlehrplan/gymnasium/10/englisch)
+- [Baden-Württemberg](https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1)
+- [Rheinland-Pfalz](https://bildung.rlp.de/lehrplaene/seite/1)
+- [Hessen](https://kultus.hessen.de/unterricht/kerncurricula-und-lehrplaene/lehrplaene)
 
 ### Lehrpläne Sekundarstufe 2:
+- [Saarland](https://www.saarland.de/mbk/DE/portale/bildungsserver/unterricht-und-bildungsthemen/lehrplaenehandreichungen/lehrplaeneallgemeinbildende/gymnasiale-oberstufe-GOS/lehrplaene_GOS_node)
 - [NRW](https://www.schulentwicklung.nrw.de/lehrplaene/lehrplannavigator-s-ii/gymnasiale-oberstufe/englisch/englisch-klp-/kompetenzen/index.html )
 - [Niedersachsen](https://bildungsportal-niedersachsen.de/allgemeinbildung/unterrichtsfaecher/sprachen-und-literatur/englisch-sek-ii)
 - [Schleswig-Holstein](https://fachportal.lernnetz.de/sh/fachanforderungen/englisch.html)
@@ -56,4 +63,4 @@ Auf den Seiten der Themenkomplexe finden sich neben weiterführenden Information
 - [Rheinland-Pfalz](https://bildung.rlp.de/lehrplaene/seite/1)
 - [Hessen](https://kultus.hessen.de/sites/kultusministerium.hessen.de/files/2022-09/kcgo_englisch_stand_august_2022_0.pdf)
 ---
-Zuletzt bearbeitet am: 10/07/2024, 13:16
+Zuletzt bearbeitet am: 30/07/2024, 13:49

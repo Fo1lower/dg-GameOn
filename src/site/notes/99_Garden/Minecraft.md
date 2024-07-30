@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Spielesammlung/Minecraft.md","permalink":"/spielesammlung/minecraft/","noteIcon":null}
+{"dg-publish":true,"dg-path":"Spielesammlung/Minecraft.md","permalink":"/spielesammlung/minecraft/","noteIcon":"1"}
 ---
 
 ---
@@ -22,7 +22,10 @@
 
 
 ## Über Das Spiel:
-
+Minecraft ist ein kreatives Sandbox-Videospiel, in dem Spieler zufällig generierte Welten erkunden, Ressourcen abbauen und verarbeiten, um Werkzeuge, Gebäude und andere Gegenstände zu erstellen. Die Spielwelt ist nahezu grenzenlos und bietet unendliche Möglichkeiten zum Bauen und Entdecken.
+Spieler können im Einzelspielermodus ihre eigenen Abenteuer erleben oder sich mit Freunden zusammentun, um gemeinsam Projekte zu verwirklichen. Neben dem Bauen bietet Minecraft auch ein optionales Kampfsystem gegen Monster und andere Gefahren.
+Es gibt eine Vielzahl an Maps (vorgebaute Spielwelten) in denen Sachverhalte, geschichtliche Ereignisse oder Sprachen spielerisch vermitteln werden.
+Minecraft ist das meist verkaufte Videospiel und ist zu einem Phänomen der Popkultur geworden.
 ### Didaktische Anbindung:
 Ellison, T. L., & Evans, J. N. (2016). " Minecraft," Teachers, Parents, and Learning: What They Need to Know and Understand. _School Community Journal_, _26_(2), 25-43. [https://files.eric.ed.gov/fulltext/EJ1123979.pdf](https://files.eric.ed.gov/fulltext/EJ1123979.pdf) 
 +
@@ -30,4 +33,4 @@ Marlatt, R. (2018). Literary analysis using Minecraft: An Asian American youth c
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 15/07/2024, 13:05
+Zuletzt bearbeitet am: 17/07/2024, 11:29

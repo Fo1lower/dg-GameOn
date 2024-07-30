@@ -8,7 +8,7 @@
 >**Erscheinungsjahr:** 2017
 >**Entwickler:** ARTE France
 >**Herausgeber:** Plug In Digital
->**Altersfreigabe:** [[01_Background/USK/Kein Rating\|Kein Rating]]
+>**Altersfreigabe:** Kein Rating
 >**Plattformen:** [[01_Background/Plattformen/Android\|Android]],[[01_Background/Plattformen/iOS\|iOS]],[[01_Background/Plattformen/Nintendo Switch\|Nintendo Switch]],[[01_Background/Plattformen/Windows\|Windows]]
 
 >[!tldr]+ Didaktische Informationen
@@ -25,7 +25,7 @@
 Bury Me, My Love ist ein interaktives narratives Spiel für Mobiltelefone. Der/Die Spieler\*in übernimmt die Rolle von Majd, einem Mann in Europa, der per SMS mit seiner Frau Nour kommuniziert, die auf einer gefährlichen Reise Richtung Europa ist. Durch die Nachrichten erfährt der/die Spieler\*in von ihren Erlebnissen, Ängsten und Hoffnungen und muss moralische Entscheidungen für Majd treffen, die Nour's Reise beeinflussen.
 
 ### Didaktische Anbindung:
-- [ ] #SHK 
+
 ### Links:
 [Webseite von ARTE (Prologue kostenlos)]([https://burymemylove.arte.tv/](https://burymemylove.arte.tv/))
 [iOS App Store](https://itunes.apple.com/us/app/bury-me-my-love/id1281473147)
@@ -33,4 +33,4 @@ Bury Me, My Love ist ein interaktives narratives Spiel für Mobiltelefone. Der
 
 
 ---
-Zuletzt bearbeitet am: 01/07/2024, 14:15
+Zuletzt bearbeitet am: 30/07/2024, 13:39

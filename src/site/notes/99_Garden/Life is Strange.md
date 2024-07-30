@@ -25,8 +25,12 @@
 Life is Strange ist ein episodisches Adventure-Spiel, in dem der/die Spieler\*in die Studentin Max Caulfield steuert, die die Fähigkeit entdeckt, die Zeit zurückzudrehen. Mit dieser Kraft muss sie das Leben ihrer besten Freundin Chloe retten und die mysteriösen Ereignisse in ihrer Heimatstadt Arcadia Bay aufdecken.
 ### Didaktische Anbindung:
 - [ ] #SHK 
+
+Becker, D. (2021). _Videospiele im Fremdsprachenunterricht_. Narr Francke Attempto Verlag.
+
+ https://www.stiftung-digitale-spielekultur.de/app/uploads/2020/10/Games-machen-Schule-Machbarkeitsstudie-NRW-Handreichung-fuer-Lehrkraefte.pdf 
 ### Links:
 [Offizielle Webseite](https://lifeisstrange.square-enix-games.com/en-gb)
 
 ---
-Zuletzt bearbeitet am: 01/07/2024, 14:15
+Zuletzt bearbeitet am: 30/07/2024, 13:44

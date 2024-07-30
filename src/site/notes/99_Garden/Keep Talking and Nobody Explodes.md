@@ -13,7 +13,7 @@
 
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Kommunikative Strategien\|Kommunikative Strategien]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Mediation\|Mediation]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]
->**Thematische Anbindung:** 
+>**Thematische Anbindung:** -
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]]
 >**Jahrgangstufe:** 8-10,Q1/2
 
@@ -24,9 +24,9 @@
 ## Über Das Spiel:
 Keep Talking and Nobody Explodes ist ein kooperatives Puzzle-Spiel für zwei oder mehr Spieler\*innen. Eine Person übernimmt die Rolle des "Entschärfers" und sieht eine Bombe auf dem Bildschirm. Die anderen Spieler ("Experts") haben Zugriff auf ein Bomb Defusal Manual, aber können die Bombe nicht sehen. Um die Bombe erfolgreich zu entschärfen, müssen die Experts dem Entschärfer präzise Anweisungen geben, basierend auf den Informationen im Handbuch und den Beschreibungen des Entschärfers.
 ### Didaktische Anbindung:
-- [ ] #SHK 
+- [x]  #SHK ✅ 2024-07-30
 ### Links:
 [Offizielle Webseite](https://keeptalkinggame.com)
 
 ---
-Zuletzt bearbeitet am: 10/07/2024, 11:10
+Zuletzt bearbeitet am: 30/07/2024, 12:00

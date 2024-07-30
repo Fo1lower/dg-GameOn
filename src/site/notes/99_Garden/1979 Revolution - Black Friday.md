@@ -8,7 +8,7 @@
 >**Erscheinungsjahr:** 2024
 >**Entwickler:** iNK Stories
 >**Herausgeber:** iNK Stories
->**Altersfreigabe:** [[01_Background/USK/Kein Rating\|Kein Rating]]
+>**Altersfreigabe:** Kein Rating
 >**Plattformen:** [[01_Background/Plattformen/Android\|Android]],[[01_Background/Plattformen/iOS\|iOS]],[[01_Background/Plattformen/MacOS\|MacOS]],[[01_Background/Plattformen/Nintendo Switch\|Nintendo Switch]],[[01_Background/Plattformen/Playstation 4\|Playstation 4]],[[01_Background/Plattformen/Windows\|Windows]],[[01_Background/Plattformen/Xbox One\|Xbox One]]
 
 >[!tldr]+ Didaktische Informationen
@@ -18,15 +18,18 @@
 >**Jahrgangstufe:** Q1/2
 
 >[!hint]+ Spieltrailer:
->`=default(this.trailer-embed,"")`
+><iframe width="560" height="315" src="https://www.youtube.com/embed/_50OJ1uuGoc?si=j-mloRymoMaz00SO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Über Das Spiel:
-
+"1979 Revolution - Black Friday" ist ein interaktives Abenteuer-Videospiel. Die Spielenden werden in die Rolle des angehenden Fotojournalisten Reza Shirazi versetzt, der in den Iran zur Zeit der Iranischen Revolution zurückkehrt. Im Laufe des Spiels muss Reza Entscheidungen treffen um zu überleben.
 ### Didaktische Anbindung:
-Christians, H., Möring, S., Distelmeyer, J., Pohl, M., Riemer, N., Ernst, S. & Günzel, S. (2020). Videospiele als didaktische Herausforderung. In _DIGAREC Series_. Universitätsverlag Potsdam. [https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/42932/file/digarec08.pdf](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/42932/file/digarec08.pdf) 
+
 
 ### Links:
 
+Christians, H., Möring, S., Distelmeyer, J., Pohl, M., Riemer, N., Ernst, S. & Günzel, S. (2020). Videospiele als didaktische Herausforderung. In _DIGAREC Series_. Universitätsverlag Potsdam. [https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/42932/file/digarec08.pdf](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/42932/file/digarec08.pdf) 
+
+
 ---
-Zuletzt bearbeitet am: 15/07/2024, 13:01
+Zuletzt bearbeitet am: 30/07/2024, 13:38

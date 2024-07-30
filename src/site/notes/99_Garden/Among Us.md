@@ -27,6 +27,7 @@ Among Us ist ein Online-Multiplayer-Spiel für 4 bis 10 Spieler\*innen, in dem 
 
 ### Didaktische Anbindung:
 - [ ]  #SHK 
+https://www.friedrich-verlag.de/friedrich-plus/sekundarstufe/englisch/sprechen-aussprache/among-us-wer-ist-der-verrater-16622
 ### Links:
 [Developerseite](https://www.innersloth.com/)
 [iOS App Store](https://apps.apple.com/de/app/among-us/id1351168404)
@@ -34,4 +35,4 @@ Among Us ist ein Online-Multiplayer-Spiel für 4 bis 10 Spieler\*innen, in dem 
 
 
 ---
-Zuletzt bearbeitet am: 01/07/2024, 14:22
+Zuletzt bearbeitet am: 26/07/2024, 10:48

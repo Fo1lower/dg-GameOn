@@ -22,10 +22,10 @@
 
 
 ## Über Das Spiel:
-
+In dem Videospiel "Neverwinter Nights" müssen die Spielenden ihren selbstgewählten Charakter durch die Stadt Niewinter führen. Dort ist eine Pest ausgebrochen, weshalb nun eine Medizin von vier Kreaturen hergestellt werden soll. Nach einem Anschlag auf deren Unterbringung verteilen sich diese Kreaturen über die gesamte Stadt. Es liegt an dem Spieler diese aufzusuchen, wobei eine Verschwörung im Zusammenhang mit der Pest aufgedeckt wird. 
 ### Didaktische Anbindung:
 Adams, M. G. (2009). Engaging 21st-century adolescents: Video games in the reading classroom. _English Journal_, 56-59. [https://www.jstor.org/stable/40503460](https://www.jstor.org/stable/40503460) 
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 15/07/2024, 13:06
+Zuletzt bearbeitet am: 17/07/2024, 10:59

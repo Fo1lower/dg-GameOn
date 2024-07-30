@@ -23,10 +23,10 @@
 
 
 ## Über Das Spiel:
-
+In dem interaktiven Videospiel "Her Story" müssen die Spielenden eine Videoclip-Datenbank von fiktionalen Polizeiverhören aus dem Jahr 1994 durchsuchen. Die Verhöre konzentrieren sich dabei auf die Ehefrau des verschollenen Mannes und es liegt an den Spielenden den Fall aufzuklären. 
 ### Didaktische Anbindung:
 Christians, H., Möring, S., Distelmeyer, J., Pohl, M., Riemer, N., Ernst, S. & Günzel, S. (2020). Videospiele als didaktische Herausforderung. In _DIGAREC Series_. Universitätsverlag Potsdam. [https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/42932/file/digarec08.pdf](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/42932/file/digarec08.pdf) 
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 15/07/2024, 13:02
+Zuletzt bearbeitet am: 30/07/2024, 13:43
