@@ -22,7 +22,7 @@
 
 
 ## Über Das Spiel:
-
+In dem Spiel "What Remains of Edith Finch" erleben die Spielenden eine Geschichte aus der Sicht der 17 Jährigen Edith Finch, die zu dem Ort, an dem sie groß wurde, zurückkehrt. Das Mädchen entdeckt ihre mysteriöse Familiengeschichte und die Gründe für den Zerfall ihrer Familienstruktur. Themen wie Erinnerungen, Tod und Schicksale werden im Spiel aufgegriffen. 
 ### Didaktische Anbindung:
 Hartzman, Z. (2021). Teaching with video games: An English language arts unit.  
 
@@ -30,4 +30,4 @@ Hartzman, Z. (2021). Teaching with video games: An English language arts unit.
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 15/07/2024, 13:07
+Zuletzt bearbeitet am: 17/07/2024, 12:17

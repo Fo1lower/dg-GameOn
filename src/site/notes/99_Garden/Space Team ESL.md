@@ -20,7 +20,9 @@
 ## Über Das Spiel:
 Space Team ESL ist ein Lernspiel der Concordia University. In dem Spiel bilden 2-4 Player die Crew eines Raumschiffs und arbeiten zusammen an den Anweisungen auf den jeweiligen Bildschirmen. Erfolg in Space Team ESL erfordert effiziente Kommunikation und Teamarbeit.
 ### Didaktische Anbindung:
-- [ ] #SHK 
+- [x]  #SHK ✅ 2024-07-30
+
+http://spaceteamesl.ca/wp-content/uploads/2015/05/spaceteam-lesson-plan-package.pdf
 ### Links:
 [Offizielle Webseite](http://spaceteamesl.ca)
 [iOS Apple Store](https://apps.apple.com/us/app/spaceteam-esl/id999546790)
@@ -28,4 +30,4 @@ Space Team ESL ist ein Lernspiel der Concordia University. In dem Spiel bilden 2
 
 
 ---
-Zuletzt bearbeitet am: 01/07/2024, 14:15
+Zuletzt bearbeitet am: 30/07/2024, 13:07

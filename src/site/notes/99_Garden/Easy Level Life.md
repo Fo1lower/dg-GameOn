@@ -8,7 +8,7 @@
 >**Erscheinungsjahr:** 2016
 >**Entwickler:** DE Team
 >**Herausgeber:** DE Team
->**Altersfreigabe:** [[01_Background/USK/Kein Rating\|Kein Rating]]
+>**Altersfreigabe:** Kein Rating
 >**Plattformen:** [[01_Background/Plattformen/Windows\|Windows]]
 
 >[!tldr]+ Didaktische Informationen
@@ -25,5 +25,5 @@ Easy Level Life ist ein sehr kurzes Erlebnisspiel für PC, in dem der/die Spiel
 [kostenlos spielbar auf itch.io]([https://timecube.itch.io/easy-level-life](https://timecube.itch.io/easy-level-life))
 
 ---
-Zuletzt bearbeitet am: 01/07/2024, 13:59
+Zuletzt bearbeitet am: 25/07/2024, 11:28
 

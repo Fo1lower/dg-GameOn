@@ -22,6 +22,7 @@
 - Monarchie (BY)
 - Bildung in UK und USA (BY)
 - UK (SL)
+- Alltagskultur in Großbritannien, geographische Aspekte, gesellschaftliche Aspekte (ST)
 - Alltagsleben im UK und USA (RLP)
 - Lebenswelten englischsprachiger Jugendlicher (RLP)
 #### Sekundarstufe 2:
@@ -46,4 +47,4 @@
 - GB - Past and Present (HS)
 
 ---
-Zuletzt bearbeitet am: 19/06/2024, 14:06
+Zuletzt bearbeitet am: 17/07/2024, 13:58

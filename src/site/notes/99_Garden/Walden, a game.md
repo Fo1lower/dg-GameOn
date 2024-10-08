@@ -22,10 +22,10 @@
 
 
 ## Über Das Spiel:
-
+In dem Survival-Spiel "Walden - a game" müssen die Spielenden versuchen im Wald zu überleben, sowie Inspiration zu finden z.B durch die Tiere, Geräusche, Einsamkeit und Bücher, die zur Verfügung stehen. Durch das Spiel tauchen die Spielenden in die Welt des transzendentalistischen Werks "Walden" von Henry Thoreau aus dem Jahr 1854 ein. 
 ### Didaktische Anbindung:
 Farber, M. (2022). _A stunning educational video game brings students inside Thoreau’s “Walden”_. Edutopia. [https://www.edutopia.org/article/stunning-educational-video-game-brings-students-inside-thoreaus-walden/](https://www.edutopia.org/article/stunning-educational-video-game-brings-students-inside-thoreaus-walden/) 
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 15/07/2024, 13:07
+Zuletzt bearbeitet am: 17/07/2024, 12:08

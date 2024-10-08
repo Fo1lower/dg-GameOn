@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Spielesammlung/Inside.md","permalink":"/spielesammlung/inside/","noteIcon":null}
+{"dg-publish":true,"dg-path":"Spielesammlung/Inside.md","permalink":"/spielesammlung/inside/","noteIcon":"1"}
 ---
 
 ---
@@ -22,10 +22,10 @@
 
 
 ## Über Das Spiel:
-
+"Inside" ist ein Jump-'n'-run Spiel, indem ein namenloser Junge einen Abhang hinunterrutscht und sich durch eine Parallelwelt kämpfen muss. Dabei muss er verschiedenen Figuren wie z.B Wissenschaftlern entweichen. 
 ### Didaktische Anbindung:
 Hancock, T. (2019). _The mechanics are the message: Studying video games as texts in the language arts classroom_. Minot State University. [https://www.proquest.com/docview/2228415751?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses](https://www.proquest.com/docview/2228415751?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) 
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 15/07/2024, 13:02
+Zuletzt bearbeitet am: 17/07/2024, 10:09

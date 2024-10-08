@@ -24,9 +24,9 @@
 ## Über Das Spiel:
 Not For Broadcast ist ein satirischer Simulator, der den/die Spieler\*in hinter die Kulissen einer chaotischen Live-Nachrichtensendung wirft. Als Regisseur\*in steuerst du, was auf Sendung geht: blende unpassende Äußerungen aus, halte die Werbetreibenden bei Laune und sorge dafür, dass die Show trotz aller Absurditäten weiterläuft.
 ### Didaktische Anbindung:
-- [ ] #SHK 
+- [x]  #SHK ✅ 2024-07-30
 ### Links:
 [Offizielle Webseite](https://www.notforbroadcastgame.com)
 
 ---
-Zuletzt bearbeitet am: 01/07/2024, 14:15
+Zuletzt bearbeitet am: 30/07/2024, 12:00

@@ -22,10 +22,10 @@
 
 
 ## Über Das Spiel:
-
+Das Action-Adventure Videospiel "Rise of the Tomb Raider" behandelt die Suche der britischen Archäologin Lara Croft nach der mysteriösen Stadt Kitesch in den Bergen Sibiriens, da dort ein Artefakt zu finden seien soll, das Unsterblichkeit verleiht. Eine Geheimorganisation ist jedoch dem gleichen Artefakt auf der Spur. 
 ### Didaktische Anbindung:
 Stephen V. Kiss (2020). Video Games in the English Classroom. [https://writerswhocare.wordpress.com/2020/09/14/video-games-in-the-english-classroom/](https://writerswhocare.wordpress.com/2020/09/14/video-games-in-the-english-classroom/) 
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 15/07/2024, 13:06
+Zuletzt bearbeitet am: 30/07/2024, 13:45
