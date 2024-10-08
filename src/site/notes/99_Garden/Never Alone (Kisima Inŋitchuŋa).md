@@ -22,10 +22,12 @@
 
 
 ## Über Das Spiel:
-
+In dem Spiel "Never Alone" begibt sich das kleine Mädchen Nuna auf die Suche nach dem Auslöser eines Schneesturms in ihrem Heimatdorf in Alaska. Auf dem Weg in den Norden des Bundesstaates begleitet sie ein kleiner Fuchs.
 ### Didaktische Anbindung:
+In dem Videospiel „Never Alone“ werden Themen wie Freundschaft und Loyaliät, aber auch Mythen und Sagen der Ureinwohner Alaskas (bzw. des Iñupiat Stammes) thematisiert. Somit haben die Lernenden die Möglichkeit Themen, die sie unmittelbar im Alltag betreffen auf einer globalen Ebene zu sehen und etwas über Indigene Völker der U.S.A. zu lernen. Im Rahmen des Englischunterrichts wäre der Einsatz von „creative writing“ Aufgaben, in denen die Spielenden die Geschichte von Nuna weiterführen, denkbar. Darüber hinaus könnten im Anschluss an das Spiel vertiefend alaskanische Comics wie „Chickaloonies“ oder „Wintermoot“ gelesen werden. Diese Comics haben das Potential sowohl das [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]] als auch interkulturelles Wissen zu fördern.
 
+Das interkulturelle Lernen wird darüber hinaus durch Einspieler unterstütz, die den Spielablauf pausieren und Sagen oder Praktiken der Iñupiat genauer erklären.
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 30/07/2024, 13:45
+Zuletzt bearbeitet am: 18/09/2024, 12:29

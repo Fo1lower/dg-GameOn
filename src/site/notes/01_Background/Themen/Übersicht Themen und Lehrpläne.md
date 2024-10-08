@@ -14,18 +14,18 @@ Da sich die Art und Weise, in welcher die Länder Themen vorgeben teils deutlich
 Auf den Seiten der Themenkomplexe finden sich neben weiterführenden Informationen und referenzierenden Materialien auch die konkreten Verweise auf die Lehrpläne der Länder.
 
 #### Themenkomplexe:
-- [[01_Background/Themen/Aufgaben einer Globalen Gesellschaft\|Aufgaben einer Globalen Gesellschaft]]
-- [[01_Background/Themen/Elizabethan England\|Elizabethan England]]
-- [[01_Background/Themen/Medien\|Medien]]
-- [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]]
-- [[01_Background/Themen/Postkolonialismus\|Postkolonialismus]]
+- [[01_Background/Themen/Work and Education\|Work and Education]]
+- [[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
 - [[01_Background/Themen/USA\|USA]]
 - [[01_Background/Themen/United Kingdom\|United Kingdom]]
 - [[01_Background/Themen/Science & Technology\|Science & Technology]]
-- [[01_Background/Themen/Work and Education\|Work and Education]]
-- [[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
 - [[01_Background/Themen/Soziales Leben\|Soziales Leben]]
+- [[01_Background/Themen/Postkolonialismus\|Postkolonialismus]]
 - [[01_Background/Themen/Natur & Umwelt\|Natur & Umwelt]]
+- [[01_Background/Themen/Aufgaben einer Globalen Gesellschaft\|Aufgaben einer Globalen Gesellschaft]]
+- [[01_Background/Themen/Medien\|Medien]]
+- [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]]
+- [[01_Background/Themen/Elizabethan England\|Elizabethan England]]
 
 { .block-language-dataview}
 ### Lehrpläne Sekundarstufe 1:

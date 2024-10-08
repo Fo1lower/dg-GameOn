@@ -8,7 +8,7 @@
 >**Erscheinungsjahr:** 2017
 >**Entwickler:** ARTE France
 >**Herausgeber:** Plug In Digital
->**Altersfreigabe:** Kein Rating
+>**Altersfreigabe:** [[01_Background/USK/12+\|12+]]
 >**Plattformen:** [[01_Background/Plattformen/Android\|Android]],[[01_Background/Plattformen/iOS\|iOS]],[[01_Background/Plattformen/Nintendo Switch\|Nintendo Switch]],[[01_Background/Plattformen/Windows\|Windows]]
 
 >[!tldr]+ Didaktische Informationen
@@ -22,10 +22,14 @@
 
 
 ## Über Das Spiel:
-Bury Me, My Love ist ein interaktives narratives Spiel für Mobiltelefone. Der/Die Spieler\*in übernimmt die Rolle von Majd, einem Mann in Europa, der per SMS mit seiner Frau Nour kommuniziert, die auf einer gefährlichen Reise Richtung Europa ist. Durch die Nachrichten erfährt der/die Spieler\*in von ihren Erlebnissen, Ängsten und Hoffnungen und muss moralische Entscheidungen für Majd treffen, die Nour's Reise beeinflussen.
+Bury Me, My Love ist ein interaktives narratives Spiel für Mobiltelefone. Der/Die Spieler\*in übernimmt die Rolle von Nour, einer Frau, die auf einer gefährlichen Reise Richtung Europa ist und per SMS mit ihrem Mann Majd kommuniziert. Durch die Nachrichten erfährt der/die Spieler:in von ihren Erlebnissen, Ängsten und Hoffnungen und muss moralische Entscheidungen für Majd treffen, die Nour's Reise beeinflussen.
 
 ### Didaktische Anbindung:
+Im Videospiel „Bury me, my Love“ geht es um die Syrerin Nour, die sich auf der Flucht befindet, sowie um ihren Ehemann Majd, der in ihrem Heimatland zurückbleibt. Nour hofft auf Sicherheit in Europa. Der Spieler nimmt die Rolle von Nour ein, die mit Majd über eine Instant Messaging App kommuniziert. Die Spielenden können direkten Einfluss auf das Schicksal der Protagonistin nehmen und es gibt insgesamt 19 mögliche Endversionen vom Spiel.
 
+Dadurch, dass die Lernenden mit realistischen Nachrichten konfrontiert werden und auf diese reagieren müssen, wird die Lesekompetenz gefördert. Darüber hinaus bieten die Spielinhalte Anlass, um über verschiedene Handlungsoptionen zu diskutieren. Die Schüler:innen entwickeln eine globale Identität und können Gründe für Migration besser nachvollziehen. „Bury me, my love“ kann also sowohl die funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Lesekompetenz]]), als auch [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] fördern.
+
+Da das Thema Migration im Zusammenhang mit Ländern wie Syrien immer wieder medial diskutiert wird, bietet das Spiel die Möglichkeit sich durch Internetrecherche damit genauer zu befassen. Dabei kann die [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Lesekompetenz]], als auch die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] gefördert werden.
 ### Links:
 [Webseite von ARTE (Prologue kostenlos)]([https://burymemylove.arte.tv/](https://burymemylove.arte.tv/))
 [iOS App Store](https://itunes.apple.com/us/app/bury-me-my-love/id1281473147)
@@ -33,4 +37,4 @@ Bury Me, My Love ist ein interaktives narratives Spiel für Mobiltelefone. Der
 
 
 ---
-Zuletzt bearbeitet am: 30/07/2024, 13:39
+Zuletzt bearbeitet am: 08/10/2024, 12:07

@@ -15,7 +15,7 @@
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]
 >**Thematische Anbindung:** [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]],[[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
->**Jahrgangstufe:** 9-13
+>**Jahrgangstufe:** 8-10,Q1/2
 
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/3nc6_S2Jkrg?si=n1fcCm7kzIp2OWRe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -24,8 +24,22 @@
 ## Über Das Spiel:
 In dem Videospiel "Neverwinter Nights" müssen die Spielenden ihren selbstgewählten Charakter durch die Stadt Niewinter führen. Dort ist eine Pest ausgebrochen, weshalb nun eine Medizin von vier Kreaturen hergestellt werden soll. Nach einem Anschlag auf deren Unterbringung verteilen sich diese Kreaturen über die gesamte Stadt. Es liegt an dem Spieler diese aufzusuchen, wobei eine Verschwörung im Zusammenhang mit der Pest aufgedeckt wird. 
 ### Didaktische Anbindung:
-Adams, M. G. (2009). Engaging 21st-century adolescents: Video games in the reading classroom. _English Journal_, 56-59. [https://www.jstor.org/stable/40503460](https://www.jstor.org/stable/40503460) 
+Das Videospiel „Neverwinter Nights“ wurde von den Machern des Rollenspiels „Dungeons and Dragons“ erfunden und handelt von einer Pest die in der Stadt Niewinter (engl. Neverwinter) ausgebrochen ist.
+
+Das Spiel ist im Fantasy-Genre zu verordnen und konfrontiert die Schüler:innen mit neuem Vokabular aus diesem Bereich. Den Lernenden wird somit die Möglichkeit geboten ihren Wortschatz zu erweitern, was das Lesen von Fantasy Romanen erleichtern könnte.
+
+Außerdem wird den Lernenden zu Beginn des Spiels die Möglichkeit geboten ihren Charakter völlig frei zu wählen. Dabei bietet sich das Anfertigen einer schriftlichen Charakterisierung oder ein Vergleich verschiedener Charaktere an.
+
+Das Spiel kann allein oder in Teams gespielt werden. Es wäre denkbar das die Schüler:innen sich über Spielentscheidungen entweder innerhalb des Teams oder mit Sitznachbarn austauschen und sich untereinander Tipps bei der Bewältigung der Missionen geben.  
+
+Besonders die [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Lesekompetenz]] kann im Spielverlauf weiterentwickelt werden, da die Spieler:innen Dialoge lesen müssen um die Missionen im Spiel zu bewältigen. Um sicherzustellen, dass die Schüler:innen die Dialoge verstehen, könnte nachbereitend ein Tagebucheintrag aus der Sicht des Protagonisten geschrieben werden, in dem die Dialogsequenzen reflektiert werden.
+
+Es wird deutlich, dass im Spielverlauf die funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]]) gefördert wird.
+
+Auffällig sind die Parallelen zwischen "Beowulf" oder William Shakespeares "Titus Andronicus" und den Kampfszenen im Videospiel. Dies könnte die Lernenden motivieren sich mit diesen literarischen Werken genauer auseinander zu setzten und Vergleiche zwischen dem Videospiel und den Texten zu ziehen.
 ### Links:
+Adams, M. G. (2009). Engaging 21st-century adolescents: Video games in the reading classroom. _English Journal_, 98 (6) 56-59. [https://www.jstor.org/stable/40503460](https://www.jstor.org/stable/40503460) 
+
 
 ---
-Zuletzt bearbeitet am: 17/07/2024, 10:59
+Zuletzt bearbeitet am: 08/10/2024, 12:10

@@ -8,7 +8,7 @@
 >**Erscheinungsjahr:** 2016
 >**Entwickler:** DE Team
 >**Herausgeber:** DE Team
->**Altersfreigabe:** Kein Rating
+>**Altersfreigabe:** [[01_Background/USK/16+\|16+]]
 >**Plattformen:** [[01_Background/Plattformen/Windows\|Windows]]
 
 >[!tldr]+ Didaktische Informationen
@@ -20,10 +20,10 @@
 ## Über Das Spiel:
 Easy Level Life ist ein sehr kurzes Erlebnisspiel für PC, in dem der/die Spieler\*in für einen Tag die Rolle einer Person of Color übernimmt. Durch alltägliche Situationen erfährt der/die Spieler\*in, welchen subtilen oder direkten Benachteiligungen diese Person aufgrund ihrer Hautfarbe ausgesetzt sein kann.
 ### Didaktische Anbindung:
-- [ ] #SHK 
+In „Easy Level Life“ werden die Schüler:innen in die Rolle einer „person of colour“ (poc) versetzt die Zeuge davon wird, wie Polizeibeamte eine andere „person of colour“ zusammenschlagen. Den Spielenden stehen nun mehrere Handlungsoptionen zur Verfügung, die jedoch alle in einer Tötung durch die Polizeibeamten enden. Das Spiel greift die Erfahrungen und Ängste vieler Afro-Amerikaner auf und gibt Spielenden die Möglichkeit ihre eigene Sicht auf Polizeigewalt und Rassismus zu reflektieren. Die Schüler:innen könnten ihre Entscheidungen und die daraus resultierende Konsequenzen in einem Entscheidungs-Log während des spielens festhalten. Im Anschluss kann auf Basis dieses Logs eine Diskussion über Polizeigewalt und die „Black Lives Matter“ Bewegung geführt werden. Unterstützend könnten auch Sachtexte zu dieser 2013 gegründeten Bürgerrechtsbewegung gelesen und analysiert werden. Darüber hinaus bietet das Spiel Anlass weitere Informationen zur Geschichte der Afro-Amerikanern (Sklaverei, Segregation, „Civil Rights Movement“) in den USA zu recherchieren. Insgesamt können mit „Easy Level Life“ funktional kommunikative Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]]) gefördert werden.
 ### Links:
 [kostenlos spielbar auf itch.io]([https://timecube.itch.io/easy-level-life](https://timecube.itch.io/easy-level-life))
 
 ---
-Zuletzt bearbeitet am: 25/07/2024, 11:28
+Zuletzt bearbeitet am: 18/09/2024, 12:00
 

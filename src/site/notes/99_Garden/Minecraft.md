@@ -15,7 +15,7 @@
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]],[[01_Background/Themen/Natur & Umwelt\|Natur & Umwelt]],[[01_Background/Themen/Science & Technology\|Science & Technology]],[[01_Background/Themen/Soziales Leben\|Soziales Leben]],[[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]]
->**Jahrgangstufe:** 9-13
+>**Jahrgangstufe:** 5-7,8-10,Q1/2
 
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/MmB9b5njVbA?si=xkVy1CtShsUblrIR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -24,13 +24,17 @@
 ## Über Das Spiel:
 Minecraft ist ein kreatives Sandbox-Videospiel, in dem Spieler zufällig generierte Welten erkunden, Ressourcen abbauen und verarbeiten, um Werkzeuge, Gebäude und andere Gegenstände zu erstellen. Die Spielwelt ist nahezu grenzenlos und bietet unendliche Möglichkeiten zum Bauen und Entdecken.
 Spieler können im Einzelspielermodus ihre eigenen Abenteuer erleben oder sich mit Freunden zusammentun, um gemeinsam Projekte zu verwirklichen. Neben dem Bauen bietet Minecraft auch ein optionales Kampfsystem gegen Monster und andere Gefahren.
-Es gibt eine Vielzahl an Maps (vorgebaute Spielwelten) in denen Sachverhalte, geschichtliche Ereignisse oder Sprachen spielerisch vermitteln werden.
-Minecraft ist das meist verkaufte Videospiel und ist zu einem Phänomen der Popkultur geworden.
+Es gibt eine Vielzahl an Maps (vorgebaute Spielwelten) in denen Sachverhalte, geschichtliche Ereignisse oder Sprachen spielerisch vermitteln werden. Minecraft ist eines der erfolgreichsten Videospiele aller Zeiten und ist zu einem Phänomen der Popkultur geworden.
 ### Didaktische Anbindung:
-Ellison, T. L., & Evans, J. N. (2016). " Minecraft," Teachers, Parents, and Learning: What They Need to Know and Understand. _School Community Journal_, _26_(2), 25-43. [https://files.eric.ed.gov/fulltext/EJ1123979.pdf](https://files.eric.ed.gov/fulltext/EJ1123979.pdf) 
-+
-Marlatt, R. (2018). Literary analysis using Minecraft: An Asian American youth crafts her literacy identity. _Journal of Adolescent & Adult Literacy_, _62_(1), 55-66. [https://ila.onlinelibrary.wiley.com/doi/full/10.1002/jaal.747](https://ila.onlinelibrary.wiley.com/doi/full/10.1002/jaal.747) 
+Das Videospiel „Minecraft“ dient als digitaler Sandkasten, in dem die Spielenden ihrer Kreativität freien Lauf lassen können.  Ihr Charakter „Steve“ oder „Alex“ wird in eine zufällig kreierte Welt versetzt, in der Ressourcen abgebaut und Gesellschaften erschaffen werden können. Da das Spiel den Lernenden viel Freiraum gibt, bietet es sich an, dass die Lehrkraft sowohl konkrete Lernziele, als auch Aufgaben vor Spielbeginn mit den Schüler:innen bespricht. Darüber hinaus sollte die Lehrkraft eine Welt aussuchen, in der alle Spielenden die Aufgaben bearbeiten. Hierfür bieten sich die „Education Maps“ auf Internetseiten wie „planetminecraft.com“ an. Das Spiel kann vielfältig im Englischunterricht eingesetzt werden, z.B. um das Setting einer Lektüre nachzubauen oder eine Geschichte weiter zu erzählen. Darüber hinaus gibt es spezifische „Education Maps“ zu historischen Ereignissen z.B. aus der Kolonialzeit Amerikas oder England zur Zeit von Königin Elisabeth I. Dies bietet den Schüler:innen die Möglichkeit auf spielerische Weise in die Geschichte verschiedener englischsprachiger Länder einzutauchen und ein tieferes Verständnis für deren Kultur zu bekommen. Den Lernenden wird also die Möglichkeit gegeben die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]], sowie  [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] zu fördern.
+
+
+
 ### Links:
+Ellison, T. L., & Evans, J. N. (2016). " Minecraft," Teachers, Parents, and Learning: What They Need to Know and Understand. _School Community Journal_, _26_(2), 25-43. [https://files.eric.ed.gov/fulltext/EJ1123979.pdf](https://files.eric.ed.gov/fulltext/EJ1123979.pdf) 
+&
+Marlatt, R. (2018). Literary analysis using Minecraft: An Asian American youth crafts her literacy identity. _Journal of Adolescent & Adult Literacy_, _62_(1), 55-66. [https://ila.onlinelibrary.wiley.com/doi/full/10.1002/jaal.747](https://ila.onlinelibrary.wiley.com/doi/full/10.1002/jaal.747)
+
 
 ---
-Zuletzt bearbeitet am: 17/07/2024, 11:29
+Zuletzt bearbeitet am: 08/10/2024, 12:15

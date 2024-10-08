@@ -13,7 +13,7 @@
 
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Kommunikative Strategien\|Kommunikative Strategien]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Mediation\|Mediation]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]
->**Thematische Anbindung:** -
+>**Thematische Anbindung:** 
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]]
 >**Jahrgangstufe:** 8-10,Q1/2
 
@@ -22,11 +22,14 @@
 
 
 ## Über Das Spiel:
-Keep Talking and Nobody Explodes ist ein kooperatives Puzzle-Spiel für zwei oder mehr Spieler\*innen. Eine Person übernimmt die Rolle des "Entschärfers" und sieht eine Bombe auf dem Bildschirm. Die anderen Spieler ("Experts") haben Zugriff auf ein Bomb Defusal Manual, aber können die Bombe nicht sehen. Um die Bombe erfolgreich zu entschärfen, müssen die Experts dem Entschärfer präzise Anweisungen geben, basierend auf den Informationen im Handbuch und den Beschreibungen des Entschärfers.
+Keep Talking and Nobody Explodes ist ein kooperatives Puzzle-Spiel für zwei oder mehr Spieler\*innen. Eine Person übernimmt die Rolle des "Entschärfers" und sieht eine Bombe auf dem Bildschirm, welche verschiedene Module - kleine logische Puzzles - enthält. Die Lösung dieser Module ist für den:die Entschärfer:in allerdings nicht offensichtlich. Die anderen Spieler:innen ("Experts") haben allerdings Zugriff auf eine Bedienungsanleitung, können die Bombe jedoch nicht sehen. Um die Bombe erfolgreich zu entschärfen, müssen die Experts dem Entschärfer also basierend auf den Informationen im Handbuch und den Beschreibungen des Entschärfers präzise Anweisungen geben. Das Spiel fordert also von den Spielenden nicht nur klare Kommunikation, sondern durch seine zeitliche Komponente auch eine gewisse Stressresistenz.
 ### Didaktische Anbindung:
-- [x]  #SHK ✅ 2024-07-30
+In dem Videospiel „Keep talking and nobody explodes“ nehmen jeweils zwei Schüler:innen aktiv am Geschehen teil, während der Rest der Lerngruppe aufmerksam zuschaut. Eine Schüler:in hat eine Rätselanleitung vor sich liegen, während der/die zweite Schüler:in das Spiel bedient. Die restlichen Schülerinnen beobachten die Konversation und geben Feedback. In einem iterativen Task Cycle können die Gruppen ihre Strategien besprechen, gemeinsam am Text der Bedienungsanleitung arbeiten und so ihre weiteren Versuche optimieren.
+
+Wie deutlich wird, arbeiten die Lernenden an ihrer funktionalen kommunikativen Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]), als auch an ihrer Sprachbewusstheit. Dadurch, dass die Schüler:innen unter Zeitdruck stehen, wird Flexibilität und Spontaneität in Konversationen  gefördert.                                                  
+Durch das Erstellen einer Anleitung zum Entschärfen der Bombe können zudem weitere Teilaspekte der funktionalen kommunikativen Kompetenz wie das [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]], sowie [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprachliche Mittel\|sprachliche und kommunikative Mittel]] gefördert werden.
 ### Links:
 [Offizielle Webseite](https://keeptalkinggame.com)
 
 ---
-Zuletzt bearbeitet am: 30/07/2024, 12:00
+Zuletzt bearbeitet am: 18/09/2024, 12:21

@@ -24,9 +24,15 @@
 ## Über Das Spiel:
 Sea of Solitude entführt den/die Spieler\*in in eine wunderschöne, aber melancholische Welt, die von Wasser überflutet und von Monstern bevölkert ist. In diesem atmosphärischen Abenteuer spielt man Kay, eine junge Frau, die auf der Suche nach ihrer Identität und einem Weg aus ihrer Einsamkeit ist.
 ### Didaktische Anbindung:
-- [ ] #SHK 
+Das Videospiel „Sea of Solitude“ behandelt ernste Themenkomplexe wie Depression und Einsamkeit. Die Lernenden übernehmen die Rolle der Protagonistin Kay und durchleben Phasen ihrer Depression. Ziel ist es Kay aus ihrer Depression und Einsamkeit zu befreien.
+
+Dabei macht das Spiel Gebrauch von mehreren Metaphern wie z.B düsteren Monstern, die Kays Depression verbildlichen sollen und sie an einer Aufarbeitung vergangener Traumata hindern. Darüber hinaus spielt „Sea of Solitude“ mit Licht und Schatten, was Kays Gefühlslagen veranschaulichen soll. All diese sprachlichen Bilder lassen sich im Englischunterricht analysieren und deuten. Darüber hinaus bietet sich die Geschichte an, um das Setting zu beschreiben oder die Protagonistin zu charakterisieren. Somit können funktionale kommunikative Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]]), sowie  [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] gefördert werden.
+
+Im Anschluss an das Spiel könnte in Gruppen diskutiert werden, wie man sich für Menschen mit Depression einsetzten kann und welche Probleme Menschen mit solch einem Krankheitsbild in unserer Gesellschaft haben. Vor allem die Szene in der Key ihre Traumata aus der Schulzeit konfrontiert, könnten hier Anlass für eine genauere Auseinandersetzung mit Mobbing und mentaler Gesundheit sein. Dabei könnte funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]) gefördert werden.
+
+Eine Thematisierung des Spiel bietet sich vor allem in der Oberstufe an, da die Thematik ernst und komplex ist und die Deutung der Symbole im Spiel eine gewisse Reife erfordern.
 ### Links:
 [Offizielle Webseite](https://www.ea.com/en-gb/games/sea-of-solitude)
 
 ---
-Zuletzt bearbeitet am: 01/07/2024, 14:15
+Zuletzt bearbeitet am: 08/10/2024, 12:12

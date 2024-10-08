@@ -8,7 +8,7 @@
 >**Erscheinungsjahr:** 2017
 >**Entwickler:** Accidental Queens
 >**Herausgeber:** Plug In Digital
->**Altersfreigabe:** [[01_Background/USK/16+\|16+]]
+>**Altersfreigabe:** [[01_Background/USK/12+\|12+]],[[01_Background/USK/16+\|16+]]
 >**Plattformen:** [[01_Background/Plattformen/Android\|Android]],[[01_Background/Plattformen/iOS\|iOS]],[[01_Background/Plattformen/Linux\|Linux]],[[01_Background/Plattformen/MacOS\|MacOS]],[[01_Background/Plattformen/Nintendo Switch\|Nintendo Switch]],[[01_Background/Plattformen/Windows\|Windows]]
 
 >[!tldr]+ Didaktische Informationen
@@ -22,8 +22,16 @@
 
 ## Über Das Spiel:
 A Normal Lost Phone ist ein narratives Point-and-Click-Adventure-Spiel, in dem der/die Spieler\*in die Rolle eines Teenagers übernimmt, der/die das Smartphone einer anderen Person findet. Das Spiel ermutigt die Spieler, das Telefon zu erkunden und die Nachrichten, Fotos und Apps des Besitzers zu durchsuchen, um mehr über dessen Leben, Beziehungen und Geheimnisse zu erfahren.
-### Didaktische Anbindung:
 
+### Zur Altersempfehlung:
+A Normal Lost Phone beschäftigt sich mit komplexen Themen von Identität und Heranwachsen und scheut dabei auch nicht vor ernsten Situationen zurück. Das Spiel hat zum gegenwärtigen Zeitpunkt eine Altersfreigabe ab 12 auf Steam und dem iOS App Store, während es im Google Play Store ab 17 Jahren gelistet ist. [Spielbar.de](https://www.spielbar.de/spiele/150703/a-normal-lost-phone) empfiehlt den Einsatz des Spiels für Jugendliche ab 14 Jahren.
+
+### Didaktische Anbindung:
+In „A normal lost phone“ müssen die Lernenden auf einem gefundenen Smartphone Informationen über den:die Besitzer:in sammeln. Um an diese Informationen zu gelangen müssen z.B. Passwörter erraten werden, was Anlass bietet mit Schüler:innen über digitale Sicherheit und Privatsphäre zu sprechen.
+
+Der:Die Besitzer:in des Smartphones entlarvt sich als Sam, von dem der:die Spieler:in immer mehr erfährt. Dabei stehen Fragen rund um LGBTQ+ im Vordergrund. Das Videospiel bietet die Möglichkeit, diese, für viele Jugendliche relevante Thematik, im Unterricht aufzugreifen.
+
+Das Videospiel ist eine Coming-of-Age-Geschichte und könnte im Englischunterricht als Beispiel solcher Texte analysiert werden. Die non-lineare und fragmentierte Erzählweise hält die Spieler:innen dazu an, wichtige Informationen zu identifizieren und Leerstellen mit eigenem sozio-kulturellen Wissen zu erschließen. Somit kann die funktionale kommunikative Kompetenz im Hinblick auf die [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Lesekompetenz]] gefördert werden.
 ### Links:
 [Developerseite](https://dearvillagers.itch.io/a-normal-lost-phone)
 [iOS App Store](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/de/app/a-normal-lost-phone/id1181828672&ved=2ahUKEwjF5Pa5n_uGAxWo_7sIHefBAegQFnoECDoQAQ&usg=AOvVaw3ejKuA-f1IBRdb0nuYD03X)
@@ -34,5 +42,5 @@ A Normal Lost Phone ist ein narratives Point-and-Click-Adventure-Spiel, in dem 
 
 
 ---
-Zuletzt bearbeitet am: 30/07/2024, 13:38
+Zuletzt bearbeitet am: 08/10/2024, 12:06
 

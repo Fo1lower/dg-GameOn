@@ -8,7 +8,7 @@
 >**Erscheinungsjahr:** 2018
 >**Entwickler:** PanicBarn
 >**Herausgeber:** No More Robots
->**Altersfreigabe:** [[01_Background/USK/Kein Rating\|Kein Rating]]
+>**Altersfreigabe:** [[01_Background/USK/16+\|16+]]
 >**Plattformen:** [[01_Background/Plattformen/Nintendo Switch\|Nintendo Switch]],[[01_Background/Plattformen/Windows\|Windows]]
 
 >[!tldr]+ Didaktische Informationen
@@ -29,4 +29,4 @@ Not Tonight ist ein Rollenspiel mit düsterem Humor, das den/die Spieler\*in i
 [Steam-Page](https://store.steampowered.com/app/733790/Not_Tonight/?l=german)
 
 ---
-Zuletzt bearbeitet am: 01/07/2024, 14:15
+Zuletzt bearbeitet am: 07/08/2024, 10:18

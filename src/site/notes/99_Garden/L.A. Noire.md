@@ -24,8 +24,10 @@
 ## Über Das Spiel:
 In dem Spiel "L.A. Noire" müssen die Speilenden die Rolle des Polizeibeamten Cole Phelps einnehmen und eine Reihe von Mordfällen in Los Angeles aufklären. Das Videospiel ist im Stil des "film noir" der 1940er gehalten und fängt die Nachkriegszeit in L.A. ein, die durch Glanz und Glamour, aber auch Korruption und Drogen geprägt war. Neben der Aufklärung der Kriminalfälle und der Karriere Phelps stehen auch seine Erlebnisse im zweiten Weltkrieg in Japan im Fokus. 
 ### Didaktische Anbindung:
-Berger, R., & McDougall, J. (2013).Reading videogames as (authorless) literature. _Literacy_, _47_(3),142-149. [https://onlinelibrary.wiley.com/doi/10.1111/lit.12004](https://onlinelibrary.wiley.com/doi/10.1111/lit.12004) 
+Mit dem Spiel „L.A. Noire“ kann sowohl auf literarische Stielmittel als auch filmische Gestaltungsmittel Bezug genommen werden. Zum einen können, wie bei literarischen Texten, das Setting beschrieben und die Charaktere analysiert werden. Darüber hinaus kann die Wirkung der (überwiegend) linearen Erzählstruktur und des „third person narrator“ genauer in den Blick gefasst werden. Hierbei bietet sich auch ein Vergleich zum Genre „Roman Noir“ und Werken wie „Double Indemnity“ von James M. Cain an. Doch nicht nur Vergleiche zu Romanen, sondern auch Filme, die dem Genre „Film Noir“ angehören, wie z.B. Billy Wilder’s „Sunset Boulevard“, können genauer besprochen werden.
+Das Spiel eignet sich vor allem für die Förderung der funktional kommunikativen Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Hörverstehen / Audiovisuelles Verstehen\|Hör/ Hör-Seh-Verstehen]]). Aufgrund des komplexen Inhalts und den ernsteren Themen wie Drogenkonsum oder Gewalt ist das Videospiel eher für die Oberstufe geeignet.
 ### Links:
+Berger, R., & McDougall, J. (2013).Reading videogames as (authorless) literature. _Literacy_, _47_(3),142-149. [https://onlinelibrary.wiley.com/doi/10.1111/lit.12004]
 
 ---
-Zuletzt bearbeitet am: 30/07/2024, 13:43
+Zuletzt bearbeitet am: 18/09/2024, 12:27

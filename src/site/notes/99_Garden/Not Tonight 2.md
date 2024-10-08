@@ -8,7 +8,7 @@
 >**Erscheinungsjahr:** 2022
 >**Entwickler:** PanicBarn
 >**Herausgeber:** No More Robots
->**Altersfreigabe:** [[01_Background/USK/Kein Rating\|Kein Rating]]
+>**Altersfreigabe:** [[01_Background/USK/16+\|16+]]
 >**Plattformen:** [[01_Background/Plattformen/Nintendo Switch\|Nintendo Switch]],[[01_Background/Plattformen/Windows\|Windows]]
 
 >[!tldr]+ Didaktische Informationen
@@ -29,4 +29,4 @@ Not Tonight 2 ist ein Nachfolger zum düster-humorvollen Einwanderer-Rollenspiel
 [Steam-Page](https://store.steampowered.com/app/1600370/Not_Tonight_2/)
 
 ---
-Zuletzt bearbeitet am: 01/07/2024, 14:15
+Zuletzt bearbeitet am: 07/08/2024, 10:18
