@@ -26,7 +26,14 @@
 Among Us ist ein Online-Multiplayer-Spiel für 4 bis 10 Spieler\*innen, in dem sich eine Gruppe von Astronauten auf einer Raumstation befindet. Unter ihnen sind jedoch einige Verräter, die die Crew töten und die Mission sabotieren wollen. Die Crew muss zusammenarbeiten, um die Verräter zu identifizieren und auszuschalten, während sie gleichzeitig Aufgaben auf der Station erledigt.
 
 ### Didaktische Anbindung:
-- [ ]  #SHK 
+
+Das Spiel „Among Us“ eignet sich besonders gut um die funktional kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]) einzuüben. In den Meeting-Phasen im Spiel müssen die Spieler:innen verschiedene Redewendungen verwenden, um sich darüber auszutauschen, wer gegen die Gruppe arbeitet. Die Lehrkraft kann zunächst ein „Let’s Play“ Video zeigen, aus dem sich die Schüler:innen Notizen zu essentiellen „phrases“ im Spiel machen. Während des Spiels können dann die neuen Redewendungen eingeübt werden. Darüber hinaus können grammatische Strukturen wie das past progressive und simple past mündlich eingeübt werden, indem die Spieler:innen darüber reden an welchen „tasks“ sie arbeiteten, als das Meeting einberufen wurde.
+
+Das Setting, welches u.a. eine Raumstation darstellt, kann genutzt werden, um Bildbeschreibungen mündlich einzuüben. So könnte die Lehrkraft Bildschirmaufnahmen verschiedener Räume zeigen, die von den Schülern beschrieben werden sollen.
+
+Das Videospiel eignet sich also vor allem zur Vorbereitung auf mündliche Prüfungen, in denen z.B. Partner- und Gruppendiskussionen geführt und Bildbeschreibungen durchgeführt werden müssen. 
+
+
 https://www.friedrich-verlag.de/friedrich-plus/sekundarstufe/englisch/sprechen-aussprache/among-us-wer-ist-der-verrater-16622
 ### Links:
 [Developerseite](https://www.innersloth.com/)
@@ -35,4 +42,4 @@ https://www.friedrich-verlag.de/friedrich-plus/sekundarstufe/englisch/sprechen-a
 
 
 ---
-Zuletzt bearbeitet am: 31/07/2024, 10:11
+Zuletzt bearbeitet am: 03/12/2024, 09:50

@@ -31,7 +31,7 @@ In „A normal lost phone“ müssen die Lernenden auf einem gefundenen Smartph
 
 Der:Die Besitzer:in des Smartphones entlarvt sich als Sam, von dem der:die Spieler:in immer mehr erfährt. Dabei stehen Fragen rund um LGBTQ+ im Vordergrund. Das Videospiel bietet die Möglichkeit, diese, für viele Jugendliche relevante Thematik, im Unterricht aufzugreifen.
 
-Das Videospiel ist eine Coming-of-Age-Geschichte und könnte im Englischunterricht als Beispiel solcher Texte analysiert werden. Die non-lineare und fragmentierte Erzählweise hält die Spieler:innen dazu an, wichtige Informationen zu identifizieren und Leerstellen mit eigenem sozio-kulturellen Wissen zu erschließen. Somit kann die funktionale kommunikative Kompetenz im Hinblick auf die [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Lesekompetenz]] gefördert werden.
+Das Videospiel ermöglicht es die funktionale kommunikative Kompetenz im Hinblick auf die [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Lesekompetenz]] zu fördern. Die Coming-of-Age-Geschichte  kann im Englischunterricht als Beispiel dieses Genres analysiert werden. Die non-lineare und fragmentierte Erzählweise hält die Spieler:innen dazu an, wichtige Informationen zu identifizieren und Leerstellen mit eigenem sozio-kulturellen Wissen zu erschließen. 
 ### Links:
 [Developerseite](https://dearvillagers.itch.io/a-normal-lost-phone)
 [iOS App Store](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/de/app/a-normal-lost-phone/id1181828672&ved=2ahUKEwjF5Pa5n_uGAxWo_7sIHefBAegQFnoECDoQAQ&usg=AOvVaw3ejKuA-f1IBRdb0nuYD03X)
@@ -42,5 +42,5 @@ Das Videospiel ist eine Coming-of-Age-Geschichte und könnte im Englischunterric
 
 
 ---
-Zuletzt bearbeitet am: 08/10/2024, 12:06
+Zuletzt bearbeitet am: 13/11/2024, 14:40
 

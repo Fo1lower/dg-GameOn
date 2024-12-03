@@ -25,15 +25,15 @@
 In “Dear Esther” landen die Spielenden auf einer einsamen Insel in Schottland. Langsam erkunden Sie die Insel, während ihnen Bruchteile von Briefen vorgelesen werden, die an eine Esther adressiert sind. Es stellt sich heraus, dass Esther bei einem Autounfall ums Leben kam und der Briefverfasser nun über ihre gemeinsame Zeit reflektiert.
 ### Didaktische Anbindung:
 
-Im Rahmen des Englischunterrichts kann die fragmentierte und non-lineare Erzählweise des Spiels genauer untersucht werden. So müssen die Spielenden zunächst die Informationen aus den verschiedenen Briefen logisch verbinden, um sich ein Bild von Esters Geschichte zu machen. Jeder Spielgang ist unterschiedlich, da immer unterschiedliche Bruchstücke der Erzählung dem Spielenden offenbart werden. So können sich die Schüler:innen darüber austauschen, wie sich die Erzählung verändert, wenn einzelne Informationen hinzugefügt oder weggelassen werden.
+Das Videospiel „Dear, Esther“ kann vor allem die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]  der Schüler:innen fördern. Im Rahmen des Englischunterrichts kann die fragmentierte und non-lineare Erzählweise des Spiels genauer untersucht werden. So müssen die Spielenden zunächst die Informationen aus den verschiedenen Briefen logisch verbinden, um sich ein Bild von Esters Geschichte zu machen. Jeder Spielgang ist unterschiedlich, da immer unterschiedliche Bruchstücke der Erzählung dem Spielenden offenbart werden. So können sich die Schüler:innen darüber austauschen, wie sich die Erzählung verändert, wenn einzelne Informationen hinzugefügt oder weggelassen werden.
 
 Darüber hinaus bietet das Spiel Anlass um sich über literarische Stilmittel, wie z.B. Metaphern oder Symbole, auszutauschen. Im Internet gibt es zahlreiche Fanforen, die verschiedene Stilmittel genauer in den Blick nehmen und diskutieren. Solche Foren können entweder im Rahmen einer Internetrecherche durchsucht werden oder aber mit den Schüler:innen nachgestellt werden (z.B. auf Moodle).
 
-Das Setting steht im Vordergrund des Videospiels, da es keine weiteren Charaktere gibt, mit denen der Protagonist direkt interagiert. Somit bieten sich Beschreibungen des Settings, als auch Analysen der Symbole wie z.B. der Leuchtturm, das Meer oder die Antenne, an. Es wird deutlich, dass „Dear, Esther“ vor allem die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] fördern kann.
+Das Setting steht im Vordergrund des Videospiels, da es keine weiteren Charaktere gibt, mit denen der Protagonist direkt interagiert. Somit bieten sich Beschreibungen des Settings, als auch Analysen der Symbole wie z.B. der Leuchtturm, das Meer oder die Antenne, an. 
 
-Außerdem könnte mit den Schüler:innen diskutiert werden, inwiefern es sich bei „Dear Esther“ um ein Spiel handelt, da es keine wirkliche Interaktion mit Gegenständen oder anderen Charakteren gibt.
+Außerdem könnte mit den Schüler:innen diskutiert werden, inwiefern es sich bei „Dear Esther“ um ein Spiel handelt, da es keine wirkliche Interaktion mit Gegenständen oder anderen Charakteren gibt. Eine gemeinsame Definition des Begriffs "Videospiel" kann im Plenum erarbeitet werden. 
 
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 08/10/2024, 12:05
+Zuletzt bearbeitet am: 03/12/2024, 09:52

@@ -19,14 +19,15 @@
 
 ## Über Das Spiel:
 Harmony Square ist ein Spiel mit Desinformations-Thematik. Spieler\*innen übernehmen die Rolle eines Mitarbeiters, der für Harmonie im fiktiven Ort Harmony Square sorgen soll. Allerdings geht es nicht um echte Harmonie, sondern darum, Spannungen zwischen verschiedenen Gruppen zu schüren und Desinformation zu verbreiten.
+
+### Altersfreigabe 
+Das Spiel ist laut den Entwicklern ab 15 Jahren geeignet. Die non-profit Organisation "commonsense.org" empfiehlt das Spiel in den Jahrgangsstufen 8-12. 
 ### Didaktische Anbindung:
 Im Videospiel „Harmony Square“ werden die Lernenden in die Rolle des „Chief Disinformation Officer“ versetzt, der möglichst viel Desinformationen im Internet verbreiten muss.
 
 Das Spiel eröffnet die Möglichkeit einzelne Taktiken von Desinformation wie z.B „trolling“ oder „emotional language“ zu erkennen und im eigenen Medienkonsum zu berücksichtigen. Somit kann die  [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] gefördert werden. Darüber hinaus kann unter den Lernenden diskutiert werden, wie es sich angefühlt hat Desinformationen zu verbreiten und ob sie bereits selbst im Umgang mit dem Internet auf ähnliche Falschinformationen gestoßen sind. Dies könnte zum Erwerb funktionale kommunikative Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]) beitragen.
-
-„Harmony Square“ eignet sich besonders in jüngeren Stufen, da die Fehlinformationen und Auswirkungen dieser, sowie das Design des Spiels auf eine junge Spielerschaft ausgerichtet ist.
 ### Links:
 [spielbar auf Developerseite](https://harmonysquare.game)
 
 ---
-Zuletzt bearbeitet am: 08/10/2024, 12:07
+Zuletzt bearbeitet am: 11/11/2024, 13:52

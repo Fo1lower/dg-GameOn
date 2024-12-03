@@ -26,10 +26,13 @@ Not For Broadcast ist ein satirischer Simulator, der den/die Spieler\*in hinter
 ### Didaktische Anbindung:
 Das Videospiel zeigt einen fiktiven europäischen Staat, in dem die Schüler:innen in die Rolle von Alex Winston versetzt werden, der Produzent der „National Nightly News“ ist. Dabei kontrolliert er, was die Zuschauer:innen im Fernsehen sehen. Die Lernenden können die Nachrichten im Sinne des Regimes zensieren und belohnt oder die Wahrheit zeigen und selbst unterdrückt werden.
 
-Dadurch, dass das Videospiel den Fokus auf Desinformationskampagnen und Falschinformationen legt, könnte die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] der Schüler:innen gefördert werden. Denkbar wäre hier, dass Lernende Tipps oder Regeln zum Schutz vor Desinformationen für jüngere Schüler:innen entwerfen.                            
-Darüber hinaus könnte unter den Lernenden diskutiert werden, wie es sich angefühlt hat Desinformationen zu verbreiten und in einem autoritären Regime unter Druck zu stehen. Dies unterstützt den Erwerb funktionaler kommunikativer Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprachliche Mittel\|Sprachliche Mittel]] , [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Kommunikative Strategien\|kommunikative Strategien]]). In dem Spiel werden in verschiedenen Szenen rassistische, antifeministische und homophobe Aussagen getätigt. Diese Momente im Spiel sind deshalb einzuordnen und kritisch mit den Schüler:innen zu besprechen. Trotzdem bieten viele Dialogsequenzen Potential zur Analyse und Diskussion von autoritären Systemen. Eine Anbindung an dystopische Romane wie z.B.“1984“ von George Orwell ist hier denkbar.
+Dadurch, dass das Videospiel den Fokus auf Desinformationskampagnen und Falschinformationen legt, könnte die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] der Schüler:innen gefördert werden. Denkbar wäre hier, dass die Lernende  konkrete Tipps oder Regeln zum Schutz vor Desinformationen für jüngere Schüler:innen entwerfen.        
+
+Darüber hinaus könnte unter den Lernenden diskutiert werden, wie es sich angefühlt hat Desinformationen zu verbreiten und in einem autoritären Regime unter Druck zu stehen. Dies unterstützt den Erwerb funktionaler kommunikativer Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprachliche Mittel\|Sprachliche Mittel]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Kommunikative Strategien\|kommunikative Strategien]]).
+
+In dem Spiel werden in verschiedenen Szenen rassistische, antifeministische und homophobe Aussagen getätigt. Diese Momente im Spiel sind deshalb einzuordnen und kritisch mit den Schüler:innen zu besprechen. Trotzdem bieten viele Dialogsequenzen Potential zur Analyse und Diskussion von autoritären Systemen. Eine Anbindung an dystopische Romane wie z.B.“ 1984“ von George Orwell ist hier denkbar.
 ### Links:
 [Offizielle Webseite](https://www.notforbroadcastgame.com)
 
 ---
-Zuletzt bearbeitet am: 08/10/2024, 12:11
+Zuletzt bearbeitet am: 03/12/2024, 09:57

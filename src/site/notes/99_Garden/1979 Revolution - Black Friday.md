@@ -26,11 +26,11 @@
 ### Didaktische Anbindung:
 In „1979 Revolution – Black Friday“ müssen die Schüler:innen für den Hauptcharakter Reza Entscheidungen treffen. So stehen seine Entscheidungen z.B. gegenüber Protestierenden oder verschiedenen politischen/ ideologischen Gruppen aber auch Konversationen mit anderen Charakteren im Zentrum des Videospiels.
 
-Es gibt zahlreiche ­Situationen, die von den Schüler:innen bewältigt werden müssen um die schwere Lage im Iran zu überleben. Dies bietet Anlass, über das eigene Spielverhalten in der Fremdsprache zu diskutieren und sich mit eigenen Werten und Prinzipien auseinander zu setzten.
+Es gibt zahlreiche ­Situationen, die von den Schüler:innen bewältigt werden müssen um die schwere Lage im Iran zu überleben. Dies bietet Anlass, um über das eigene Spielverhalten in der Fremdsprache zu diskutieren und sich mit eigenen Werten und Prinzipien auseinander zu setzten.
 
-Verbunden mit Rechercheaufgaben eignet sich das Spiel, um die politsche Vergangenheit und Gegenwart des Iran zu erfahren und diskutieren.
+Verbunden mit Rechercheaufgaben eignet sich das Spiel, um die politische Vergangenheit und Gegenwart des Iran zu erfahren und diskutieren.
 
-Die simulierte Welt, die den historischen Hintergrund rund um die Iranische Revolution und das Ende der Schah-Zeit realitätsnah darstellt, bietet die Möglichkeit [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] in der Zielsprache zu fördern. Die Schüler:innen befassen sich mit einem historischen Ereignis, das sowohl Auswirkungen auf das Leben der Menschen im Iran, als auch in Europa und den USA hatte. So können die Lernenden eine globale Identität entwickeln und Konflikte heutiger Zeit besser nachvollziehen.
+Das spiel bietet die Möglichkeit [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] in der Zielsprache zu fördern. Die simulierte Welt stellt den historischen Hintergrund rund um die Iranische Revolution und das Ende der Schah-Zeit realitätsnah dar. Die Schüler:innen befassen sich mit einem historischen Ereignis, das sowohl Auswirkungen auf das Leben der Menschen im Iran, als auch in Europa und den USA hatte. So können die Lernenden eine globale Identität entwickeln und Konflikte heutiger Zeit besser nachvollziehen.
 
 Das Spiel ist vor allem geeignet, um [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Hörverstehen / Audiovisuelles Verstehen\|Hör­-/ Hör-Seh-­Verstehen ]] zu trainieren, da die Lernenden auf Basis des Gehörten bzw. Gesehenen schnelle Entscheidungen treffen müssen. „1978 Revolution – Black Friday“ bietet somit das Einüben von verschiedenen funktionalen kommunikativen Kompetenzen an.
 
@@ -42,4 +42,4 @@ Pohl, M. (2020). „The game’s afoot!“ – Zum Potential von Computerspiele
 
 
 ---
-Zuletzt bearbeitet am: 08/10/2024, 12:06
+Zuletzt bearbeitet am: 03/12/2024, 09:47

@@ -24,12 +24,22 @@
 ## Über Das Spiel:
 Life is Strange ist ein episodisches Adventure-Spiel, in dem der/die Spieler\*in die Studentin Max Caulfield steuert, die die Fähigkeit entdeckt, die Zeit zurückzudrehen. Mit dieser Kraft muss sie das Leben ihrer besten Freundin Chloe retten und die mysteriösen Ereignisse in ihrer Heimatstadt Arcadia Bay aufdecken.
 ### Didaktische Anbindung:
-- [ ] #SHK 
+Mit dem Videospiel „Life is strange“ kann vor allem funktional kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]), als auch die [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] gefördert werden. Die Handlung des Spiels ist eine klassische Coming-of-Age Geschichte, in der es um Themen wie Freundschaft, Identität und Erwachsen werden geht. Hier knüpft „Life is Strange“ an viele Themenbereiche der Lehrpläne in der Sek. I und II an. 
 
-Becker, D. (2021). _Videospiele im Fremdsprachenunterricht_. Narr Francke Attempto Verlag.
- https://www.stiftung-digitale-spielekultur.de/app/uploads/2020/10/Games-machen-Schule-Machbarkeitsstudie-NRW-Handreichung-fuer-Lehrkraefte.pdf 
+Im Verlaufe des Spiels treffen die Spielenden Entscheidungen für die Protagonistin Max Caulfield. Dies bietet den Schüler:innen die Möglichkeit, sich über die Verschiedenen Entwicklungen der Geschichte auszutauschen und die narrativen Strukturen zu analysieren. Dabei kann die Erzählstruktur mit der aus weiteren Coming-of-Age Werken wie z.B. „Paper Towns“ von John Green oder Serien wie „Twin Peaks“ von David Lynch verglichen werden.                    
+
+Im Englischunterricht können außerdem verschiedene Orte wie z.B. die High School von Max genauer beleuchtet werden. So könnte ein „walkthrough“ durch Max’s High School aufgenommen oder eine schriftliche Beschreibung des Settings angefertigt werden. Dies schließt auch an Themen des Kernlehrplans an, der die Thematisierung von „exemplarische(n) Einblicke(n) in Schulsystem und Schulalltag in den USA“ (MSB NRW, 2019, S.28) fordert.
+
+Max ist ein tiefgründiger Charakter, der im Laufe des Spiels viele Entwicklungen macht. Die Lernenden können z.B. durch Charakterisierungen, Steckbrief, Rollenspiele oder Standbilder Max’s Identitätsentwicklung beschreiben bzw. visualisieren.
+
+Kreatives Schreiben könnte an das Spiel anknüpfen, indem die Spielenden Max’s Lebensgeschichte weiter führen oder die Geschichte aus der Perspektive von Chloe schreiben.
+
+Eine mögliche Unterrichtsgestaltung hat Dr. Daniel Becker in "Videospiele im Fremdsprachenunterricht" im Jahr 2021 veröffentlicht. 
 ### Links:
+Becker, D. (2021). _Videospiele im Fremdsprachenunterricht_. Narr Francke Attempto Verlag.
+https://www.stiftung-digitale-spielekultur.de/app/uploads/2020/10/Games-machen-Schule-Machbarkeitsstudie-NRW-Handreichung-fuer-Lehrkraefte.pdf 
+ 
 [Offizielle Webseite](https://lifeisstrange.square-enix-games.com/en-gb)
 
 ---
-Zuletzt bearbeitet am: 18/09/2024, 10:16
+Zuletzt bearbeitet am: 03/12/2024, 09:55

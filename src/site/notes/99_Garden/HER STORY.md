@@ -12,7 +12,7 @@
 >**Plattformen:** [[01_Background/Plattformen/Android\|Android]],[[01_Background/Plattformen/iOS\|iOS]],[[01_Background/Plattformen/MacOS\|MacOS]],[[01_Background/Plattformen/Windows\|Windows]]
 
 >[!tldr]+ Didaktische Informationen
->**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]
+>**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Hörverstehen Audiovisuelles Verstehen\|Hörverstehen / Audiovisuelles Verstehen]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]
 >**Thematische Anbindung:** [[01_Background/Themen/Medien\|Medien]],[[01_Background/Themen/Soziales Leben\|Soziales Leben]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]],[[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 8-10,Q1/2
@@ -29,11 +29,11 @@ Die Lernenden müssen im Spiel einen Kriminalfall aufarbeiten und die Tat rekons
 
 Da lediglich Videoaufzeichnungen genutzt werden, um den Kriminalfall zu lösen, wird die Möglichkeit eröffnet, das [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Hörverstehen / Audiovisuelles Verstehen\|Hör/ Hör-Seh-Verstehen]] interaktiv einzuüben. Die Informationen, die während des Spielens gesammelt werden, könnten z.B. in Form eines „Ermittlerteams“ ausgetauscht werden. So haben Schüler:innen die Möglichkeit Verständnisprobleme untereinander zu klären und neues Vokabular einzuüben. Dadurch, dass die Schüler:innen keinen Zeitdruck im Spiel haben können Vokabeln nachgeschlagen oder Onlinerecherchen durchgeführt werden.
 
-Die Geschehnisse in „Her Story“ bieten Anlass zur Diskussion von unterschiedlichen Perspektiven auf den Kriminalfall. So bietet die Frage am Ende des Spiels, ob man die Handlungen der Protagonistin nachvollziehen kann, Anlass für eine Debatte. Diese kann unterschiedlich realisiert werden z.B. als Rollenspiel oder Podiumsdiskussion. In diesem Zusammenhang könnten auch mögliche Unterschiede zwischen den Justizsystemen der U.S.A und Deutschland thematisiert werden. Es wird also im Spielverlauf die funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]; [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprachliche Mittel\|Sprachliche Mittel]]) gefördert
+Im Spielverlauf kann auch die funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]; [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprachliche Mittel\|Sprachliche Mittel]]) gefördert werden. Die Geschehnisse in „Her Story“ bieten Anlass zur Diskussion von unterschiedlichen Perspektiven auf den Kriminalfall. So bietet die Frage am Ende des Spiels, ob man die Handlungen der Protagonistin nachvollziehen kann, Anlass für eine Debatte. Diese kann unterschiedlich realisiert werden z.B. als Rollenspiel oder Podiumsdiskussion. In diesem Zusammenhang können auch mögliche Unterschiede zwischen den Justizsystemen der USA und Deutschland thematisiert werden.
 
 Eine mögliche Unterrichtsgestaltung hat Manuela Pohl in „Videospiele als didaktische Herausforderung“ im Jahr 2020 veröffentlicht.
 ### Links: 
 Pohl, M. (2020). „The game’s afoot!“ – Zum Potential von Computerspielen im Fremdsprachenunterricht. In Möring, S., Riemer, N. (Hrsg.), *Videospiele als didaktische Herausforderung*. Universitätsverlag Potsdam.[https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/42932/file/digarec08.pdf](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/42932/file/digarec08.pdf) 
 
 ---
-Zuletzt bearbeitet am: 08/10/2024, 12:08
+Zuletzt bearbeitet am: 03/12/2024, 09:53
