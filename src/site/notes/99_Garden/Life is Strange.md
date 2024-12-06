@@ -28,7 +28,7 @@ Mit dem Videospiel „Life is strange“ kann vor allem funktional kommunikative
 
 Im Verlaufe des Spiels treffen die Spielenden Entscheidungen für die Protagonistin Max Caulfield. Dies bietet den Schüler:innen die Möglichkeit, sich über die Verschiedenen Entwicklungen der Geschichte auszutauschen und die narrativen Strukturen zu analysieren. Dabei kann die Erzählstruktur mit der aus weiteren Coming-of-Age Werken wie z.B. „Paper Towns“ von John Green oder Serien wie „Twin Peaks“ von David Lynch verglichen werden.                    
 
-Im Englischunterricht können außerdem verschiedene Orte wie z.B. die High School von Max genauer beleuchtet werden. So könnte ein „walkthrough“ durch Max’s High School aufgenommen oder eine schriftliche Beschreibung des Settings angefertigt werden. Dies schließt auch an Themen des Kernlehrplans an, der die Thematisierung von „exemplarische(n) Einblicke(n) in Schulsystem und Schulalltag in den USA“ (MSB NRW, 2019, S.28) fordert.
+Im Englischunterricht können außerdem verschiedene Orte wie z.B. die High School von Max genauer beleuchtet werden. So könnte ein „walkthrough“ durch Max’s High School aufgenommen oder eine schriftliche Beschreibung des Settings angefertigt werden. Dies schließt auch an Themen der Kernlehrpläne an, die z.B. die Thematisierung von „exemplarische(n) Einblicke(n) in Schulsystem und Schulalltag in den USA“ (MSB NRW, 2019, S.28) fordern.
 
 Max ist ein tiefgründiger Charakter, der im Laufe des Spiels viele Entwicklungen macht. Die Lernenden können z.B. durch Charakterisierungen, Steckbrief, Rollenspiele oder Standbilder Max’s Identitätsentwicklung beschreiben bzw. visualisieren.
 
@@ -42,4 +42,4 @@ https://www.stiftung-digitale-spielekultur.de/app/uploads/2020/10/Games-machen-S
 [Offizielle Webseite](https://lifeisstrange.square-enix-games.com/en-gb)
 
 ---
-Zuletzt bearbeitet am: 03/12/2024, 09:55
+Zuletzt bearbeitet am: 04/12/2024, 12:14

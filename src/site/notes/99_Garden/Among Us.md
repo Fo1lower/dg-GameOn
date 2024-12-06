@@ -27,7 +27,7 @@ Among Us ist ein Online-Multiplayer-Spiel für 4 bis 10 Spieler\*innen, in dem 
 
 ### Didaktische Anbindung:
 
-Das Spiel „Among Us“ eignet sich besonders gut um die funktional kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]) einzuüben. In den Meeting-Phasen im Spiel müssen die Spieler:innen verschiedene Redewendungen verwenden, um sich darüber auszutauschen, wer gegen die Gruppe arbeitet. Die Lehrkraft kann zunächst ein „Let’s Play“ Video zeigen, aus dem sich die Schüler:innen Notizen zu essentiellen „phrases“ im Spiel machen. Während des Spiels können dann die neuen Redewendungen eingeübt werden. Darüber hinaus können grammatische Strukturen wie das past progressive und simple past mündlich eingeübt werden, indem die Spieler:innen darüber reden an welchen „tasks“ sie arbeiteten, als das Meeting einberufen wurde.
+Das Spiel „Among Us“ eignet sich besonders gut an um die funktional kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]) einzuüben. In den Meeting-Phasen im Spiel müssen die Spieler:innen verschiedene Redewendungen verwenden, um sich darüber auszutauschen, wer gegen die Gruppe arbeitet. Die Lehrkraft kann zunächst ein „Let’s Play“ Video zeigen, aus dem sich die Schüler:innen Notizen zu essentiellen „phrases“ im Spiel machen. Während des Spiels können dann die neuen Redewendungen eingeübt werden. Darüber hinaus können grammatische Strukturen wie das past progressive und simple past mündlich eingeübt werden, indem die Spieler:innen darüber reden an welchen „tasks“ sie arbeiteten, als das Meeting einberufen wurde.
 
 Das Setting, welches u.a. eine Raumstation darstellt, kann genutzt werden, um Bildbeschreibungen mündlich einzuüben. So könnte die Lehrkraft Bildschirmaufnahmen verschiedener Räume zeigen, die von den Schülern beschrieben werden sollen.
 
@@ -42,4 +42,4 @@ https://www.friedrich-verlag.de/friedrich-plus/sekundarstufe/englisch/sprechen-a
 
 
 ---
-Zuletzt bearbeitet am: 03/12/2024, 09:50
+Zuletzt bearbeitet am: 04/12/2024, 11:19

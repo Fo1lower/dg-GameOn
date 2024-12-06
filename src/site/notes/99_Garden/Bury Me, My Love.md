@@ -31,7 +31,7 @@ Im Videospiel „Bury me, my Love“ geht es um die Syrerin Nour, die sich auf d
 „Bury me, my love“ kann  sowohl die funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Lesekompetenz]]), als auch [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] fördern.
 Dadurch, dass die Lernenden mit realistischen Nachrichten konfrontiert werden und auf diese reagieren müssen, wird die Lesekompetenz gefördert. Darüber hinaus bieten die Spielinhalte Anlass, um über verschiedene Handlungsoptionen zu diskutieren. Die Schüler:innen entwickeln eine globale Identität und können Gründe für Migration besser nachvollziehen. 
 
-Da das Thema Migration im Zusammenhang mit Ländern wie Syrien immer wieder medial diskutiert wird, bietet das Spiel die Möglichkeit sich durch Internetrecherche damit genauer zu befassen. Dabei kann die [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Lesekompetenz]], als auch die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] gefördert werden.
+Da das Thema Migration im Zusammenhang mit Ländern wie Syrien immer wieder medial diskutiert wird, bietet das Spiel die Möglichkeit sich durch Internetrecherche damit genauer zu befassen. Dabei kann die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] gefördert werden.
 ### Links:
 [Webseite von ARTE (Prologue kostenlos)]([https://burymemylove.arte.tv/](https://burymemylove.arte.tv/))
 [iOS App Store](https://itunes.apple.com/us/app/bury-me-my-love/id1281473147)
@@ -39,4 +39,4 @@ Da das Thema Migration im Zusammenhang mit Ländern wie Syrien immer wieder medi
 
 
 ---
-Zuletzt bearbeitet am: 03/12/2024, 09:49
+Zuletzt bearbeitet am: 04/12/2024, 11:24

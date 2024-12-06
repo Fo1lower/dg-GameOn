@@ -29,11 +29,11 @@ Das Videospiel „Dear, Esther“ kann vor allem die [[01_Background/Kompetenzen
 
 Darüber hinaus bietet das Spiel Anlass um sich über literarische Stilmittel, wie z.B. Metaphern oder Symbole, auszutauschen. Im Internet gibt es zahlreiche Fanforen, die verschiedene Stilmittel genauer in den Blick nehmen und diskutieren. Solche Foren können entweder im Rahmen einer Internetrecherche durchsucht werden oder aber mit den Schüler:innen nachgestellt werden (z.B. auf Moodle).
 
-Das Setting steht im Vordergrund des Videospiels, da es keine weiteren Charaktere gibt, mit denen der Protagonist direkt interagiert. Somit bieten sich Beschreibungen des Settings, als auch Analysen der Symbole wie z.B. der Leuchtturm, das Meer oder die Antenne, an. 
+Das Setting steht im Vordergrund des Videospiels, da es keine weiteren Charaktere gibt, mit denen der Protagonist direkt interagiert. Somit bieten sich Beschreibungen des Settings, als auch Analysen der Symbole, wie z.B. der Leuchtturm, das Meer oder die Antenne, an. 
 
 Außerdem könnte mit den Schüler:innen diskutiert werden, inwiefern es sich bei „Dear Esther“ um ein Spiel handelt, da es keine wirkliche Interaktion mit Gegenständen oder anderen Charakteren gibt. Eine gemeinsame Definition des Begriffs "Videospiel" kann im Plenum erarbeitet werden. 
 
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 03/12/2024, 09:52
+Zuletzt bearbeitet am: 04/12/2024, 11:28

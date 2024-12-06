@@ -31,10 +31,10 @@ Das survival Spiel "Change - a homeless survival experience" zeigt die Lebenswel
 
 Change  kann die funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]]), als auch [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] fördern. Das Spiel bietet den Schüler:innen die Möglichkeit sich in die Lage eines Obdachlosen hinein zu versetzten und Empathie für Menschen in Not zu entwickeln. Der Effekt der non-linearen Erzählstruktur, sowie die Hintergrundgeschichten der einzelnen Charaktere können genauer im Englischunterricht analysiert werden. So kann z.B. eine Charakterisierungen zu den unterschiedlichen Hauptfiguren geschrieben werden. 
 
-Darüber hinaus bietet das Spiel Anlass zu Diskussionsrunden, durch die funktionale kommunikative Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]) weiterentwickelt werden. . So kann man sich über die dargestellten Biografien austauschen und diskutieren, wie man Menschen frühzeitig helfen kann, um nicht in Obdachlosigkeit zu geraten.
+Darüber hinaus bietet das Spiel Anlass zu Diskussionsrunden, durch die funktionale kommunikative Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]) weiterentwickelt werden. So kann man sich über die dargestellten Biografien austauschen und diskutieren, wie man Menschen frühzeitig helfen kann, um nicht in Obdachlosigkeit zu geraten.
 
 Zusätzlich sind Internetrecherchen zu Anlaufstellen für Bedürftige in der jeweiligen Umgebung denkbar. Weiterführend kann auch zu Obdachlosigkeit in anderen Ländern wie dem Vereinigten Königreich oder den U.S.A. recherchiert werden.
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 03/12/2024, 09:50
+Zuletzt bearbeitet am: 04/12/2024, 11:25

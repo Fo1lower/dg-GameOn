@@ -26,10 +26,10 @@ In "Cloud Chasers - Journey of Hope" begleiten die Schüler:innen den Familienva
 ### Didaktische Anbindung:
 Das Videospiel „Cloud Chasers - Journey of Hope“ zeigt die Situation von Klimaflüchtlingen und die negative Konsequenzen des menschengemachten Klimawandels.
 
-„Cloud Chasers“ eignet sich  für die Entwicklung funktionaler kommunikativer Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]]).Die Charaktere bieten Anlass zur genaueren Analyse. So ist z.B. eine schriftliche Charakterisierung von Francisco oder Amelia denkbar. Darüber hinaus können kreative Schreibaufgaben genutzt werden um sich in die Situation der beiden Flüchtlinge hinein zu versetzten. Die Schüler:innen können dabei ein Tagebucheintrag aus der Sicht von Vater oder Tochter nach dem Spielen schreiben. 
+„Cloud Chasers“ eignet sich  für die Entwicklung funktionaler kommunikativer Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]]).Die Charaktere bieten hierbei Anlass zur genaueren Analyse. So ist z.B. eine schriftliche Charakterisierung von Francisco oder Amelia denkbar. Darüber hinaus können kreative Schreibaufgaben genutzt werden um sich in die Situation der beiden Flüchtlinge hinein zu versetzten. Die Schüler:innen können dabei ein Tagebucheintrag aus der Sicht von Vater oder Tochter nach dem Spielen schreiben. 
 
-Darüber hinaus können Diskussionen geführt werden, inwiefern das Spiel die Situation von Klimaflüchtlingen einfängt. So könnten evtl. weitere Bedrohungen, denen Menschen auf der Flucht ausgesetzt sind, thematisiert werden. Somit können auch funktionale kommunikative Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]) weiterentwickelt werden.
+Darüber hinaus können Diskussionen geführt werden, inwiefern das Spiel die Situation von Klimaflüchtlingen einfängt. So können weitere Bedrohungen, denen Menschen auf der Flucht ausgesetzt sind, thematisiert werden. Somit können auch funktionale kommunikative Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]) weiterentwickelt werden.
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 03/12/2024, 09:50
+Zuletzt bearbeitet am: 04/12/2024, 11:26

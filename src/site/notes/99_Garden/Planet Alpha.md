@@ -24,7 +24,7 @@
 ## Über Das Spiel:
 Planet Alpha ist ein actionreiches 2D-Side-Scroller mit Puzzle-Elementen, in dem um das Überleben auf einem mysteriösen Alien-Planeten gekämpft wird.
 ### Didaktische Anbindung:
-In Planet Alpha begeben sich die Lernenden in zehn Kapiteln auf eine Reise durch unterschiedliche Welten. Im Verlauf des Spiels erkundet der Hauptcharakter, der ein Astronauten ist, die Umgebung und muss den Sonnenzyklus kontrollieren. Mit dem Videospiel kann sowohl die funktionale kommunikative Kompetenz        ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]]), als auch [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] gefördert werden.
+In Planet Alpha begeben sich die Lernenden in zehn Kapiteln auf eine Reise durch unterschiedliche Welten. Im Verlauf des Spiels erkundet der Hauptcharakter, der ein Astronauten ist, die Umgebung und muss den Sonnenzyklus kontrollieren. Mit dem Videospiel kann sowohl die funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]]), als auch [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] gefördert werden.
 
 Die Schüler:innen bewegen sich in einer dystopischen Welt und werden mit Vokabular rund um Natur, Weltraum und Dystopien vertraut gemacht. Somit können die sprachlichen Mittel der Lernenden gefördert werden.
 
@@ -33,4 +33,4 @@ Darüber hinaus bieten die aufwendig gestalteten Welten des Spiels die Möglichk
 [Offizielle Webseite](https://www.team17.com/games/planet-alpha/)
 
 ---
-Zuletzt bearbeitet am: 03/12/2024, 09:56
+Zuletzt bearbeitet am: 04/12/2024, 12:25
