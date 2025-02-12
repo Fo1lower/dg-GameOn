@@ -16,19 +16,19 @@ Auf den Seiten der Themenkomplexe finden sich neben weiterführenden Information
 #### Themenkomplexe:
 
 > [!note]+ Themenkomplexe 
-> - [Zukunftsvisionen](app://obsidian.md/01_Background/Themen/Zukunftsvisionen.md)
-> - [Work and Education](app://obsidian.md/01_Background/Themen/Work%20and%20Education.md)
-> - [Work and Education](app://obsidian.md/01_Background/Themen/Work%20and%20Education.md)
-> - [Soziales Leben](app://obsidian.md/01_Background/Themen/Soziales%20Leben.md)
-> - [United Kingdom](app://obsidian.md/01_Background/Themen/United%20Kingdom.md)
-> - [USA](app://obsidian.md/01_Background/Themen/USA.md)
-> - [Natur & Umwelt](app://obsidian.md/01_Background/Themen/Natur%20&%20Umwelt.md)
-> - [Postkolonialismus](app://obsidian.md/01_Background/Themen/Postkolonialismus.md)
-> - [Medien](app://obsidian.md/01_Background/Themen/Medien.md)
-> - [Science & Technology](app://obsidian.md/01_Background/Themen/Science%20&%20Technology.md)
-> - [Identity and Belonging](app://obsidian.md/01_Background/Themen/Identity%20and%20Belonging.md)
-> - [Elizabethan England](app://obsidian.md/01_Background/Themen/Elizabethan%20England.md)
-> - [Aufgaben einer Globalen Gesellschaft](app://obsidian.md/01_Background/Themen/Aufgaben%20einer%20Globalen%20Gesellschaft.md)
+> - [[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
+> - [[01_Background/Themen/Work and Education\|Work and Education]]
+> - [[01_Background/Themen/Work and Education\|Work and Education]]
+> - [[01_Background/Themen/Soziales Leben\|Soziales Leben]]
+> - [[01_Background/Themen/United Kingdom\|United Kingdom]]
+> - [[01_Background/Themen/USA\|USA]]
+> - [[01_Background/Themen/Natur & Umwelt\|Natur & Umwelt]]
+> - [[01_Background/Themen/Postkolonialismus\|Postkolonialismus]]
+> - [[01_Background/Themen/Medien\|Medien]]
+> - [[01_Background/Themen/Science & Technology\|Science & Technology]]
+> - [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]]
+> - [[01_Background/Themen/Elizabethan England\|Elizabethan England]]
+> - [[01_Background/Themen/Aufgaben einer Globalen Gesellschaft\|Aufgaben einer Globalen Gesellschaft]]
 ### Lehrpläne Sekundarstufe I und II:
 
 >[!tldr]- Lehrpläne NRW
@@ -95,4 +95,4 @@ Auf den Seiten der Themenkomplexe finden sich neben weiterführenden Information
 
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:41
+Zuletzt bearbeitet am: 12/02/2025, 14:53
