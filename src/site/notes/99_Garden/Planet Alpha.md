@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Spielesammlung/Planet Alpha.md","permalink":"/spielesammlung/planet-alpha/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Spielesammlung/Planet Alpha.md","permalink":"/spielesammlung/planet-alpha/","noteIcon":"2"}
 ---
 
 ---
@@ -24,13 +24,18 @@
 ## Über Das Spiel:
 Planet Alpha ist ein actionreiches 2D-Side-Scroller mit Puzzle-Elementen, in dem um das Überleben auf einem mysteriösen Alien-Planeten gekämpft wird.
 ### Didaktische Anbindung:
-In Planet Alpha begeben sich die Lernenden in zehn Kapiteln auf eine Reise durch unterschiedliche Welten. Im Verlauf des Spiels erkundet der Hauptcharakter, der ein Astronauten ist, die Umgebung und muss den Sonnenzyklus kontrollieren. Mit dem Videospiel kann sowohl die funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]]), als auch [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] gefördert werden.
+In "Planet Alpha" begeben sich die Lernenden in zehn Kapiteln auf eine Reise durch unterschiedliche Welten. Im Verlauf des Spiels erkundet man als Astronaut die Umgebung und muss den Sonnenzyklus kontrollieren. Mit dem Videospiel kann sowohl die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]], als auch die funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]]) gefördert werden
 
 Die Schüler:innen bewegen sich in einer dystopischen Welt und werden mit Vokabular rund um Natur, Weltraum und Dystopien vertraut gemacht. Somit können die sprachlichen Mittel der Lernenden gefördert werden.
 
 Darüber hinaus bieten die aufwendig gestalteten Welten des Spiels die Möglichkeit das Beschreiben von Orten einzuüben. So kann, mündlich oder schriftlich, auf Gegenstände, Tiere, Pflanzen, Farbgebung, Licht und Symbolik eingegangen werden. Außerdem bietet sich die Storyline und das Setting an, kreatives Schreiben einzuüben. Dabei könnten die Schüler:innen z.B. gebeten werden die Geschichte um ein Kapitel zu erweitern oder ein alternatives Ende zu verfassen. 
+
+Eine mögliche Unterrichtsgestaltung hat Stefan Labez in "Englisch 5-10 Nr. 61 / Creative writing" im Jahr 2023 veröffentlicht. 
+
 ### Links:
 [Offizielle Webseite](https://www.team17.com/games/planet-alpha/)
 
+Labez, S. (2023). Surviving on Planet Alpha. _Englisch 5-10_. 61. Seite?. https://www.friedrich-verlag.de/friedrich-plus/sekundarstufe/englisch/schreiben/surviving-on-planet-alpha-14390 
+a
 ---
-Zuletzt bearbeitet am: 04/12/2024, 12:25
+Zuletzt bearbeitet am: 12/02/2025, 14:17

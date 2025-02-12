@@ -27,13 +27,16 @@ In dem interaktiven Videospiel "Her Story" müssen die Spielenden eine Videoclip
 ### Didaktische Anbindung:
 Die Lernenden müssen im Spiel einen Kriminalfall aufarbeiten und die Tat rekonstruieren. Dabei stehen ihnen eine Polizeidatenbank mit 200 Videoausschnitten aus Polizeiverhören zur Verfügung.
 
-Da lediglich Videoaufzeichnungen genutzt werden, um den Kriminalfall zu lösen, wird die Möglichkeit eröffnet, das [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Hörverstehen / Audiovisuelles Verstehen\|Hör/ Hör-Seh-Verstehen]] interaktiv einzuüben. Die Informationen, die während des Spielens gesammelt werden, könnten z.B. in Form eines „Ermittlerteams“ ausgetauscht werden. So haben Schüler:innen die Möglichkeit Verständnisprobleme untereinander zu klären und neues Vokabular einzuüben. Dadurch, dass die Schüler:innen keinen Zeitdruck im Spiel haben können Vokabeln nachgeschlagen oder Onlinerecherchen durchgeführt werden.
+Da lediglich Videoaufzeichnungen genutzt werden, um den Kriminalfall zu lösen, wird die Möglichkeit eröffnet, [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Hörverstehen / Audiovisuelles Verstehen\|Hör/ Hör-Seh-Verstehen]] interaktiv einzuüben. Die Schüler:innen müssen dem gehörten und gesehenen wichtige Informationen entnehmen und in einen logischen Zusammenhang setzten. 
 
-Im Spielverlauf kann auch die funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]; [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprachliche Mittel\|Sprachliche Mittel]]) gefördert werden. Die Geschehnisse in „Her Story“ bieten Anlass zur Diskussion von unterschiedlichen Perspektiven auf den Kriminalfall. So bietet die Frage am Ende des Spiels, ob man die Handlungen der Protagonistin nachvollziehen kann, Anlass für eine Debatte. Diese kann unterschiedlich realisiert werden z.B. als Rollenspiel oder Podiumsdiskussion. In diesem Zusammenhang können auch mögliche Unterschiede zwischen den Justizsystemen der USA und Deutschland thematisiert werden.
+Im Spielverlauf kann auch die funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]; [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprachliche Mittel\|Sprachliche Mittel]]) gefördert werden. 
+Die Informationen, die während des Spielens gesammelt werden, könnten z.B. in Form eines „Ermittlerteams“ ausgetauscht werden. So haben Schüler:innen die Möglichkeit Verständnisprobleme untereinander zu klären und neues Vokabular im Bereich Familie und Freundschaft einzuüben. Dadurch, dass die Schüler:innen keinen Zeitdruck im Spiel haben können Vokabeln nachgeschlagen oder Onlinerecherchen durchgeführt werden.
 
-Eine mögliche Unterrichtsgestaltung hat Manuela Pohl in „Videospiele als didaktische Herausforderung“ im Jahr 2020 veröffentlicht.
+Die Geschehnisse in "Her Story“ bieten Anlass zur Diskussion von unterschiedlichen Perspektiven auf den Kriminalfall. So bietet die Frage am Ende des Spiels, ob man die Handlungen der Protagonistin nachvollziehen kann, Anlass für eine Debatte. Diese kann unterschiedlich realisiert werden z.B. als Rollenspiel oder Podiumsdiskussion. In diesem Zusammenhang können auch mögliche Unterschiede zwischen den Justizsystemen der USA und Deutschland thematisiert werden.
+
+Eine mögliche Unterrichtsgestaltung hat Manuela Pohl in "Videospiele als didaktische Herausforderung“ im Jahr 2020 veröffentlicht.
 ### Links: 
 Pohl, M. (2020). „The game’s afoot!“ – Zum Potential von Computerspielen im Fremdsprachenunterricht. In Möring, S., Riemer, N. (Hrsg.), *Videospiele als didaktische Herausforderung*. Universitätsverlag Potsdam.[https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/42932/file/digarec08.pdf](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/42932/file/digarec08.pdf) 
 
 ---
-Zuletzt bearbeitet am: 03/12/2024, 09:53
+Zuletzt bearbeitet am: 12/02/2025, 14:03

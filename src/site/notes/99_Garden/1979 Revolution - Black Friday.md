@@ -24,17 +24,15 @@
 ## Über Das Spiel:
 "1979 Revolution - Black Friday" ist ein interaktives Abenteuer-Videospiel. Die Spielenden werden in die Rolle des angehenden Fotojournalisten Reza Shirazi versetzt, der in den Iran zur Zeit der Iranischen Revolution zurückkehrt. Im Laufe des Spiels muss Reza Entscheidungen treffen um zu überleben.
 ### Didaktische Anbindung:
-In „1979 Revolution – Black Friday“ müssen die Schüler:innen für den Hauptcharakter Reza Entscheidungen treffen. So stehen seine Entscheidungen z.B. gegenüber Protestierenden oder verschiedenen politischen/ ideologischen Gruppen aber auch Konversationen mit anderen Charakteren im Zentrum des Videospiels.
+In "1979 Revolution – Black Friday“ müssen die Schüler:innen für den Hauptcharakter Reza Entscheidungen treffen. So stehen seine Entscheidungen z.B. gegenüber Protestierenden oder verschiedenen politischen Gruppen aber auch Konversationen mit anderen Charakteren im Zentrum des Videospiels.
 
-Es gibt zahlreiche ­Situationen, die von den Schüler:innen bewältigt werden müssen um die schwere Lage im Iran zu überleben. Dies bietet Anlass, um über das eigene Spielverhalten in der Fremdsprache zu diskutieren und sich mit eigenen Werten und Prinzipien auseinander zu setzten.
+Das Spiel bietet die Möglichkeit [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] in der Zielsprache zu fördern. Die simulierte Welt stellt den historischen Hintergrund rund um die Iranische Revolution und das Ende der Schah-Zeit realitätsnah dar. Die Schüler:innen befassen sich mit einem historischen Ereignis, das sowohl Auswirkungen auf das Leben der Menschen im Iran, als auch in Europa und den USA hatte. Verbunden mit Rechercheaufgaben eignet sich das Spiel, um die politische Vergangenheit und Gegenwart des Iran zu erfahren und diskutieren. Das Spiel kann einen Beitrag dazu leisten, dass sich die Lernenden als "global citizens" verstehen und Konflikte heutiger Zeit besser nachvollziehen.
 
-Verbunden mit Rechercheaufgaben eignet sich das Spiel, um die politische Vergangenheit und Gegenwart des Iran zu erfahren und diskutieren.
+Es gibt zahlreiche ­Situationen, die von den Schüler:innen bewältigt werden müssen um die schwere Lage im Iran zu überleben. Dies bietet Anlass, das eigene Spielverhalten in der Fremdsprache zu diskutieren und sich mit eigenen Werten und Prinzipien auseinander zu setzten.
 
-Das spiel bietet die Möglichkeit [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] in der Zielsprache zu fördern. Die simulierte Welt stellt den historischen Hintergrund rund um die Iranische Revolution und das Ende der Schah-Zeit realitätsnah dar. Die Schüler:innen befassen sich mit einem historischen Ereignis, das sowohl Auswirkungen auf das Leben der Menschen im Iran, als auch in Europa und den USA hatte. So können die Lernenden eine globale Identität entwickeln und Konflikte heutiger Zeit besser nachvollziehen.
+Das Spiel ist außerdem geeignet, um das  [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Hörverstehen / Audiovisuelles Verstehen\|Hör­-/ Hör-Seh-­Verstehen ]] zu trainieren, da die Lernenden auf Basis des Gehörten bzw. Gesehenen schnelle Entscheidungen treffen müssen. 
 
-Das Spiel ist vor allem geeignet, um [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Hörverstehen / Audiovisuelles Verstehen\|Hör­-/ Hör-Seh-­Verstehen ]] zu trainieren, da die Lernenden auf Basis des Gehörten bzw. Gesehenen schnelle Entscheidungen treffen müssen. „1978 Revolution – Black Friday“ bietet somit das Einüben von verschiedenen funktionalen kommunikativen Kompetenzen an.
-
-Eine mögliche Unterrichtsgestaltung hat Manuela Pohl in „Videospiele als didaktische Herausforderung“ im Jahr 2020 veröffentlicht.
+Eine mögliche Unterrichtsgestaltung hat Manuela Pohl in "Videospiele als didaktische Herausforderung“ im Jahr 2020 veröffentlicht.
 
 ### Links:
 
@@ -42,4 +40,4 @@ Pohl, M. (2020). „The game’s afoot!“ – Zum Potential von Computerspiele
 
 
 ---
-Zuletzt bearbeitet am: 03/12/2024, 09:47
+Zuletzt bearbeitet am: 12/02/2025, 13:44

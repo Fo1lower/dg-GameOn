@@ -12,7 +12,7 @@
 >**Plattformen:** [[01_Background/Plattformen/Android\|Android]],[[01_Background/Plattformen/iOS\|iOS]],[[01_Background/Plattformen/Nintendo Switch\|Nintendo Switch]],[[01_Background/Plattformen/Windows\|Windows]]
 
 >[!tldr]+ Didaktische Informationen
->**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
+>**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Aufgaben einer Globalen Gesellschaft\|Aufgaben einer Globalen Gesellschaft]],[[01_Background/Themen/Identity and Belonging\|Identity and Belonging]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 8-10,Q1/2
@@ -24,12 +24,12 @@
 ## Über Das Spiel:
 Bury Me, My Love ist ein interaktives narratives Spiel für Mobiltelefone. Der/Die Spieler\*in übernimmt die Rolle von Nour, einer Frau, die auf einer gefährlichen Reise Richtung Europa ist und per SMS mit ihrem Mann Majd kommuniziert. Durch die Nachrichten erfährt der/die Spieler:in von ihren Erlebnissen, Ängsten und Hoffnungen und muss moralische Entscheidungen für Majd treffen, die Nour's Reise beeinflussen.
 ### Zur Altersempfehlung:
-"Bury Me, My Love" beschäftigt sich mit komplexen Themen von Flucht und Krieg und scheut dabei auch nicht vor ernsten Situationen zurück. Das Spiel hat zum gegenwärtigen Zeitpunkt eine Altersfreigabe ab 16 auf Steam, während es im Nintendo Store  und dem iOS App Store ab 12 Jahren gelistet ist. 
+"Bury Me, My Love" beschäftigt sich mit komplexen Themen von Flucht und Krieg und scheut dabei auch nicht vor ernsten Situationen zurück. Das Spiel hat zum gegenwärtigen Zeitpunkt eine Altersfreigabe ab 16 auf Steam, während es im Nintendo Store und dem iOS App Store ab 12 Jahren gelistet ist. 
 ### Didaktische Anbindung:
-Im Videospiel „Bury me, my Love“ geht es um die Syrerin Nour, die sich auf der Flucht befindet, sowie um ihren Ehemann Majd, der in ihrem Heimatland zurückbleibt. Nour hofft auf Sicherheit in Europa. Der Spieler nimmt die Rolle von Nour ein, die mit Majd über eine Instant Messaging App kommuniziert. Die Spielenden können direkten Einfluss auf das Schicksal der Protagonistin nehmen und es gibt insgesamt 19 mögliche Endversionen vom Spiel.
+Im Videospiel "Bury me, my Love“ geht es um die Syrerin Nour, die sich auf der Flucht befindet, sowie um ihren Ehemann Majd, der in ihrem Heimatland zurückbleibt. Nour hofft auf Sicherheit in Europa. Der Spieler nimmt die Rolle von Nour ein, die mit Majd über eine Instant Messaging App kommuniziert. Die Spielenden können direkten Einfluss auf das Schicksal der Protagonistin nehmen und es gibt insgesamt 19 mögliche Endversionen vom Spiel.
 
-„Bury me, my love“ kann  sowohl die funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Lesekompetenz]]), als auch [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] fördern.
-Dadurch, dass die Lernenden mit realistischen Nachrichten konfrontiert werden und auf diese reagieren müssen, wird die Lesekompetenz gefördert. Darüber hinaus bieten die Spielinhalte Anlass, um über verschiedene Handlungsoptionen zu diskutieren. Die Schüler:innen entwickeln eine globale Identität und können Gründe für Migration besser nachvollziehen. 
+"Bury me, my love“ kann sowohl die funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Lesekompetenz]]), als auch [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] fördern.
+Dadurch, dass die Lernenden mit realistischen Nachrichten konfrontiert werden und auf diese reagieren müssen, wird die Lesekompetenz gefördert. Darüber hinaus bieten die Spielinhalte Anlass, um über verschiedene Handlungsoptionen zu diskutieren. Das Spiel kann einen Beitrag dazu leisten, dass sich die Lernenden als "global citizens" verstehen und  Gründe für Migration besser nachvollziehen. 
 
 Da das Thema Migration im Zusammenhang mit Ländern wie Syrien immer wieder medial diskutiert wird, bietet das Spiel die Möglichkeit sich durch Internetrecherche damit genauer zu befassen. Dabei kann die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] gefördert werden.
 ### Links:
@@ -39,4 +39,4 @@ Da das Thema Migration im Zusammenhang mit Ländern wie Syrien immer wieder medi
 
 
 ---
-Zuletzt bearbeitet am: 04/12/2024, 11:24
+Zuletzt bearbeitet am: 12/02/2025, 13:51

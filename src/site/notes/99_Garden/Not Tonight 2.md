@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Spielesammlung/Not Tonight 2.md","permalink":"/spielesammlung/not-tonight-2/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Spielesammlung/Not Tonight 2.md","permalink":"/spielesammlung/not-tonight-2/","noteIcon":"2"}
 ---
 
 ---
@@ -24,9 +24,15 @@
 ## Über Das Spiel:
 Not Tonight 2 ist ein Nachfolger zum düster-humorvollen Einwanderer-Rollenspiel Not Tonight und führt den/die Spieler\*in auf einen Roadtrip durch ein alternatives, dystopisches Amerika.
 ### Didaktische Anbindung:
-- [ ] #SHK 
+Das Spiel "Not Tonight 2“ kann die funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]), [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]], sowie die [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] der Schüler:innen fördern. Thematisch lässt es sich in den Bereich der Dystopien einordnen, die vor allem in den Lehrplänen der Sekundarstufe II eine Rolle spielen.
+
+Die dystopische Darstellung Amerikas bietet Anlass für kontroverse Diskussionen. Die Schüler:innen können beispielsweise darüber diskutieren ob Videospiele politische Entwicklungen abbilden und Haltung einnehmen sollten. Dabei kann die Lehrkraft den Schülern entweder vorgegebene Rollen zuweisen (wie z.B. die Rolle des Politikers, des Gamers, usw.) oder den Schüler:innen die Möglichkeit bieten eine eigne Haltung einzunehmen.
+
+Während des Spielens können sich Schüler:innen in Gruppen zusammenfinden, in denen ein Mitglied das Spiel spielt, während die anderen das Setting oder die Darstellung des Regimes beschreiben. Auch die Symbolik kann hier von den Gruppenmitglieder aufgegriffen und interpretiert werden. Gemeinsam kann abschließend eine Zusammenfassung und Interpretation von "Not Tonight 2“ verschriftlicht werden.  
+
+Für ein vertiefendes Verständnis der U.S. Demokratie und aktuellen antidemokratischen Kräften im Land können verschiedene Sachtexte gelesen oder analysiert werden. 
 ### Links:
 [Steam-Page](https://store.steampowered.com/app/1600370/Not_Tonight_2/)
 
 ---
-Zuletzt bearbeitet am: 07/08/2024, 10:18
+Zuletzt bearbeitet am: 12/02/2025, 14:16

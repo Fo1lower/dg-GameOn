@@ -7,8 +7,6 @@
 
 Diese Internetseite ist die Implementation eines [Obsidian](https://obsidian.md/) Vaults, der im Rahmen des Projekts [Game On!](https://www.uni-muenster.de/Anglistik/Research/Tefl/gameon/index.html) an der [Universität Münster](https://www.uni-muenster.de/) entsteht. Sie ist eng mit der Entwicklung einer Fortbildung zum videospielbasierten Englischunterricht verknüpft, kann aber auch losgelöst von dieser genutzt werden.
 
-
-
 Die Website folgt dem Prinzip eines [Digital Garden](https://nesslabs.com/digital-garden-set-up). Das bedeutet, dass nicht ausschließlich fertige Informationen hier zu finden sind, die dann mit der Zeit vergehen. Stattdessen werden Gedanken und Ideen stetig gedüngt, gewässert oder gar zurückgeschnitten um sich den Dynamiken von Schule und Unterricht anpassen zu können. 
 #### Ziele des Digital Garden:
 
@@ -19,7 +17,7 @@ Die Website folgt dem Prinzip eines [Digital Garden](https://nesslabs.com/digita
 - [[Navigation Digital Garden\|Mehr Informationen zur Navigation des Digital Garden]]
 - [[01_Background/Grundbegriffe/Getting Started\|Grundbegriffe des Videospielbasierten Fremdsprachenunterrichts]]
 - [[00_Lists/List Overview\|Listen von Spielen nach Jahrgangsstufe, Kompetenzen, Themen, etc.]]
-- Infos zum Game On Projekt
+- [Infos zum Game On Projekt](https://www.uni-muenster.de/Anglistik/Research/Tefl/gameon/index.html)
 
 #### Personen:
 
@@ -47,4 +45,4 @@ Das Projekt Game On! ist Teil des Verbundsprojekts [ViFoNET](https://vifonet.de/
 ![FKZ_EU.png](/img/user/-_Media/FKZ_EU.png)
 
 ---
-Zuletzt bearbeitet am: 06/12/2024, 10:23
+Zuletzt bearbeitet am: 12/02/2025, 13:42

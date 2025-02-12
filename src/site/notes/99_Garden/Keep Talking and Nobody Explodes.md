@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Spielesammlung/Keep Talking and Nobody Explodes.md","permalink":"/spielesammlung/keep-talking-and-nobody-explodes/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Spielesammlung/Keep Talking and Nobody Explodes.md","permalink":"/spielesammlung/keep-talking-and-nobody-explodes/","noteIcon":"2"}
 ---
 
 ---
@@ -13,7 +13,7 @@
 
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Kommunikative Strategien\|Kommunikative Strategien]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Mediation\|Mediation]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]
->**Thematische Anbindung:** 
+>**Thematische Anbindung:** \-
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]]
 >**Jahrgangstufe:** 8-10,Q1/2
 
@@ -24,12 +24,14 @@
 ## Über Das Spiel:
 Keep Talking and Nobody Explodes ist ein kooperatives Puzzle-Spiel für zwei oder mehr Spieler\*innen. Eine Person übernimmt die Rolle des "Entschärfers" und sieht eine Bombe auf dem Bildschirm, welche verschiedene Module - kleine logische Puzzles - enthält. Die Lösung dieser Module ist für den:die Entschärfer:in allerdings nicht offensichtlich. Die anderen Spieler:innen ("Experts") haben allerdings Zugriff auf eine Bedienungsanleitung, können die Bombe jedoch nicht sehen. Um die Bombe erfolgreich zu entschärfen, müssen die Experts dem Entschärfer also basierend auf den Informationen im Handbuch und den Beschreibungen des Entschärfers präzise Anweisungen geben. Das Spiel fordert also von den Spielenden nicht nur klare Kommunikation, sondern durch seine zeitliche Komponente auch eine gewisse Stressresistenz.
 ### Didaktische Anbindung:
-In dem Videospiel „Keep talking and nobody explodes“ nehmen jeweils zwei Schüler:innen aktiv am Geschehen teil, während der Rest der Lerngruppe aufmerksam zuschaut. Eine Schüler:in hat eine Rätselanleitung vor sich liegen, während der/die zweite Schüler:in das Spiel bedient. Die restlichen Schülerinnen beobachten die Konversation und geben Feedback. In einem interativen Task Cycle können die Gruppen ihre Strategien besprechen, gemeinsam am Text der Bedienungsanleitung arbeiten und so ihre weiteren Versuche optimieren.
+In dem Videospiel "Keep talking and nobody explodes“ nehmen jeweils zwei Schüler:innen aktiv am Geschehen teil, während der Rest der Lerngruppe Beobachtungsaufträge zugewiesen bekommt. Ein/e Schüler:in hat eine Rätselanleitung vor sich liegen, während der/die zweite Schüler:in das Spiel/ eine digitale Bombe bedient. Die restlichen Schülerinnen beobachten die Konversation und geben Feedback. Zwischen den Spielphasen können die Gruppen ihre Strategien und Text der Bedienungsanleitung gemeinsam besprechen, um so ihre weiteren Versuche zu optimieren.
 
-Wie deutlich wird, arbeiten die Lernenden an ihrer funktionalen kommunikativen Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]), als auch an ihrer Sprachbewusstheit. Dadurch, dass die Schüler:innen unter Zeitdruck stehen, wird Flexibilität und Spontaneität in Konversationen gefördert.                                                  
+Wie deutlich wird, arbeiten die Lernenden an ihrer funktionalen kommunikativen Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]) und ihrer Sprachbewusstheit. Dadurch, dass die Schüler:innen unter Zeitdruck stehen, wird Flexibilität und Spontanität in Konversationen gefördert. Die Beschreibungen in der Anleitung und die nötigen Anweisungen zwischen den Spielenden erfordern ein verständnis von Konditionalsätzen, an deren Erarbeitung in der Sekundarstufe I durch das Spiel angeknüpft werden kann.
+
+
 
 ### Links:
 [Offizielle Webseite](https://keeptalkinggame.com)
 
 ---
-Zuletzt bearbeitet am: 27/11/2024, 15:38
+Zuletzt bearbeitet am: 12/02/2025, 14:08

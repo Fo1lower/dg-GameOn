@@ -15,18 +15,18 @@
 >**Kompetenzen:** `=this.competences`
 >**Thematische Anbindung:** [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]],[[01_Background/Themen/Natur & Umwelt\|Natur & Umwelt]],[[01_Background/Themen/USA\|USA]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
->**Jahrgangstufe:** `=this.in_grade`
+>**Jahrgangstufe:** 8-10
 
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/lM_80zVzwpI?si=mOUt_LMgJYPDSR1X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 ## Über Das Spiel:
-In dem Spiel "Never Alone" begibt sich das kleine Mädchen Nuna auf die Suche nach dem Auslöser eines Schneesturms in ihrem Heimatdorf in Alaska. Auf dem Weg in den Norden des Bundesstaates begleitet sie ein kleiner Fuchs.
+In dem Spiel "Never Alone" begibt sich das kleine Mädchen Nuna auf die Suche nach dem Auslöser eines Schneesturms in ihrem Heimatdorf in Alaska. Auf dem Weg in den Norden des U.S. Bundesstaates begleitet sie ein kleiner Fuchs.
 ### Didaktische Anbindung:
-Das Videospiel „Never Alone“ bietet den Schüler:innen ihre interkulturelle Kompetenz zu fördern. werden Themen wie Freundschaft und Loyalität, aber auch Mythen und Sagen der Ureinwohner Alaskas (bzw. des Iñupiat Stammes) thematisiert. Somit haben die Lernenden die Möglichkeit, Themen, die sie unmittelbar im Alltag betreffen auf einer globalen Ebene zu sehen und etwas über Indigene Völker der U.S.A. zu lernen. Einspieler, die den Spielablauf pausieren, bringen den Spielenden verschiedene Sagen und Praktiken der Iñupiat näher
-Dies schließt auch an den Kernlehrplan der Sek I. an, indem die Thematisierung von "Lebenswirklichkeiten (...) in den USA" (MSB NRW, 2019, S.28) gefordert wird. Am Beispiel Alaskas kann die kulturelle Vielfalt der Vereinigten Staaten hervorgehoben und das Bild des "melting pot" verdeutlicht werden. Im Rahmen des Englischunterrichts wäre der Einsatz von „creative writing“ Aufgaben, in denen die Spielenden die Geschichte von Nuna weiterführen, denkbar. Darüber hinaus können im Anschluss an das Spiel verschiedene alaskanische Comics wie „Chickaloonies“ oder „Wintermoot“ gelesen werden. Diese Comics haben das Potential sowohl das [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]]. 
+Das Videospiel "Never Alone“ bietet sich an, um die interkulturelle Kompetenz der Schüler:innen zu fördern. Im Spiel werden Themen wie Freundschaft und Loyalität, aber auch Mythen und Sagen der Ureinwohner Alaskas (bzw. des Iñupiat Stammes) angesprochen. Somit haben die Lernenden die Möglichkeit, Themen wie Freundschaft, Familie und Gemeinschaft in anderen Kulturen zu sehen und etwas über Indigene Völker der U.S.A. zu lernen. Einspieler, die den Spielablauf pausieren, bringen den Spielenden verschiedene Sagen und Praktiken der Iñupiat näher.
+Am Beispiel Alaskas kann die kulturelle Vielfalt der Vereinigten Staaten hervorgehoben und das Bild des "melting pot" verdeutlicht werden. Somit wird die [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] im Verlauf des Spiels gefördert. 
+
+Im Rahmen des Englischunterrichts wäre der Einsatz von "creative writing“ Aufgaben, in denen die Spielenden die Geschichte von Nuna weiterführen, denkbar. Darüber hinaus können im Anschluss an das Spiel verschiedene alaskanische Comics wie "Chickaloonies“ oder "Wintermoot“ gelesen werden. Diese Comics haben das Potential das [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]] zu fördern. 
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 03/12/2024, 09:54
+Zuletzt bearbeitet am: 12/02/2025, 14:11

@@ -24,15 +24,15 @@
 ## Über Das Spiel:
 Life is Strange ist ein episodisches Adventure-Spiel, in dem der/die Spieler\*in die Studentin Max Caulfield steuert, die die Fähigkeit entdeckt, die Zeit zurückzudrehen. Mit dieser Kraft muss sie das Leben ihrer besten Freundin Chloe retten und die mysteriösen Ereignisse in ihrer Heimatstadt Arcadia Bay aufdecken.
 ### Didaktische Anbindung:
-Mit dem Videospiel „Life is strange“ kann vor allem funktional kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]), als auch die [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] gefördert werden. Die Handlung des Spiels ist eine klassische Coming-of-Age Geschichte, in der es um Themen wie Freundschaft, Identität und Erwachsen werden geht. Hier knüpft „Life is Strange“ an viele Themenbereiche der Lehrpläne in der Sek. I und II an. 
+Mit dem Videospiel "Life is strange“ kann vor allem funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]) gefördert werden. Die Handlung des Spiels ist eine klassische Coming-of-Age Geschichte, in der es um Themen wie Freundschaft, Identität und Erwachsen werden geht. Hier knüpft "Life is Strange“ an viele Themenbereiche der Lehrpläne in der Sek. I und II an. 
 
-Im Verlaufe des Spiels treffen die Spielenden Entscheidungen für die Protagonistin Max Caulfield. Dies bietet den Schüler:innen die Möglichkeit, sich über die Verschiedenen Entwicklungen der Geschichte auszutauschen und die narrativen Strukturen zu analysieren. Dabei kann die Erzählstruktur mit der aus weiteren Coming-of-Age Werken wie z.B. „Paper Towns“ von John Green oder Serien wie „Twin Peaks“ von David Lynch verglichen werden.                    
+Auch die  [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] kann mit "Life is strange" geübt werden. Im Verlaufe des Spiels treffen die Spielenden Entscheidungen für die Protagonistin Max Caulfield, was den Schüler:innen die Möglichkeit bietet, sich über die verschiedenen Entwicklungen der Geschichte auszutauschen und die narrativen Strukturen zu analysieren. Dabei kann die Erzählstruktur mit der aus weiteren Coming-of-Age Werken wie z.B. "Paper Towns“ von John Green oder Serien wie "Twin Peaks“ von David Lynch verglichen werden.                    
 
-Im Englischunterricht können außerdem verschiedene Orte wie z.B. die High School von Max genauer beleuchtet werden. So könnte ein „walkthrough“ durch Max’s High School aufgenommen oder eine schriftliche Beschreibung des Settings angefertigt werden. Dies schließt auch an Themen der Kernlehrpläne an, die z.B. die Thematisierung von „exemplarische(n) Einblicke(n) in Schulsystem und Schulalltag in den USA“ (MSB NRW, 2019, S.28) fordern.
+Im Englischunterricht kann außerdem die [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] gefördert werden, indem verschiedene Orte wie z.B. die High School von Max genauer beleuchtet werden. So könnte ein "walkthrough“ durch Max’s High School aufgenommen oder eine schriftliche Beschreibung des Settings angefertigt werden. Dies schließt auch an Kernlehrpläne an, wie z.B. in NRW, wo die Thematisierung von "exemplarische(n) Einblicke(n) in Schulsystem und Schulalltag in den USA“ (MSB NRW, 2019, S.28) gefordert wird.
 
-Max ist ein tiefgründiger Charakter, der im Laufe des Spiels viele Entwicklungen macht. Die Lernenden können z.B. durch Charakterisierungen, Steckbrief, Rollenspiele oder Standbilder Max’s Identitätsentwicklung beschreiben bzw. visualisieren.
+Max ist ein tiefgründiger Charakter, der im Laufe des Spiels viele Entwicklungen durchläuft. Die Lernenden können z.B. durch Charakterisierungen, Steckbriefe, Rollenspiele oder Standbilder die Identitätsentwicklung des Charakters beschreiben bzw. visualisieren.
 
-Kreatives Schreiben könnte an das Spiel anknüpfen, indem die Spielenden Max’s Lebensgeschichte weiter führen oder die Geschichte aus der Perspektive von Chloe schreiben.
+Kreatives Schreiben könnte an das Spiel anknüpfen, indem die Spielenden Max’s Lebensgeschichte weiter führen oder die Geschichte aus der Perspektive von Chloe schreiben. Dies würde jedoch voraussetzten, dass das gesamte Spiel durchgespielt wurde. 
 
 Eine mögliche Unterrichtsgestaltung hat Dr. Daniel Becker in "Videospiele im Fremdsprachenunterricht" im Jahr 2021 veröffentlicht. 
 ### Links:
@@ -42,4 +42,4 @@ https://www.stiftung-digitale-spielekultur.de/app/uploads/2020/10/Games-machen-S
 [Offizielle Webseite](https://lifeisstrange.square-enix-games.com/en-gb)
 
 ---
-Zuletzt bearbeitet am: 04/12/2024, 12:14
+Zuletzt bearbeitet am: 12/02/2025, 14:09

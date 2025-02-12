@@ -29,10 +29,10 @@ Das Videospiel “Walden, a game” nimmt die Spielenden mit an den Walden Pond 
 In den Unterrichtsstunden zu "Walden, a game" könnte ein Bezug zwischen dem Werk Thoreau's aus dem 19. Jahrhundert und der Lebenswelt der Schüler:innen hergestellt werden, z.B. durch Diskussionsrunden über die Rolle von „Walden“ in Zeiten des Klimawandels oder in Bezug auf den American Dream.
 Drüber hinaus wären Aufsätze denkbar, in denen die Lernenden über ihre eigne Rolle in der Gesellschaft reflektieren und diskutieren, ob sie selbst ein solches Experiment machen würden. So könnte Thoreaus Kritik an Konformität und sozialen Erwartungen genauer in den Blick genommen werden.  
 
-Vorgefertigte Unterrichtsstunden gibt es auf der Website des Videospiels                                         ([https://www.waldengame.com/educators](https://www.waldengame.com/educators)) unter dem Reiter „Educators“. Dabei sind vor allem die Unterrichtsvorschläge zu „Self Reliance“ und „Civil Disobedience“ interessant, da hier Zentrale Themen des Transzendentalismus und des 19. Jahrhunderts thematisiert werden.
+Vorgefertigte Unterrichtsstunden gibt es auf der Website des Videospiels                   ([https://www.waldengame.com/educators](https://www.waldengame.com/educators)) unter dem Reiter „Educators“. Dabei sind vor allem die Unterrichtsvorschläge zu „Self Reliance“ und „Civil Disobedience“ interessant, da hier Zentrale Themen des Transzendentalismus und des 19. Jahrhunderts thematisiert werden.
 ### Links:
 Farber, M. (2022). _A stunning educational video game brings students inside Thoreau’s “Walden”_. Edutopia. [https://www.edutopia.org/article/stunning-educational-video-game-brings-students-inside-thoreaus-walden/](https://www.edutopia.org/article/stunning-educational-video-game-brings-students-inside-thoreaus-walden/) 
 
 
 ---
-Zuletzt bearbeitet am: 04/12/2024, 12:58
+Zuletzt bearbeitet am: 11/12/2024, 13:27

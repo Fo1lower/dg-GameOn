@@ -12,10 +12,10 @@
 >**Plattformen:** [[01_Background/Plattformen/iOS\|iOS]],[[01_Background/Plattformen/Linux\|Linux]],[[01_Background/Plattformen/MacOS\|MacOS]],[[01_Background/Plattformen/Nintendo Switch\|Nintendo Switch]],[[01_Background/Plattformen/Playstation 4\|Playstation 4]],[[01_Background/Plattformen/Windows\|Windows]],[[01_Background/Plattformen/Xbox One\|Xbox One]]
 
 >[!tldr]+ Didaktische Informationen
->**Kompetenzen:** `=this.competences`
+>**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]],[[01_Background/Themen/Soziales Leben\|Soziales Leben]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
->**Jahrgangstufe:** `=this.in_grade`
+>**Jahrgangstufe:** 8-10,Q1/2
 
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/x5KJzLsyfBI?si=Jjtk8V0eSxAKttlT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -24,9 +24,10 @@
 ## Über Das Spiel:
 Kaitlin kehrt nach ihrem Auslandsaufenthalt in Europa zurück in ihre Heimat im Bundesstaat Oregon. In dem Haus, das die Familie geerbt hat, ist jedoch niemand anzufinden und eine Notiz von ihrer Schwester fordert Kaitlin auf, nicht weiter nach ihr zu suchen. Die Protagonistin versucht jedoch trotzdem herauszufinden, was mit ihrer Schwester passiert ist und wo sich ihre Eltern aufhalten. Es stellt sich heraus, dass ihre Schwester Sam mit ihrer Geliebten davongelaufen ist und die Eltern eine Paartherapie angefangen haben. 
 ### Didaktische Anbindung:
-Das Videospiel “Gone Home” bietet die Möglichkeit hre funktional kommunikativen Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]), als auch [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] zu entwickeln und  Fragen der sexuellen Identität zu besprechen. Dabei kann vor allem auf Sams Outing und die Reaktionen der Eltern eingegangen werden. Hier können Parallelen zu queeren Jugendromanen gezogen werden. So kann die Coming-Out Szene im Spiel mit vergleichbaren Momenten in Graphic Novels wie Alice Oseman’s „Heartstopper“ oder Romanen wie Becky Albertalli’s „Love, Simon“ verglichen werden.
-Die Geschichte wird fragmentiert durch verschiedene Funde/ Gegenstände im Haus erzählt, was die Spielenden dazu anhält die Informationen chronologisch zu ordnen und zu einer kohärenten Geschichte zusammen zu fügen. Darüber hinaus sind die Charaktere im Spiel komplex und ermöglichen eine tiefgründige Auseinandersetzung mit ihnen. So können die Schüler:innen Charakterisierungen, auf Basis der verfügbaren Informationen im Haus, schreiben. Kreative Schreibaufgaben, in denen z.B. Kaitlin einen Brief an ihre Eltern oder an ihre Schwester schreibt, sind ebenfalls denkbar und helfen den Lernenden dabei ein besseres Verständnis der Charaktere zu erhalten. 
+Das Videospiel “Gone Home” bietet die Möglichkeit  funktionale kommunikative Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]), als auch [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] zu entwickeln und  Fragen der sexuellen Identität zu besprechen. Dabei kann vor allem auf Sams Outing und die Reaktionen der Eltern eingegangen werden. Hier können Parallelen zu queeren Jugendromanen gezogen werden. So kann die Coming-Out Szene im Spiel mit vergleichbaren Momenten in Graphic Novels wie Alison Bechdel's "Fun Home“ oder Romanen wie André Aciman's "Call me by your name“ verglichen werden.
+
+Die Geschichte wird fragmentiert durch verschiedene Funde/ Gegenstände im Haus erzählt, was die Spielenden dazu anhält die Informationen chronologisch zu ordnen und zu einer kohärenten Geschichte zusammen zu fügen. Weiterhin bietet sich eine Analyse der Charaktere an, die durch ihre Komplexität eine tiefgründige Auseinandersetzung erlauben. Kreative Schreibaufgaben, in denen z.B. Kaitlin einen Brief an ihre Eltern oder an ihre Schwester schreibt, sind ebenfalls denkbar und helfen den Lernenden dabei ein besseres Verständnis der Charaktere zu erhalten. 
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 04/12/2024, 12:09
+Zuletzt bearbeitet am: 12/02/2025, 14:02

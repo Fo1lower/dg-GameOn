@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Spielesammlung/A Normal Lost Phone.md","permalink":"/spielesammlung/a-normal-lost-phone/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Spielesammlung/A Normal Lost Phone.md","permalink":"/spielesammlung/a-normal-lost-phone/","noteIcon":"2"}
 ---
 
 ---
@@ -27,11 +27,11 @@ A Normal Lost Phone ist ein narratives Point-and-Click-Adventure-Spiel, in dem 
 A Normal Lost Phone beschäftigt sich mit komplexen Themen von Identität und Heranwachsen und scheut dabei auch nicht vor ernsten Situationen zurück. Das Spiel hat zum gegenwärtigen Zeitpunkt eine Altersfreigabe ab 12 auf Steam und dem iOS App Store, während es im Google Play Store ab 17 Jahren gelistet ist. [Spielbar.de](https://www.spielbar.de/spiele/150703/a-normal-lost-phone) empfiehlt den Einsatz des Spiels für Jugendliche ab 14 Jahren.
 
 ### Didaktische Anbindung:
-In „A normal lost phone“ müssen die Lernenden auf einem gefundenen Smartphone Informationen über den:die Besitzer:in sammeln. Um an diese Informationen zu gelangen müssen z.B. Passwörter erraten werden, was Anlass bietet mit Schüler:innen über digitale Sicherheit und Privatsphäre zu sprechen.
+In "A normal lost phone“ müssen die Lernenden auf einem gefundenen Smartphone Informationen über den:die Besitzer:in sammeln. So müssen beispielsweise Passwörter erraten werden, um an diese Informationen zu gelangen. Dies bietet Anlass, um die fremdsprachenbezogene digitale Kompetenz der Schüler:innen zu stärken und digitale Sicherheit/ Privatsphäre zu thematisieren.
 
-Der:Die Besitzer:in des Smartphones entlarvt sich als Sam, von dem der:die Spieler:in immer mehr erfährt. Dabei stehen Fragen rund um LGBTQ+ im Vordergrund. Das Videospiel bietet die Möglichkeit, diese, für viele Jugendliche relevante Thematik, im Unterricht aufzugreifen.
+Der:Die Besitzer:in des Smartphones entlarvt sich als Sam, von dem der:die Spieler:in im Verlauf des Spiels immer mehr erfährt. Dabei stehen Fragen rund um LGBTQ+ im Vordergrund. Das Videospiel bietet die Möglichkeit, diese, für viele Jugendliche relevante Thematik, im Unterricht aufzugreifen. In vielen Lehrplänen der Sekundarstufe II sind 
 
-Das Videospiel ermöglicht es die funktionale kommunikative Kompetenz im Hinblick auf die [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Lesekompetenz]] zu fördern. Die Coming-of-Age-Geschichte  kann im Englischunterricht als Beispiel dieses Genres analysiert werden. Die non-lineare und fragmentierte Erzählweise hält die Spieler:innen dazu an, wichtige Informationen zu identifizieren und Leerstellen mit eigenem sozio-kulturellen Wissen zu erschließen. 
+Das Videospiel ermöglicht es die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] zu fördern. Die Coming-of-Age-Geschichte  kann im Englischunterricht als Beispiel dieses Genres analysiert werden. Wie bei diesen Geschichten üblich durchläuft der:die Protagonist:in eine Entwicklung, in der er/ sie zu sich findet bzw. reifer wird. Sam findet im Spielverlauf den Mut sich vor jemandem zu Outen und ein neues Leben zu beginnen. Die non-lineare und fragmentierte Erzählweise hält die Spieler:innen dazu an, wichtige Informationen zu identifizieren und Leerstellen mit eigenem sozio-kulturellen Wissen zu erschließen. 
 ### Links:
 [Developerseite](https://dearvillagers.itch.io/a-normal-lost-phone)
 [iOS App Store](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/de/app/a-normal-lost-phone/id1181828672&ved=2ahUKEwjF5Pa5n_uGAxWo_7sIHefBAegQFnoECDoQAQ&usg=AOvVaw3ejKuA-f1IBRdb0nuYD03X)
@@ -42,5 +42,5 @@ Das Videospiel ermöglicht es die funktionale kommunikative Kompetenz im Hinblic
 
 
 ---
-Zuletzt bearbeitet am: 13/11/2024, 14:40
+Zuletzt bearbeitet am: 12/02/2025, 13:49
 

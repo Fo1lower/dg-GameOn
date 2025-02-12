@@ -24,21 +24,22 @@
 ## Über Das Spiel:
 Das Action-Adventure Videospiel "Rise of the Tomb Raider" behandelt die Suche der britischen Archäologin Lara Croft nach der mysteriösen Stadt Kitesch in den Bergen Sibiriens, da dort ein Artefakt zu finden seien soll, das Unsterblichkeit verleiht. Eine Geheimorganisation ist jedoch dem gleichen Artefakt auf der Spur. 
 ### Didaktische Anbindung:
-In dem Videospiel “Rise of the Tomb Raider” wird die Geschichte des 2013 erschienen Spiels „Tomb Raider“ weitererzählt. Die Protagonistin Lara Croft  ist ein vielschichtiger Charakter, dessen Hintergrundgeschichte, Aussehen und Verhalten in Form einer Charakterisierung genauer beschrieben werden kann. Spielbegleitend kann auch eine „character development“ festgehalten werden, in dem an verschiedenen Stellen im Spiel notiert wird, welche Eigenschaften Lara ausmachen.
+In dem Videospiel “Rise of the Tomb Raider” wird die Geschichte des 2013 erschienen Spiels "Tomb Raider“ weitererzählt. Sowohl Charakter, als auch das Setting bieten den Schüler:innen die Möglichkeit ihre funktionalen kommunikativen Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Hörverstehen / Audiovisuelles Verstehen\|Hör/ Hör-Seh-Verstehen]]) zu entwickeln.
+
+Die Protagonistin Lara Croft  ist ein vielschichtiger Charakter, dessen Hintergrundgeschichte, Aussehen und Verhalten in Form einer Charakterisierung genauer beschrieben werden kann. Spielbegleitend kann die Charakterentwicklung auch visuell festgehalten werden, in dem z.B. eine Collage aus prägenden Erlebnissen, die Laura erlebt, angefertigt wird.
 
 Darüber hinaus sind die Welten in allen Tomb Raider Spielen sehr detailreich gestaltet, was den Schüler:innen die Möglichkeit eröffnet das Setting genau zu beschreiben. Hier können auch Symbole, Licht und Farbgebung genauer analysiert werden.
-
-Sowohl Charakter, als auch das Setting bieten den Schüler:innen die Möglichkeit ihre funktionalen kommunikativen Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Hörverstehen / Audiovisuelles Verstehen\|Hör/ Hör-Seh-Verstehen]]) zu entwickeln.
 
 Im Verlauf des Spiels müssen die Spielenden viele Entscheidungen für Lara treffen. In einem „Game-Log“ können die Schüler:innen ihre Spielentscheidungen festhalten und reflektieren, wie ihre Handlungen die Geschichte beeinflusst haben.
 
 Das Videospiel bietet auch die Möglichkeit, die funktional kommunikative Kompetenz Sprechen, sowie die  [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] der Spielenden zu fördern. 
-"Rise of the Tomb Raider" bietet viele Rätsel die es zu lösen gibt. Hierbei können die Schüler:innen einen „game guide“ oder „walkthrough“, entweder schriftlich oder in Form eines Videos, erstellen. Im Plenum kann diskutiert werden, ob Schüler:innen selber von solchen „walkthroughs“ gebrauch machen würden oder eher ohne Hilfestellung das Spiel bewältigen wollen würden.
 
-Eine mögliche Unterrichtsgestaltung hat  Stephen Kiss unter "Video Games in the English Classroom" auf writerswhocare.wordpress.com  veröffentlicht. 
+In "Rise of the Tomb Raider"gibt es zahlreiche Rätsel, die es zu lösen gibt. Hierbei können die Schüler:innen einen "game guide“ oder "walkthrough“, entweder schriftlich oder in Form eines Videos, erstellen. Im Plenum kann diskutiert werden, ob Schüler:innen selber von solchen "walkthroughs“ Gebrauch machen oder eher ohne Hilfestellung das Spiel bewältigen wollen würden.
+
+Eine mögliche Unterrichtsgestaltung hat Stephen Kiss im Jahr 2020 auf writerswhocare.com veröffentlicht. 
 
 ### Links:
 Stephen V. Kiss (2020). Video Games in the English Classroom. [https://writerswhocare.wordpress.com/2020/09/14/video-games-in-the-english-classroom/](https://writerswhocare.wordpress.com/2020/09/14/video-games-in-the-english-classroom/) 
 
 ---
-Zuletzt bearbeitet am: 03/12/2024, 09:56
+Zuletzt bearbeitet am: 12/02/2025, 14:18

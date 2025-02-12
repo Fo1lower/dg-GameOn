@@ -20,11 +20,16 @@
 ## Über Das Spiel:
 Easy Level Life ist ein sehr kurzes Erlebnisspiel für PC, in dem der/die Spieler\*in für einen Tag die Rolle einer Person of Color übernimmt. Durch alltägliche Situationen erfährt der/die Spieler\*in, welchen subtilen oder direkten Benachteiligungen diese Person aufgrund ihrer Hautfarbe ausgesetzt sein kann.
 ### Didaktische Anbindung:
-Insgesamt können mit „Easy Level Life“ funktional kommunikative Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]]) gefördert werden.
-Im Spiel werden die Schüler:innen in die Rolle einer „person of colour“ (poc) versetzt die Zeuge davon wird, wie Polizeibeamte eine andere „person of colour“ zusammenschlagen. Den Spielenden stehen nun mehrere Handlungsoptionen zur Verfügung, die jedoch alle in einer Tötung durch die Polizeibeamten enden. Das Spiel greift die Erfahrungen und Ängste vieler Afro-Amerikaner auf und gibt Spielenden die Möglichkeit ihre eigene Sicht auf Polizeigewalt und Rassismus zu reflektieren. Die Schüler:innen könnten ihre Entscheidungen und die daraus resultierende Konsequenzen in einem Entscheidungs-Log während des spielens festhalten. Im Anschluss kann auf Basis dieses "Logs" eine Diskussion über Polizeigewalt und die „Black Lives Matter“ Bewegung geführt werden. Unterstützend können auch Sachtexte zu dieser 2013 gegründeten Bürgerrechtsbewegung gelesen und analysiert werden. Außerdem bietet das Spiel Anlass weitere Informationen zur Geschichte der Afro-Amerikaner (Sklaverei, Segregation, Bürgerrechtsbewegung) in den USA zu recherchieren.
+Insgesamt können mit "Easy Level Life“ funktional kommunikative Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]]), sowie [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenzen]] gefördert werden.
+
+Im Spiel werden die Schüler:innen in die Rolle einer "person of colour“ (poc) versetzt die Zeuge davon wird, wie Polizeibeamte eine andere "person of colour“ zusammenschlagen. Den Spielenden stehen nun mehrere Handlungsoptionen zur Verfügung, die jedoch alle in einer Tötung durch die Polizeibeamten enden. 
+
+Das Spiel greift die Erfahrungen und Ängste vieler Afro-Amerikaner auf und gibt Spielenden die Möglichkeit ihre eigene Sicht auf Polizeigewalt und Rassismus zu reflektieren. Die Schüler:innen könnten ihre Entscheidungen und die daraus resultierende Konsequenzen in einem Entscheidungs-Log während des Spielens festhalten. Im Anschluss kann auf Basis dieses Logs eine Diskussion über Polizeigewalt und die "Black Lives Matter“ Bewegung geführt werden. 
+
+Vor Beginn des Spiels sollten Sachtexte zu der 2013 gegründeten Bürgerrechtsbewegung gelesen und analysiert werden. Zusätzlich kann das Spiel Anlass für eine intensivere Auseinandersetzung mit der Geschichte der Afro-Amerikaner (Sklaverei, Segregation, Bürgerrechtsbewegung) in den USA sein. Das Videospiel selbst stellt kaum Hintergrundwissen zur Verfügung. 
 ### Links:
 [kostenlos spielbar auf itch.io]([https://timecube.itch.io/easy-level-life](https://timecube.itch.io/easy-level-life))
 
 ---
-Zuletzt bearbeitet am: 04/12/2024, 11:39
+Zuletzt bearbeitet am: 12/02/2025, 13:59
 

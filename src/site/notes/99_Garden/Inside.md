@@ -24,11 +24,12 @@
 ## Über Das Spiel:
 "Inside" ist ein Jump-'n'-run Spiel, indem ein namenloser Junge einen Abhang hinunterrutscht und sich durch eine Parallelwelt kämpfen muss. Dabei muss er verschiedenen Figuren wie z.B Wissenschaftlern entweichen. 
 ### Didaktische Anbindung:
-In dem Videospiel „Inside“ werden die Lernenden in die Rolle eines kleinen Jungen versetzt, der in eine dystopische Parallelwelt abrutscht, in der er vor immer neuen Gefahren fliehen muss. Die Thematik Flucht und die unterschiedlichen Gründe für diese, wie z.B. Hunger, Klimawandel oder totalitäre Regierungssysteme werden symbolisch in „Inside“ aufgegriffen. Darüber hinaus werden ethische Fragen aufgeworfen wie z.B. zum Umgang mit Technologie und Wissenschaft.
+In dem Videospiel "Inside“ werden die Lernenden in die Rolle eines kleinen Jungen versetzt, der in eine dystopische Parallelwelt abrutscht, in der er vor immer neuen Gefahren fliehen muss. Die Thematik Flucht und die unterschiedlichen Gründe für diese, wie z.B. Hunger, Klimawandel oder totalitäre Regierungssysteme werden symbolisch in "Inside“ aufgegriffen. So könnte z.B. der Helm, mit denen die Zombies gesteuert werden als ein Symbol für Propaganda und Kontrolle in Diktaturen stehen. Hier wirft das Spiel ethische Fragen auf wie z.B. der angemessene Umgang mit Technologie.
+Die Konstante Flucht des Protagonisten und die vielen Gefahren, mit denen er konfrontiert ist, könnten als Symbol für Fluchtbewegungen verstanden werden. Menschen die vor Krieg oder schlechter wirtschaftlicher Perspektiven flüchten, sind ebenfalls konstanten Gefahren ausgesetzt. 
 
-Das Spiel sollte vor allem in der Oberstufe eingesetzt werden, da die Interpretation der Symbolik eine gewisse Reife voraussetzt. Mit „Inside“ wird die Möglichkeit geboten sich genauer mit Symbolik in Videospielen auseinander zu setzten, sowie Parallelen zu dystopischen Romanen wie George Orwells „1984“ zu ziehen. Somit können funktionale kommunikative Kompetenz  ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]]), sowie [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] gefördert werden.
+Das Spiel sollte vor allem in der Oberstufe eingesetzt werden, da die Interpretation der Symbolik eine gewisse Reife voraussetzt. Mit "Inside“ wird die Möglichkeit geboten sich genauer mit Symbolik in Videospielen auseinander zu setzen, sowie Parallelen zu dystopischen Romanen wie George Orwells "1984“ zu ziehen. Somit können funktionale kommunikative Kompetenz  ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]]), sowie [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] gefördert werden.
 ### Links:
 Hancock, T. (2019). The mechanics are the message: Studying video games as texts in the language arts classroom. Minot State University. 
 https://www.proquest.com/docview/2228415751?%20Theses&fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20&parentSessionId=SH%2FyQphvRxs3QyJMwOXDiUyKenQ1Yf8GFqx1rkWKMds%3D
 ---
-Zuletzt bearbeitet am: 08/10/2024, 12:09
+Zuletzt bearbeitet am: 12/02/2025, 14:04
