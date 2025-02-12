@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Hintergrundwissen/Plattformen/Xbox Series X_S.md","permalink":"/hintergrundwissen/plattformen/xbox-series-x-s/","tags":["#platform"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Plattformen/Xbox Series X_S.md","permalink":"/hintergrundwissen/plattformen/xbox-series-x-s/","tags":["#platform"],"noteIcon":"1"}
 ---
 
 Die Xbox Series X und S sind leistungsstarke Konsolen, die primär für Gaming entwickelt wurden und mit ihrer starken Grafikleistung herausstechen.
@@ -17,4 +17,4 @@ Die Anschaffung von Konsolen wie der neuen Xbox oder Playstation ist sehr kosten
 > 
 { .block-language-dataview}
 ---
-Zuletzt bearbeitet am: 08/10/2024, 11:51
+Zuletzt bearbeitet am: 12/02/2025, 14:39

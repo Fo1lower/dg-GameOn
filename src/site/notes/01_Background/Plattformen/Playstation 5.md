@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Hintergrundwissen/Plattformen/Playstation 5.md","permalink":"/hintergrundwissen/plattformen/playstation-5/","tags":["platform"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Plattformen/Playstation 5.md","permalink":"/hintergrundwissen/plattformen/playstation-5/","tags":["platform"],"noteIcon":"1"}
 ---
 
 Die Playstation 5 ist eine leistungsstarke Konsole, die primär für Gaming entwickelt wurde und mit ihrer starken Grafikleistung heraussticht.
@@ -21,4 +21,4 @@ Die Anschaffung von Konsolen wie der neuen Xbox oder Playstation ist sehr kosten
 { .block-language-dataview}
 
 ---
-Zuletzt bearbeitet am: 12/09/2024, 14:15
+Zuletzt bearbeitet am: 12/02/2025, 14:39

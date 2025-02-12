@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Hintergrundwissen/Plattformen/Playstation 4.md","permalink":"/hintergrundwissen/plattformen/playstation-4/","tags":["platform"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Plattformen/Playstation 4.md","permalink":"/hintergrundwissen/plattformen/playstation-4/","tags":["platform"],"noteIcon":"1"}
 ---
 
 Die Playstation 4 ist der Vorgänger der [[01_Background/Plattformen/Playstation 5\|Playstation 5]]. Die Handhabung der beiden Konsolen ist dementsprechend sehr ähnlich, jedoch ist die Playstation 4 älter und grafisch schwächer als die neuere Version. Dafür ist die Anschaffung der Konsole kostengünstiger, besonders über den Gebrauchtmarkt. Die Playstation 4 verfügt über eine etwas größere Auswahl an Bildungsspielen, jedoch immer noch nicht vergleichbar mit der Auswahl auf der [[01_Background/Plattformen/Nintendo Switch\|Nintendo Switch]] oder anderen Plattformen.
@@ -31,4 +31,4 @@ Die Playstation 4 ist der Vorgänger der [[01_Background/Plattformen/Playstation
 { .block-language-dataview}
 
 ---
-Zuletzt bearbeitet am: 08/10/2024, 12:06
+Zuletzt bearbeitet am: 12/02/2025, 14:39

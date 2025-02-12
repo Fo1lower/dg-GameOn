@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Hintergrundwissen/Plattformen/Nintendo Switch.md","permalink":"/hintergrundwissen/plattformen/nintendo-switch/","tags":["platform"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Plattformen/Nintendo Switch.md","permalink":"/hintergrundwissen/plattformen/nintendo-switch/","tags":["platform"],"noteIcon":"1"}
 ---
 
 Die Nintendo Switch ist eine hybride Spielekonsole, die sowohl stationär als Konsole an den Fernseher angeschlossen werden kann, als auch mobil als Handheld genutzt werden kann. Jede Konsole besitzt außerdem mindestens zwei abnehmbare Controller (Joy-Cons), welche von Lernenden geteilt werden können.
@@ -29,4 +29,4 @@ Im Vergleich zu [[01_Background/Plattformen/Xbox Series X_S\|Xbox Series X_S]] u
 { .block-language-dataview}
 
 ---
-Zuletzt bearbeitet am: 08/10/2024, 11:51
+Zuletzt bearbeitet am: 12/02/2025, 14:39

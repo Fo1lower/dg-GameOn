@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Hintergrundwissen/Plattformen/Xbox One.md","permalink":"/hintergrundwissen/plattformen/xbox-one/","tags":["platform"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Plattformen/Xbox One.md","permalink":"/hintergrundwissen/plattformen/xbox-one/","tags":["platform"],"noteIcon":"1"}
 ---
 
 Die Xbox One ist der Vorgänger der [[01_Background/Plattformen/Xbox Series X_S\|Xbox Series X_S]]. Die Handhabung der beiden Konsolen ist dementsprechend sehr ähnlich, jedoch ist die Xbox One älter und grafisch schwächer als die neuere Version. Dafür ist die Anschaffung der Konsole kostengünstiger, besonders über den Gebrauchtmarkt. Die Xbox One verfügt über eine etwas größere Auswahl an Bildungsspielen, jedoch immer noch nicht vergleichbar mit der Auswahl auf der [[01_Background/Plattformen/Nintendo Switch\|Nintendo Switch]] oder anderen Plattformen.
@@ -29,4 +29,4 @@ Die Xbox One ist der Vorgänger der [[01_Background/Plattformen/Xbox Series X_S\
 { .block-language-dataview}
 
 ---
-Zuletzt bearbeitet am: 08/10/2024, 11:51
+Zuletzt bearbeitet am: 12/02/2025, 14:39

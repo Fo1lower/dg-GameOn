@@ -42,5 +42,7 @@ Ab vom Spiel ist die Hintergrundgeschichte des Entwicklers äußerst Interessant
 
 White, S., & Kasinger, C. (2018, March 20). _Valley forged: How one man made the indie video game sensation “Stardew Valley.”_ GQ. https://www.gq.com/story/stardew-valley-eric-barone-profile
 
+Becker, D. (2023). Finde den (Wort-)Schatz! Mit dem Videospiel Stardew Valley Orts- und Wegbeschreibungen üben. Englisch 5-10, 64.
+
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:23
+Zuletzt bearbeitet am: 12/02/2025, 14:32
