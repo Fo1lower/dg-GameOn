@@ -38,4 +38,4 @@ Anders als bisherige SimCity Veröffentlichungen wird in diesem Spiel sehr wenig
 Lacasa, P. et al. (2014). Adolescents Media Experiences in the Classroom: SimCity as a Cultural Model. _Journal of Education and Training Studies_, _2_(1), 103-116. [https://eric.ed.gov/?id=EJ1055115](https://eric.ed.gov/?id=EJ1055115) 
 
 ---
-Zuletzt bearbeitet am: 01/01/1970, 01:00
+Zuletzt bearbeitet am: 12/02/2025, 14:21

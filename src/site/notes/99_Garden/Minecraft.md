@@ -25,6 +25,8 @@
 Minecraft ist ein kreatives Sandbox-Videospiel, in dem Spieler zufällig generierte Welten erkunden, Ressourcen abbauen und verarbeiten, um Werkzeuge, Gebäude und andere Gegenstände zu erstellen. Die Spielwelt ist nahezu grenzenlos und bietet unendliche Möglichkeiten zum Bauen und Entdecken.
 Spieler können im Einzelspielermodus ihre eigenen Abenteuer erleben oder sich mit Freunden zusammentun, um gemeinsam Projekte zu verwirklichen. Neben dem Bauen bietet Minecraft auch ein optionales Kampfsystem gegen Monster und andere Gefahren.
 Es gibt eine Vielzahl an Maps (vorgebaute Spielwelten) in denen Sachverhalte, geschichtliche Ereignisse oder Sprachen spielerisch vermitteln werden. Minecraft ist eines der erfolgreichsten Videospiele aller Zeiten und ist zu einem Phänomen der Popkultur geworden.
+
+Die *Education* Version des Spiels ist teilweise in Microsoft 365-Lizenzen für Schulen oder Universitäten bereits enthalten! Neben allen Grundfunktionen des Spiels bietet diese Version zusätzliche Features zur Begleitung von Lernprozessen durch Lehrende.
 ### Didaktische Anbindung:
 Das Videospiel "Minecraft“ dient als digitaler Sandkasten, in dem die Spielenden sowohl ihrer Kreativität freien Lauf lassen, als auch ihre [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]], sowie  [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] fördern können. Die Kreative Vielfalt des Spiels spiegelt sich hierbei auch in seinen Einsatzmöglichkeiten im Unterricht wieder. Bei der Implementierung bietet sich eine Orientierung an den drei Haupt-Spielmodi an:
 #### Survival-Modus
@@ -47,4 +49,4 @@ Marlatt, R. (2018). Literary analysis using Minecraft: An Asian American youth c
 
 
 ---
-Zuletzt bearbeitet am: 22/01/2025, 11:23
+Zuletzt bearbeitet am: 25/06/2025, 10:53

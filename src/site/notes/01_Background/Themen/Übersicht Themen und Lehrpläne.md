@@ -18,7 +18,6 @@ Auf den Seiten der Themenkomplexe finden sich neben weiterführenden Information
 > [!note]+ Themenkomplexe 
 > - [[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
 > - [[01_Background/Themen/Work and Education\|Work and Education]]
-> - [[01_Background/Themen/Work and Education\|Work and Education]]
 > - [[01_Background/Themen/Soziales Leben\|Soziales Leben]]
 > - [[01_Background/Themen/United Kingdom\|United Kingdom]]
 > - [[01_Background/Themen/USA\|USA]]
@@ -95,4 +94,4 @@ Auf den Seiten der Themenkomplexe finden sich neben weiterführenden Information
 
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:53
+Zuletzt bearbeitet am: 05/03/2025, 14:51

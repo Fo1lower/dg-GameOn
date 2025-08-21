@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Aufgaben einer Globalen Gesellschaft.md","permalink":"/hintergrundwissen/themen/aufgaben-einer-globalen-gesellschaft/","tags":["topic"],"noteIcon":"1"}
 ---
 
+
 ## Themenkomplex: Aufgaben einer Globalen Gesellschaft
 >[!info]- Spiele mit thematischem Bezug
 > | Spiel                                                                           |                                                                                                                                                                | Themen                                                                                                                                                                                                                                                                                                                | Kompetenzen                                                                                                                                                                                                                                                                                                                                                                                                                           | Jgst.                               |
@@ -44,4 +45,4 @@
 - Global Challenges (MV)
 
 ---
-Zuletzt bearbeitet am: 17/07/2024, 14:53
+Zuletzt bearbeitet am: 20/08/2025, 15:30

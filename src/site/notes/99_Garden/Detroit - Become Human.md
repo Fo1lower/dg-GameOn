@@ -13,7 +13,7 @@
 
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
->**Thematische Anbindung:** [[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
+>**Thematische Anbindung:** [[01_Background/Themen/Postkolonialismus\|Postkolonialismus]],[[01_Background/Themen/Science & Technology\|Science & Technology]],[[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
 
@@ -37,4 +37,4 @@ Die drei Hauptcharaktere sind vielschichtig und komplex. Zunächst wäre es hilf
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 13:57
+Zuletzt bearbeitet am: 12/02/2025, 14:57

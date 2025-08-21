@@ -12,7 +12,7 @@
 >**Plattformen:** [[01_Background/Plattformen/Android\|Android]],[[01_Background/Plattformen/iOS\|iOS]],[[01_Background/Plattformen/Linux\|Linux]],[[01_Background/Plattformen/MacOS\|MacOS]],[[01_Background/Plattformen/Playstation 4\|Playstation 4]],[[01_Background/Plattformen/Windows\|Windows]],[[01_Background/Plattformen/Xbox One\|Xbox One]]
 
 >[!tldr]+ Didaktische Informationen
->**Kompetenzen:** `=this.competences`
+>**Kompetenzen:** [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]],[[01_Background/Themen/Natur & Umwelt\|Natur & Umwelt]],[[01_Background/Themen/USA\|USA]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 8-10
@@ -29,4 +29,4 @@ Im Rahmen des Englischunterrichts wäre der Einsatz von "creative writing“ Auf
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:11
+Zuletzt bearbeitet am: 12/02/2025, 14:56
