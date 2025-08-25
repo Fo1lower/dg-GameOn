@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Zukunftsvisionen.md","permalink":"/hintergrundwissen/themen/zukunftsvisionen/","tags":["topic"],"noteIcon":"1"}
 ---
 
+Die Schüler:innen der allgemeinbildenden Schulen werden nach ihrem Schulabschluss maßgeblich an der Gestaltung unserer Gesellschaft und unseres Planeten beteiligt sein. Deshalb sollten sie sich schon in der Schulzeit mit verschiednen Visionen der Zukunft beschäftigen. Die Abhandlung utopischer und dystopischer Texte ermöglicht einen Zugang zu diesem komplexen Thema. Dabei kann auf verschiedene Zukunftsherausforderungen eingegangen werden. So lässt sich eine Brücke zum Thema Klimawandel spannen oder aber zum Thema Globalisierung. Auch die Mediennutzung kann in solchen Texten betrachtet werden.  
 ## Themenkomplex: Zukunftsvisionen
 >[!info]- Spiele mit thematischem Bezug:
 > | Spiel                                                                             |                                                                                                                                                                                | Themen                                                                                                                                                                                                                                                                                                                                                                                        | Kompetenzen                                                                                                                                                                                                                                                                                                                                                                                                                     | Jgst.                                           |
@@ -28,4 +29,4 @@
 - Modelling the Future (HS)
 - Utopia/Dystopia (SL)
 ---
-Zuletzt bearbeitet am: 19/06/2024, 14:07
+Zuletzt bearbeitet am: 21/08/2025, 12:24

@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Soziales Leben.md","permalink":"/hintergrundwissen/themen/soziales-leben/","tags":["topic"],"noteIcon":"1"}
 ---
 
+Der Englischunterricht der Sekundarstufe I beschäftigt sich thematisch vor allem in den ersten Jahren viel mit der Lebenswelt junger Menschen. Dabei werden den Schüler:innen die sprachlichen Mittel an die Hand gegeben, um sich über ihre Lebens- und Gefühlslage ausdrücken zu können. Besprochen werden unter anderem Freunde und Familie, Freizeitaktivitäten, Schulalltag, sowie Möglichkeiten zum sozialen Engagement (z.B. in Politik, Kirche, Umwelt und sozialen Einrichtungen). 
 ## Themenkomplex: Soziales Leben
 >[!info]- Spiele mit thematischem Bezug:
 > | Spiel                                                                                             |                                                                                                                                                                     | Themen                                                                                                                                                                                                                                                                                                                                                                                        | Kompetenzen                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Jgst.                                           |
@@ -53,4 +54,4 @@
 - Schule und Hobbies (RLP)
 - Werte und Normen (TH)
 ---
-Zuletzt bearbeitet am: 30/07/2024, 13:51
+Zuletzt bearbeitet am: 25/08/2025, 13:04

@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Science & Technology.md","permalink":"/hintergrundwissen/themen/science-and-technology/","tags":["topic"],"noteIcon":"1"}
 ---
 
+Seit dem Beginn der industriellen Revolution im 18. Jahrhundert erlebt die Menschheit kontinuierliche technologische Innovationen, die das Leben nachhaltig verändert. In jüngerer Zeit haben das Internet, das Smartphone und  künstliche Intelligenz massive gesellschaftliche Veränderungen angestoßen. Entdeckungen der Naturwissenschaften geben dem Menschen neue Möglichkeiten in seiner Lebensgestaltung (z.B. durch IVF-Technologie). In der gymnasialen Oberstufe erhalten die Schüler:innen die Möglichkeit sich mit diesen Entwicklungen genauer auseinander zu setzten und ihren Einfluss auf das Zusammenleben von Menschen zu analysieren.  Dabei werden sowohl die Chancen als auch Risiken der technischen und wissenschaftlichen Innovationen beleuchtet. 
 ## Themenkomplex: Science and Technology
 >[!info]- Spiele zu diesem Thema
 > | Spiel                                                           |                                                                                                                                                                                | Themen                                                                                                                                                                                                                                                                                                                                                                                        | Kompetenzen                                                                                                                                                                                                                                                                                                          | Jgst.                                           |
@@ -21,4 +22,4 @@
 * Scientific and technological progress and its impact on society (HH)
 * Science and Technology (NS)
 ---
-Zuletzt bearbeitet am: 19/06/2024, 14:06
+Zuletzt bearbeitet am: 25/08/2025, 13:03

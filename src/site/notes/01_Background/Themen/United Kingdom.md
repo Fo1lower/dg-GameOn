@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/United Kingdom.md","permalink":"/hintergrundwissen/themen/united-kingdom/","tags":["topic"],"noteIcon":"1"}
 ---
 
-Das Vereinigte Königreich als Ursprungsland der englischen Sprache ist fester thematischer Bestandteil des Englischunterrichts in der Sekundarstufe I und II. Dabei widmen sich die Schüler:innen zunächst der Geschichte des Landes, sowie den Lebenswirklichkeiten junger Briten. Darüber hinaus wird die Relevanz der Weltmetropole London und die verschiedenen regionalen Identitäten der Briten (z.B. die der Schotten) thematisiert. In der gymnasialen Oberstufe setzten sich die Schüler:innen intensiver mit Großbritannien in einer postkolonialen und globalisierten Welt auseinander. Aktuelle Debatten um die Relevanz der Monarchie, dem Brexit und der kolonialen Vergangenheit werden von den Schülern aufgegriffen und aus verschiednen Perspektiven beleuchtet. 
+Das Vereinigte Königreich  ist fester thematischer Bestandteil des Englischunterrichts in der Sekundarstufe I und II. Dabei widmen sich die Schüler:innen zunächst der Geschichte des Landes, sowie den Lebenswirklichkeiten junger Briten. Darüber hinaus wird die Relevanz der Weltmetropole London und die verschiedenen regionalen Identitäten der Briten (z.B. die der Schotten) thematisiert. In der gymnasialen Oberstufe setzten sich die Schüler:innen intensiver mit Großbritannien in einer postkolonialen und globalisierten Welt auseinander. Aktuelle Debatten um die Relevanz der Monarchie, dem Brexit und der kolonialen Vergangenheit werden von den Schülern aufgegriffen und aus verschiedenen Perspektiven beleuchtet. 
 ## Themenkomplex: Großbritannien
 >[!info]- Spiele mit thematischem Bezug:
 > | Spiel                                     |                                                                                               | Themen                                                                                                                                                | Kompetenzen                                                                                                                                                                                                                                                                                                                | Jgst.                  |
@@ -48,4 +48,4 @@ Das Vereinigte Königreich als Ursprungsland der englischen Sprache ist fester t
 - GB - Past and Present (HS)
 
 ---
-Zuletzt bearbeitet am: 20/08/2025, 16:02
+Zuletzt bearbeitet am: 25/08/2025, 13:05

@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Medien.md","permalink":"/hintergrundwissen/themen/medien/","tags":["topic"],"noteIcon":"1"}
 ---
 
+Durch den Medienwandel, der in der zweiten Hälfte des 20. Jahrhunderts begann, wurde die Kommunikation und der Informationsaustausch so einfach wie nie zuvor. Kabelfernsehen, das Internet, die sozialen Medien und künstliche Intelligenz werden mittlerweile von einem Großteil der Bevölkerung tagtäglich genutzt. Dennoch ist der adequate Umgang mit solchen Medien nicht angeboren und erfordert die Entwicklung komplexer Medienkompetenzen. Der Englischunterricht bietet die Möglichkeit die eigene Mediennutzung zu reflektieren und mit der in angelsächsischen Ländern zu vergleichen. Außerdem erhalten  die Schüler der gymnasialen Oberstufe die Möglichkeit die Auswirkungen des Medienwandels auf eine globalisierte Gesellschaft zu analysieren. 
 ## Themenkomplex: Medien
 >[!info]- Spiele zu diesem Thema
 > | Spiel                                                     |                                                                                                                                                                | Themen                                                                                                                                                                                                                                                                                                                | Kompetenzen                                                                                                                                                                                                                                                                                                                                                                                | Jgst.                               |
@@ -29,7 +30,6 @@
 - Medien (BW) 
 - Kommunikation und Medien (SL)
 - Medien und Technologie (RLP) 
-
 #### Sekundarstufe 2:
 - Medien in Gesellschaft (NRW)
 - The Media, e.g. the Influence of the Media on Public Opinion and Personal Life (NS)
@@ -46,4 +46,4 @@
 - The Media (SH)
 - The Media (SL)
 ---
-Zuletzt bearbeitet am: 17/07/2024, 14:47
+Zuletzt bearbeitet am: 25/08/2025, 12:57

@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Natur & Umwelt.md","permalink":"/hintergrundwissen/themen/natur-and-umwelt/","tags":["topic"],"noteIcon":"1"}
 ---
 
-Der Klimawandel bzw. die zunehmenden Umweltkatastrophen auf der Erde sind auch thematischer Bestandteil des Englischunterrichts der Sekundarstufe I und II. Die Umweltproblematik ist als globale Aufgabe zu interpretieren, bei der die englische Sprache als lingua franca eine zentrale Rolle spielt. Die Schüler:innen setzten sich daher im Englischunterricht mit unserer Natur und dessen Erhalt auf lokaler, nationaler und globaler Ebene unter Nutzung der Zielsprache auseinander. Das Thema bietet Bezugspunkte zu verschiedenen Themenfeldern der gymnasialen Oberstufe wie z.B. Globalisierung, Zukunftsvisionen oder Science and Technology. 
+Der Klimawandel bzw. die zunehmenden Umweltkatastrophen auf der Erde sind auch thematischer Bestandteil des Englischunterrichts der Sekundarstufe I und II. Die Umweltproblematik ist als globale Aufgabe zu interpretieren, bei der die englische Sprache als lingua franca eine zentrale Rolle spielt. Die Schüler:innen setzten sich daher im Englischunterricht mit unserer Natur und deren Erhalt auf lokaler, nationaler und globaler Ebene unter Nutzung der Zielsprache auseinander. Das Thema bietet Bezugspunkte zu verschiedenen Themenfeldern der gymnasialen Oberstufe wie z.B. Globalisierung, Zukunftsvisionen oder Science and Technology. 
 ## Themenkomplex: Natur & Umwelt
 >[!info]- Spiele zu diesem Thema
 > | Spiel                                                                             |                                                                                                                                                                                      | Themen                                                                                                                                                                                                                                                                                                                                                                                        | Kompetenzen                                                                                                                                                                                                                                                                                                                                                                                                                     | Jgst.                                           |
@@ -29,4 +29,4 @@ Der Klimawandel bzw. die zunehmenden Umweltkatastrophen auf der Erde sind auch t
 - Natur/Umwelt (TH)   
 
 ---
-Zuletzt bearbeitet am: 21/08/2025, 10:52
+Zuletzt bearbeitet am: 21/08/2025, 11:13

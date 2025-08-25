@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Identity and Belonging.md","permalink":"/hintergrundwissen/themen/identity-and-belonging/","tags":["topic"],"noteIcon":"1"}
 ---
 
+Schüler:innen wachsen heute in einer pluralistischen Gesellschaft auf, in der es unzählige Möglichkeiten der eigenen Lebensgestaltung gibt. Insbesondere die sozialen Medien konfrontieren junge Menschen tagtäglich mit unzähligen Identitäts- und Lebensmodellen, was zum einen inspirieren, zum anderen aber auch überwältigen und überfordern kann. Der Englischunterricht der Sekundarstufe I und II ermöglicht den Schüler:innen, sich mit ihrer eigenen Identitätskonstruktion unter Berücksichtigung  kultureller, geschlechtlicher, sozialer und religiöser Vielfalt zu befassen.
 ## Themenkomplex: Alltags-, Freizeit- und Lebensgestaltung // Identity and Belonging
 
 >[!info]- Spiele mit thematischem Bezug
@@ -79,4 +80,4 @@
 - Gender Issues (HS)
 
 ---
-Zuletzt bearbeitet am: 19/06/2024, 14:07
+Zuletzt bearbeitet am: 21/08/2025, 11:18

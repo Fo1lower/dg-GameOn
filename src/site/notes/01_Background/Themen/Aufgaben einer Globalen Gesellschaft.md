@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Aufgaben einer Globalen Gesellschaft.md","permalink":"/hintergrundwissen/themen/aufgaben-einer-globalen-gesellschaft/","tags":["topic"],"noteIcon":"1"}
 ---
 
-
+Das Thema Globalisierung wird im den verschiedenen Kernlehrplänen der Länder unterschiedlich weit gefasst. Die Schüler:innen der gymnasialen Oberstufe analysieren die Folgen der Globalisierung und reflektieren ihre eigne Position in einer globalisierten Welt.  Die zunehmende Verflechtung von z.B. Handel, Finanzen und Informationen unterstreicht hier die Bedeutung von Englisch als Lingua Franca. Positive Entwicklungen, wie z.B. einfachere internationale Zusammenarbeit in der Forschung, günstigere Preise für Waren in westlichen Ländern oder einfachere Kommunikation über die Grenzen von Nationalstaaten werden ebenso behandelt wie z.B. die Ausbeutung der Menschen im globalen Süden oder die steigende Umweltbelastung als Kehrseite der Medallie. 
 ## Themenkomplex: Aufgaben einer Globalen Gesellschaft
 >[!info]- Spiele mit thematischem Bezug
 > | Spiel                                                                           |                                                                                                                                                                | Themen                                                                                                                                                                                                                                                                                                                | Kompetenzen                                                                                                                                                                                                                                                                                                                                                                                                                           | Jgst.                               |
@@ -45,4 +45,4 @@
 - Global Challenges (MV)
 
 ---
-Zuletzt bearbeitet am: 20/08/2025, 15:30
+Zuletzt bearbeitet am: 25/08/2025, 12:53
