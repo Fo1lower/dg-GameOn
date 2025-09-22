@@ -17,6 +17,10 @@
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]]
 >**Jahrgangstufe:** `=this.in_grade`
 
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 66 Stunden und 30 Minuten.  
+><sub>Quelle: https://howlongtobeat.com/game/53137</sub>
+
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/ud_refZuQoA?si=vxpnkuiGbZUswdBL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -39,4 +43,4 @@ Abschließend können verschiedene Welten im Plenum miteinander in Kontrast gest
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 13:59
+Zuletzt bearbeitet am: 28/08/2025, 14:08

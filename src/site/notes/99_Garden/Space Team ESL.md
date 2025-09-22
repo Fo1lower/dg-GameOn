@@ -12,7 +12,7 @@
 >**Plattformen:** [[01_Background/Plattformen/Android\|Android]],[[01_Background/Plattformen/iOS\|iOS]]
 
 >[!tldr]+ Didaktische Informationen
->**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Kommunikative Strategien\|Kommunikative Strategien]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]
+>**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Kommunikative Strategien\|Kommunikative Strategien]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]
 >**Thematische Anbindung:** `=default(this.topic,"")`
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]]
 >**Jahrgangstufe:** 5-7,8-10,Q1/2
@@ -34,4 +34,4 @@ Unterrichtsbeispiele gibt es in den Handreichungen auf der Website des Videospie
 Jackson, R. (o.D.). Spaceteam ESL - Activities and Lesson Plans for Teachers, Parents, and Kids! http://spaceteamesl.ca/wp-content/uploads/2015/05/spaceteam-lesson-plan-package.pdf 
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:21
+Zuletzt bearbeitet am: 03/09/2025, 15:53

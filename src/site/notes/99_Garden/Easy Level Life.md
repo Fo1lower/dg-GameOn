@@ -31,5 +31,5 @@ Vor Beginn des Spiels sollten Sachtexte zu der 2013 gegründeten Bürgerrechtsbe
 [kostenlos spielbar auf itch.io]([https://timecube.itch.io/easy-level-life](https://timecube.itch.io/easy-level-life))
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 13:59
+Zuletzt bearbeitet am: 28/08/2025, 14:07
 

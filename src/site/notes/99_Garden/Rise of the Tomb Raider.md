@@ -12,10 +12,14 @@
 >**Plattformen:** [[01_Background/Plattformen/Linux\|Linux]],[[01_Background/Plattformen/MacOS\|MacOS]],[[01_Background/Plattformen/Playstation 4\|Playstation 4]],[[01_Background/Plattformen/Windows\|Windows]],[[01_Background/Plattformen/Xbox One\|Xbox One]]
 
 >[!tldr]+ Didaktische Informationen
->**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
+>**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
+
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 13 Stunden und 30 Minuten.  
+><sub>Quelle: https://howlongtobeat.com/game/19266</sub>
 
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/qiYiddjc6cU?si=AG7LASRSaAHoGfNG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -42,4 +46,4 @@ Eine mögliche Unterrichtsgestaltung hat Stephen Kiss im Jahr 2020 auf writerswh
 Stephen V. Kiss (2020). Video Games in the English Classroom. [https://writerswhocare.wordpress.com/2020/09/14/video-games-in-the-english-classroom/](https://writerswhocare.wordpress.com/2020/09/14/video-games-in-the-english-classroom/) 
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:18
+Zuletzt bearbeitet am: 03/09/2025, 15:52

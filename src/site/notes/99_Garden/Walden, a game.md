@@ -17,6 +17,10 @@
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 8-10,Q1/2
 
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 8 Stunden.  
+><sub>Quelle: https://howlongtobeat.com/game/61692</sub>
+
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/OEJ_59hVPgw?si=4KMwPazdIqk3t6LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -26,7 +30,8 @@ In dem Survival-Spiel "Walden, a game" müssen die Spielenden versuchen im Wald 
 ### Didaktische Anbindung:
 Das Videospiel “Walden, a game” führt die Spielenden mit an den Walden Pond im U.S. Bundesstaat Massachusetts. Im Sommer 1845 entscheidet sich der amerikanische Schriftsteller Henry Thoreau dazu, fast 2 Jahre lang allein in einem Wald am See zu leben. Diese Erfahrungen schreibt er in seinem Werk "Walden or Life in the Woods“ nieder, welches heute zu einem der berühmtesten Werke des Transzendentalismus gehört. Das Spiel bringt das Werk zum Leben und hilft den Lernenden dabei Kernaussagen der transzendentalen Literatur besser zu verstehen. Eine vertiefende Auseinandersetzung mit dem Spiel könnte die funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]]), sowie [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] fördern. Darüber hinaus bietet das Spiel die Möglichkeit über die Industrialisierung in den USA im 19. Jahrhundert, sowie die Entstehung des "American Dream" zu sprechen. Das dargestellte Weltbild von Thoreau könnte als Antithese dieses Traums, vor allem der ökonomischen Dimension des "American Dream" im Kontext der Industrialisierung des 19. Jahrhundert, verstanden werden.
 
-Dabei könnte ein Bezug zur Gegenwart hergestellt werden und im Plenum oder in Kleingruppen debattiert werden, welche Rolle "Walden“ in Zeiten des Klimawandels spielt und ob der American Dream zu Thoreaus Weltanschauung umgedacht werden sollte.
+Hier kann ein Bezug zur Gegenwart hergestellt werden und im Plenum oder in 
+Kleingruppen debattiert werden, welche Rolle "Walden“ in Zeiten des Klimawandels spielt und ob der American Dream zu Thoreaus Weltanschauung umgedacht werden sollte.
 
 Drüber hinaus wären Aufsätze denkbar, in denen die Lernenden diskutieren, ob sie selbst ein solches Experiment wagen würden. Außerdem könnte Thoreaus Kritik an Konformität und sozialen Erwartungen im Bezug auf das eigene Leben genauer in den Blick genommen werden.  
 
@@ -36,4 +41,4 @@ Farber, M. (2022). _A stunning educational video game brings students inside Tho
 
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:23
+Zuletzt bearbeitet am: 03/09/2025, 08:20

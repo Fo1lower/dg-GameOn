@@ -17,6 +17,10 @@
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
 
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 12 Stunden.  
+><sub>Quelle: `=default(this.hltb-url, "")`</sub>
+
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/8KCDR8cMer8?si=ZX5_bCM__tSN0ToD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -37,4 +41,4 @@ Die drei Hauptcharaktere sind vielschichtig und komplex. Zunächst wäre es hilf
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:57
+Zuletzt bearbeitet am: 28/08/2025, 14:07

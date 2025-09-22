@@ -17,6 +17,10 @@
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
 
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 5 Stunden.  
+><sub>Quelle: https://howlongtobeat.com/game/61273</sub>
+
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/z4MoTlO3wNU?si=apYtQm1Xv5ndvfel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -36,4 +40,4 @@ Zusätzlich sind Internetrecherchen zu Anlaufstellen für Bedürftige in der jew
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 13:54
+Zuletzt bearbeitet am: 28/08/2025, 14:06

@@ -17,6 +17,10 @@
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]],[[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
 
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 2 Stunden und 12 Minuten.  
+><sub>Quelle: https://howlongtobeat.com/game/36527</sub>
+
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/_50OJ1uuGoc?si=j-mloRymoMaz00SO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -40,4 +44,4 @@ Pohl, M. (2020). „The game’s afoot!“ – Zum Potential von Computerspiele
 
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 13:44
+Zuletzt bearbeitet am: 28/08/2025, 13:28

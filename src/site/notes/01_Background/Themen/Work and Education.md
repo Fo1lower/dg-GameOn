@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Work and Education.md","permalink":"/hintergrundwissen/themen/work-and-education/","tags":["topic"],"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Work and Education.md","permalink":"/hintergrundwissen/themen/work-and-education/","tags":["topic"],"noteIcon":"2"}
 ---
 
 Englisch ist mittlerweile ein integraler Bestandteil der Arbeitswelt geworden. In einer globalisierten Welt arbeiten zunehmend Menschen aus unterschiedlichen Nationen zusammen, die verschiedenste Sprachen sprechen. Englisch ermöglicht als lingua franca somit nicht nur Zugang zum globalen Arbeitsmarkt, sondern erleichtert die Zusammenarbeit innerhalb von Teams. Im Englischunterricht der Sekundarstufe I und II werden die Schüler:innen in die (angelsächsische) Arbeitswelt eingeführt und lernen, sich auf einem globalen Arbeitsmarkt in der englischen Sprache zu verständigen. 
@@ -30,4 +30,4 @@ Englisch ist mittlerweile ein integraler Bestandteil der Arbeitswelt geworden. I
 - The World of Work (HS)
 - The World of Work (SL)
 ---
-Zuletzt bearbeitet am: 20/08/2025, 16:54
+Zuletzt bearbeitet am: 25/08/2025, 13:36

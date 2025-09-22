@@ -30,4 +30,4 @@ Das Spiel eröffnet die Möglichkeit einzelne Taktiken von Desinformation wie z.
 [spielbar auf Developerseite](https://harmonysquare.game)
 
 ---
-Zuletzt bearbeitet am: 03/01/2025, 15:11
+Zuletzt bearbeitet am: 28/08/2025, 14:09

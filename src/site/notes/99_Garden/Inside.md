@@ -17,6 +17,10 @@
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
 
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 3 Stunden und 30 Minuten.  
+><sub>Quelle: https://howlongtobeat.com/game/21694</sub>
+
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/yDm6PAgNohU?si=3QDKJhKU0RKO4fry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -32,4 +36,4 @@ Das Spiel sollte vor allem in der Oberstufe eingesetzt werden, da die Interpreta
 Hancock, T. (2019). The mechanics are the message: Studying video games as texts in the language arts classroom. Minot State University. 
 https://www.proquest.com/docview/2228415751?%20Theses&fromopenview=true&pq-origsite=gscholar&sourcetype=Dissertations%20&parentSessionId=SH%2FyQphvRxs3QyJMwOXDiUyKenQ1Yf8GFqx1rkWKMds%3D
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:04
+Zuletzt bearbeitet am: 28/08/2025, 14:10

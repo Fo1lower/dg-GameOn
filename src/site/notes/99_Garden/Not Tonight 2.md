@@ -17,6 +17,10 @@
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Artefakt\|Artefakt]],[[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
 
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 7 Stunden und 30 Minuten.  
+><sub>Quelle: https://howlongtobeat.com/game/104062</sub>
+
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/Fa7CFy5pO7M?si=WVghe-04Zscqkx1-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -35,4 +39,4 @@ Für ein vertiefendes Verständnis der U.S. Demokratie und aktuellen antidemokra
 [Steam-Page](https://store.steampowered.com/app/1600370/Not_Tonight_2/)
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:16
+Zuletzt bearbeitet am: 28/08/2025, 14:18

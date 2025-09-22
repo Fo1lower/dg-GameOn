@@ -17,6 +17,10 @@
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 8-10
 
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 3 Stunden.  
+><sub>Quelle: https://howlongtobeat.com/game/42060</sub>
+
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/oRvwVZAZ-TQ?si=sPgXNXGzecQgPCms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -32,4 +36,4 @@ Darüber hinaus können Diskussionen geführt werden, inwiefern das Spiel die Si
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 13:55
+Zuletzt bearbeitet am: 16/09/2025, 14:13

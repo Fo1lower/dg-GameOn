@@ -17,6 +17,10 @@
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 8-10
 
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 3 Stunden.  
+><sub>Quelle: https://howlongtobeat.com/game/21708</sub>
+
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/lM_80zVzwpI?si=mOUt_LMgJYPDSR1X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Über Das Spiel:
@@ -29,4 +33,4 @@ Im Rahmen des Englischunterrichts wäre der Einsatz von "creative writing“ Auf
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:56
+Zuletzt bearbeitet am: 28/08/2025, 14:16

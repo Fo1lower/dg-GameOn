@@ -17,6 +17,10 @@
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Artefakt\|Artefakt]],[[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
 
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 11 Stunden.  
+><sub>Quelle: https://howlongtobeat.com/game/60120</sub>
+
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/a8jtPQY3_fw?si=oPBjXO7aaLljVITj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -34,4 +38,4 @@ Für ein vertiefendes Verständnis der dargestellten Dystopie können auch Sacht
 [Steam-Page](https://store.steampowered.com/app/733790/Not_Tonight/?l=german)
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:16
+Zuletzt bearbeitet am: 28/08/2025, 14:17

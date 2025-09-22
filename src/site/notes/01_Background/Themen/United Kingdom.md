@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/United Kingdom.md","permalink":"/hintergrundwissen/themen/united-kingdom/","tags":["topic"],"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/United Kingdom.md","permalink":"/hintergrundwissen/themen/united-kingdom/","tags":["topic"],"noteIcon":"2"}
 ---
 
 Das Vereinigte Königreich  ist fester thematischer Bestandteil des Englischunterrichts in der Sekundarstufe I und II. Dabei widmen sich die Schüler:innen zunächst der Geschichte des Landes, sowie den Lebenswirklichkeiten junger Briten. Darüber hinaus wird die Relevanz der Weltmetropole London und die verschiedenen regionalen Identitäten der Briten (z.B. die der Schotten) thematisiert. In der gymnasialen Oberstufe setzten sich die Schüler:innen intensiver mit Großbritannien in einer postkolonialen und globalisierten Welt auseinander. Aktuelle Debatten um die Relevanz der Monarchie, dem Brexit und der kolonialen Vergangenheit werden von den Schülern aufgegriffen und aus verschiedenen Perspektiven beleuchtet. 
@@ -48,4 +48,4 @@ Das Vereinigte Königreich  ist fester thematischer Bestandteil des Englischunte
 - GB - Past and Present (HS)
 
 ---
-Zuletzt bearbeitet am: 25/08/2025, 13:05
+Zuletzt bearbeitet am: 25/08/2025, 13:36

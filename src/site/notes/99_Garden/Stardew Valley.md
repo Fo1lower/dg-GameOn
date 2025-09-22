@@ -12,10 +12,14 @@
 >**Plattformen:** [[01_Background/Plattformen/Android\|Android]],[[01_Background/Plattformen/iOS\|iOS]],[[01_Background/Plattformen/Linux\|Linux]],[[01_Background/Plattformen/MacOS\|MacOS]],[[01_Background/Plattformen/Nintendo Switch\|Nintendo Switch]],[[01_Background/Plattformen/Playstation 4\|Playstation 4]],[[01_Background/Plattformen/Windows\|Windows]],[[01_Background/Plattformen/Xbox One\|Xbox One]]
 
 >[!tldr]+ Didaktische Informationen
->**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Kommunikative Strategien\|Kommunikative Strategien]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]
+>**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]],[[01_Background/Kompetenzen/Sprachbewusstheit\|Sprachbewusstheit]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]],[[01_Background/Themen/Natur & Umwelt\|Natur & Umwelt]],[[01_Background/Themen/Soziales Leben\|Soziales Leben]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]]
 >**Jahrgangstufe:** 8-10
+
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 53 Stunden und 30 Minuten.  
+><sub>Quelle: https://howlongtobeat.com/game/34716</sub>
 
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/8A7A1X1TVNc?si=qH118Tw_9uR--axp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -45,4 +49,4 @@ White, S., & Kasinger, C. (2018, March 20). _Valley forged: How one man made th
 Becker, D. (2023). Finde den (Wort-)Schatz! Mit dem Videospiel Stardew Valley Orts- und Wegbeschreibungen üben. Englisch 5-10, 64.
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:32
+Zuletzt bearbeitet am: 03/09/2025, 15:54

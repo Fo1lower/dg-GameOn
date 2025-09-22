@@ -12,10 +12,14 @@
 >**Plattformen:** [[01_Background/Plattformen/Nintendo Switch\|Nintendo Switch]],[[01_Background/Plattformen/Playstation 4\|Playstation 4]],[[01_Background/Plattformen/Windows\|Windows]],[[01_Background/Plattformen/Xbox One\|Xbox One]]
 
 >[!tldr]+ Didaktische Informationen
->**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]]
+>**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Zukunftsvisionen\|Zukunftsvisionen]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]],[[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 8-10,Q1/2
+
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 5 Stunden.  
+><sub>Quelle: https://howlongtobeat.com/game/60334</sub>
 
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/0JTTiN62QiQ?si=QyvYNYaxqWjSI8ja" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -36,6 +40,6 @@ Eine mögliche Unterrichtsgestaltung hat Stefan Labez in "Englisch 5-10 Nr. 61 /
 [Offizielle Webseite](https://www.team17.com/games/planet-alpha/)
 
 Labez, S. (2023). Surviving on Planet Alpha. _Englisch 5-10_. 61. Seite?. https://www.friedrich-verlag.de/friedrich-plus/sekundarstufe/englisch/schreiben/surviving-on-planet-alpha-14390 
-a
+
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:17
+Zuletzt bearbeitet am: 03/09/2025, 15:51

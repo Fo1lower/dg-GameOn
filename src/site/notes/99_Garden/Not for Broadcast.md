@@ -17,6 +17,10 @@
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]],[[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
 
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 8 Stunden und 30 Minuten.  
+><sub>Quelle: https://howlongtobeat.com/game/74860</sub>
+
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/Ey_Ips4WId8?si=29h7X8BvFeX-lK9J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -35,4 +39,4 @@ In dem Spiel werden in verschiedenen Szenen rassistische, antifeministische und 
 [Offizielle Webseite](https://www.notforbroadcastgame.com)
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:14
+Zuletzt bearbeitet am: 28/08/2025, 14:17

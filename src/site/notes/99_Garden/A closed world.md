@@ -33,4 +33,4 @@ Des Weiteren kann das Thema der Flucht aufgrund von sexueller oder geschlechtlic
 [Das Spiel auf ArcadeSpot im Browser Spielen](https://arcadespot.com/game/a-closed-world/)
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 13:46
+Zuletzt bearbeitet am: 28/08/2025, 13:59

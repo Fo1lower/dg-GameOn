@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Übersicht Themen und Lehrpläne.md","permalink":"/hintergrundwissen/themen/uebersicht-themen-und-lehrplaene/","pinned":true,"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Hintergrundwissen/Themen/Übersicht Themen und Lehrpläne.md","permalink":"/hintergrundwissen/themen/uebersicht-themen-und-lehrplaene/","pinned":true,"noteIcon":"2"}
 ---
 
 ## Thematische Schwerpunkte des Englischunterrichts
@@ -94,4 +94,4 @@ Auf den Seiten der Themenkomplexe finden sich neben weiterführenden Information
 
 
 ---
-Zuletzt bearbeitet am: 05/03/2025, 14:51
+Zuletzt bearbeitet am: 25/08/2025, 13:36

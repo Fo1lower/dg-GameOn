@@ -17,6 +17,10 @@
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 8-10,Q1/2
 
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 51 Stunden.  
+><sub>Quelle: https://howlongtobeat.com/game/6515</sub>
+
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/3nc6_S2Jkrg?si=n1fcCm7kzIp2OWRe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -37,4 +41,4 @@ Adams, M. G. (2009). Engaging 21st-century adolescents: Video games in the readi
 
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:14
+Zuletzt bearbeitet am: 28/08/2025, 14:17

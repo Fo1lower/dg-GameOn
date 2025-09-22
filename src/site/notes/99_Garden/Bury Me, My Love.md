@@ -17,6 +17,10 @@
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 8-10,Q1/2
 
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 2 Stunden.  
+><sub>Quelle: https://howlongtobeat.com/game/51754</sub>
+
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/PKVns6TahJk?si=6sYxpRo0EDx5yL4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -39,4 +43,4 @@ Da das Thema Migration im Zusammenhang mit Ländern wie Syrien immer wieder medi
 
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 13:51
+Zuletzt bearbeitet am: 28/08/2025, 14:05

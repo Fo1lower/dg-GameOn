@@ -12,10 +12,14 @@
 >**Plattformen:** [[01_Background/Plattformen/Playstation 4\|Playstation 4]],[[01_Background/Plattformen/Windows\|Windows]],[[01_Background/Plattformen/Xbox One\|Xbox One]]
 
 >[!tldr]+ Didaktische Informationen
->**Kompetenzen:** [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
+>**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 8-10,Q1/2
+
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 3 Stunden.  
+><sub>Quelle: https://howlongtobeat.com/game/25029</sub>
 
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/aWY76dNvXyo?si=eHITdB472N4IKzyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -35,4 +39,4 @@ Aufgrund der komplexen Thematik ist das Spiels vor allem in der Oberstufe oder z
 [Offizielle Webseite](https://www.ea.com/en-gb/games/sea-of-solitude)
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:18
+Zuletzt bearbeitet am: 03/09/2025, 15:52

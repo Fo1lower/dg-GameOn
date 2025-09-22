@@ -17,6 +17,10 @@
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]]
 >**Jahrgangstufe:** 5-7,8-10,Q1/2
 
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 133 Stunden.  
+><sub>Quelle: https://howlongtobeat.com/game/6064</sub>
+
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/MmB9b5njVbA?si=xkVy1CtShsUblrIR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -49,4 +53,4 @@ Marlatt, R. (2018). Literary analysis using Minecraft: An Asian American youth c
 
 
 ---
-Zuletzt bearbeitet am: 25/06/2025, 10:53
+Zuletzt bearbeitet am: 28/08/2025, 14:15

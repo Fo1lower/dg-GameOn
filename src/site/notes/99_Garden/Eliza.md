@@ -17,6 +17,10 @@
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
 
+>[!tldr]+ Spielzeit: 
+>Die durchschnittliche Spielzeit beträgt 5 Stunden und 30 Minuten.  
+><sub>Quelle: https://howlongtobeat.com/game/58748</sub>
+
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/UfrS8fbhHSw?si=RVndmchCDtg_6qVC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -35,4 +39,4 @@ Insgesamt bietet es sich an mit den Schüler:innen darüber zu diskutieren, inwi
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 14:01
+Zuletzt bearbeitet am: 28/08/2025, 14:08
