@@ -12,7 +12,7 @@
 >**Plattformen:** [[01_Background/Plattformen/Linux\|Linux]],[[01_Background/Plattformen/MacOS\|MacOS]],[[01_Background/Plattformen/Windows\|Windows]]
 
 >[!tldr]+ Didaktische Informationen
->**Kompetenzen:** [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
+>**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Soziales Leben\|Soziales Leben]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
@@ -35,4 +35,4 @@ Diese komplexe Thematik wird durch Symbolik im Spiel unterstrichen. So stehen di
 
 
 ---
-Zuletzt bearbeitet am: 22/09/2025, 10:13
+Zuletzt bearbeitet am: 01/10/2025, 08:28

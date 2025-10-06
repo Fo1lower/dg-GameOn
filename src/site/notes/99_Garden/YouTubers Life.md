@@ -28,8 +28,8 @@ Das Videospiel "Youtubers Life" ist besonders aufgrund seines Bezuges zur Lebens
 
  "Youtubers Life" bietet sich an, um verschiedene kreative Schreibaufgaben zu bearbeiten, wodurch die [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreibkompetenz]] geschult wird. Ausgehend von den zahlreichen Figuren können  beispielsweise Tagebucheinträge, Online-Chats oder fiktive Weitererzählungen der Geschichte angefertigt werden. 
 
-In höheren Stufen kann der Beruf des Medienschaffenden durch Gebrauchstexte kritisch beleuchtet  und somit die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] gefördert werden. Sachbuch- und Nachrichtenartikel, sowie Blog Beiträge, die über die Vor- und Nachteile einer Selbstständigkeit im digitalen Bereich berichten könnten zusammengefasst, analysiert und kommentiert werden. Die Erfahrungen aus dem Videospiel können vor allem in der Diskussion dieser Texte berücksichtigt werden. Gerade in der Oberstufe können hier Brücken zu Themen wie "Science and Technology" oder der "World of Work" geschlagen werden.
+In höheren Stufen kann der Beruf des Medienschaffenden durch Gebrauchstexte kritisch beleuchtet und somit die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] gefördert werden. Sachbuch- und Nachrichtenartikel, sowie Blog Beiträge, die über die Vor- und Nachteile einer Selbstständigkeit im digitalen Bereich berichten, könnten zusammengefasst, analysiert und kommentiert werden. Die Erfahrungen aus dem Videospiel können vor allem in der Diskussion dieser Texte berücksichtigt werden. Gerade in der Oberstufe sollten hier Brücken zu Themen wie "Science and Technology" oder der "World of Work" geschlagen werden.
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 22/09/2025, 10:15
+Zuletzt bearbeitet am: 24/09/2025, 12:18

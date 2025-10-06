@@ -12,7 +12,7 @@
 >**Plattformen:** [[01_Background/Plattformen/Windows\|Windows]],[[01_Background/Plattformen/Xbox One\|Xbox One]]
 
 >[!tldr]+ Didaktische Informationen
->**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
+>**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]],[[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]],[[01_Background/Themen/Soziales Leben\|Soziales Leben]],[[01_Background/Themen/USA\|USA]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
@@ -35,4 +35,4 @@ Darüber hinaus können im Anschluss an das Spiel verschiedene alaskanische Comi
 
 
 ---
-Zuletzt bearbeitet am: 22/09/2025, 10:12
+Zuletzt bearbeitet am: 01/10/2025, 08:28

@@ -24,7 +24,7 @@
 ## Über Das Spiel:
 Im Videospiel "A closed world“ flieht die Protagonist:in aufgrund ihrer sexuellen Orientierung in einen Wald, indem er/ sie sich seinen/ ihren eigenen Problemen stellt.
 ### Didaktische Anbindung:
-“A closed world“ bietet die Möglichkeit die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] zu fördern. Das Setting und die literarischen Stilmittel können im Videospielen genauer in den Blick genommen werden. So kann die Symbolik des Waldes als Ortes der Einsamkeit, Orientierungslosigkeit und Ratlosigkeit interpretiert werden, während die Monster in ihm für Unsicherheiten im Kontext der sexuellen Orientierung stehen. 
+“A closed world“ bietet die Möglichkeit die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] zu fördern. Das Setting und die literarischen Stilmittel können im Videospiel genauer in den Blick genommen werden. So kann die Symbolik des Waldes als Ortes der Einsamkeit, Orientierungslosigkeit und Ratlosigkeit interpretiert werden, während die Monster in ihm für Unsicherheiten im Kontext der sexuellen Orientierung stehen. 
 
 Da Fragen und Ängste im Bezug auf die sexuellen Identität ein zentraler Bestandteil des Spiels sind, kann im Unterrichtsverlauf vertiefend über LGBTQ+ Themen gesprochen werden. Dabei kann vor allem diskutiert werden, mit welchen Schwierigkeiten queere Personen in gegenwärtigen gesellschaftlichen Diskursen konfrontiert sind. Die Darstellung des Coming-Outs und das Ausleben der eigenen sexuellen Identität in "A closed world“ könnte mit Inhalten queerer Jugendromanen wie Alice Oseman’s "Heartstopper“ oder Becky Albertalli’s „Love, Simon“ verglichen werden.
 
@@ -33,4 +33,4 @@ Des Weiteren kann das Thema der Flucht aufgrund von sexueller oder geschlechtlic
 [Das Spiel auf ArcadeSpot im Browser Spielen](https://arcadespot.com/game/a-closed-world/)
 
 ---
-Zuletzt bearbeitet am: 28/08/2025, 13:59
+Zuletzt bearbeitet am: 01/10/2025, 08:23

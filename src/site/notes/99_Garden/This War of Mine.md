@@ -12,7 +12,7 @@
 >**Plattformen:** [[01_Background/Plattformen/Android\|Android]],[[01_Background/Plattformen/iOS\|iOS]],[[01_Background/Plattformen/Linux\|Linux]],[[01_Background/Plattformen/MacOS\|MacOS]],[[01_Background/Plattformen/Nintendo Switch\|Nintendo Switch]],[[01_Background/Plattformen/Playstation 4\|Playstation 4]],[[01_Background/Plattformen/Windows\|Windows]],[[01_Background/Plattformen/Xbox One\|Xbox One]]
 
 >[!tldr]+ Didaktische Informationen
->**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]],[[01_Background/Kompetenzen/Sprachbewusstheit\|Sprachbewusstheit]]
+>**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]]
 >**Thematische Anbindung:** [[01_Background/Themen/Soziales Leben\|Soziales Leben]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]],[[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
@@ -35,4 +35,4 @@ Das Spiel ist außerdem geeignet, um das  [[01_Background/Kompetenzen/Funktional
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 22/09/2025, 10:14
+Zuletzt bearbeitet am: 01/10/2025, 08:28

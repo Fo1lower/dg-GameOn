@@ -29,7 +29,7 @@ Das erste Level beschäftigt sich beispielsweise mit dem Thema Kinderarbeit und 
 
 Alternativ kann auch mit Sachtexten gearbeitet werden, die über Beispiele von Kinderarbeit und -armut berichten. Ausgehend von solchen Texten können eigene Schreibprodukte angefertigt werden. So ist es denkbar, dass die Schüler einen Zeitungsbeitrag für die Schülerzeitung anfertigen oder einen fiktiven Blogpost erstellen. Kreative Schreibaufgaben sind ebenfalls denkbar, zum Beispiel indem die Schüler:innen in die Rolle des außerirdischen Botschafters schlüpfen und Berichte an den Planeten Spork schreiben. 
 ### Links:
-Mögliche Unterrichtsideen finden sie hier: https://rightshero.eu/wp-content/uploads/2023/11/Rights-Hero_Manual171123.pdf
+Mögliche Unterrichtsideen finden sie hier: https://rightshero.eu/wp-content/uploads/2023/11/Rights-Hero_Manual171123.pdf. 
 
 ---
-Zuletzt bearbeitet am: 22/09/2025, 10:11
+Zuletzt bearbeitet am: 01/10/2025, 09:52
