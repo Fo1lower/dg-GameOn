@@ -13,7 +13,7 @@
 
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
->**Thematische Anbindung:** [[01_Background/Themen/Soziales Leben\|Soziales Leben]],[[01_Background/Themen/Work and Education\|Work and Education]],[[01_Background/Themen/Science & Technology\|Science & Technology]]
+>**Thematische Anbindung:** [[01_Background/Themen/Science & Technology\|Science & Technology]],[[01_Background/Themen/Soziales Leben\|Soziales Leben]],[[01_Background/Themen/Work and Education\|Work and Education]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]],[[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 5-7,8-10
 
@@ -32,4 +32,4 @@ In höheren Stufen kann der Beruf des Medienschaffenden durch Gebrauchstexte kri
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 14/10/2025, 11:06
+Zuletzt bearbeitet am: 14/10/2025, 11:07

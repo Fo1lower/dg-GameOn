@@ -40,9 +40,8 @@ Florian Grannaß und Nico Schubert arbeiten als studentische Hilfskräfte im Pro
 #### Förderung:
 
 Das Projekt Game On! ist Teil des Verbundsprojekts [ViFoNET](https://vifonet.de/) im Kompetenzverbund [lernen.digital](https://lernen.digital/) und wird als solches von folgenden Stellen gefördert und unterstützt:
-
-![FKZ_BMBF.png](/img/user/-_Media/FKZ_BMBF.png)
+![Logo_gef_BMBFSFJ.jpg](/img/user/-_Media/Logo_gef_BMBFSFJ.jpg)
 ![FKZ_EU.png](/img/user/-_Media/FKZ_EU.png)
 
 ---
-Zuletzt bearbeitet am: 12/02/2025, 13:42
+Zuletzt bearbeitet am: 14/10/2025, 11:09
