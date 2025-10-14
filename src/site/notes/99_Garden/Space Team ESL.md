@@ -22,7 +22,7 @@ Space Team ESL ist ein Lernspiel der Concordia University. Die Entwickler der Un
 ### Didaktische Anbindung:
 In dem Videospiel “Space Team ESL“ spielen Gruppen von 2-4 Lernenden zusammen. Die Gruppe stellt die Crew eines Raumschiffes dar, welche die richtigen Knöpfe drücken muss, um sicher durchs All zu fliegen. Allerdings hat jeder die Anleitung eines anderen Spielers bekommen, weshalb die Gruppe kommunizieren muss, um im Spiel zu überleben.
 
-Das Spiel bietet sich besonders gut an, um neue Vokabeln einzuüben. Im Verlauf des Spiels sollte den Lernenden auffallen, das überwiegend Nomen und Verben, aber nur wenige Adjektive verwendet werden. Das Spiel könnte auch eingesetzt werden, um den Unterschied dieser Wortarten erneut zu thematisieren. Darüber hinaus können auch Artikel (wie the, a, an), Pronomen (wie I, he, she, it, we) und Demonstrativartikel (wie this, that) zusammen mit den neuen Wörtern eingeübt werden.  
+Das Spiel bietet sich besonders gut an, um neue Vokabeln einzuüben. Im Verlauf des Spiels sollte den Lernenden auffallen, das überwiegend Nomen und Verben, aber nur wenige Adjektive verwendet werden. Das Spiel könnte auch eingesetzt werden, um den Unterschied dieser Wortarten erneut zu thematisieren. Darüber hinaus können auch Artikel (wie the, a, an), Pronomen (wie I, he, she, it, we) und Demonstrativartikel (wie this, that) zusammen mit den neuen Wörtern eingeübt werden.  Die durch das Spiel verwendeten Vokabeln können in den Einstellungen individuell eingestellt werden.
 Dieser Fokus unterstreicht, dass funktionale kommunikative Kompetenzen wie das Verfügen über [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprachliche Mittel\|Sprachliche Mittel]]  gefördert werden können. Dadurch, dass die Schülerinnen miteinander kommunizieren müssen, um das Raumschiff zu retten, werden Teilkompetenzen wie [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]] und [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Kommunikative Strategien\|kommunikative Strategien]] gefördert. 
 
 Unterrichtsbeispiele gibt es in den Handreichungen auf der Website des Videospiels.
@@ -34,4 +34,4 @@ Unterrichtsbeispiele gibt es in den Handreichungen auf der Website des Videospie
 Jackson, R. (o.D.). Spaceteam ESL - Activities and Lesson Plans for Teachers, Parents, and Kids! http://spaceteamesl.ca/wp-content/uploads/2015/05/spaceteam-lesson-plan-package.pdf 
 
 ---
-Zuletzt bearbeitet am: 03/09/2025, 15:53
+Zuletzt bearbeitet am: 14/10/2025, 11:00

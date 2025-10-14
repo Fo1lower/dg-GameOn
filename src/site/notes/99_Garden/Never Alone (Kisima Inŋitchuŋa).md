@@ -26,11 +26,11 @@
 ## Über Das Spiel:
 In dem Spiel "Never Alone" begibt sich das kleine Mädchen Nuna auf die Suche nach dem Auslöser eines Schneesturms in ihrem Heimatdorf in Alaska. Auf dem Weg in den Norden des U.S. Bundesstaates begleitet sie ein kleiner Fuchs.
 ### Didaktische Anbindung:
-Das Videospiel "Never Alone“ bietet sich an, um die interkulturelle Kompetenz der Schüler:innen zu fördern. Im Spiel werden Themen wie Freundschaft und Loyalität, aber auch Mythen und Sagen der Ureinwohner Alaskas (bzw. des Iñupiat Stammes) angesprochen. Somit haben die Lernenden die Möglichkeit, Themen wie Freundschaft, Familie und Gemeinschaft in anderen Kulturen zu sehen und etwas über Indigene Völker Nordamerikas zu lernen. Cutscenes, die den Spielablauf pausieren, bringen den Spielenden verschiedene Sagen und Praktiken der Iñupiat näher.
+Das Videospiel "Never Alone“ bietet sich an, um die interkulturelle Kompetenz der Schüler:innen zu fördern. Im Spiel werden Themen wie Freundschaft und Loyalität, aber auch Mythen und Sagen der Iñupiat angesprochen. Somit haben die Lernenden die Möglichkeit, Themen wie Freundschaft, Familie und Gemeinschaft in anderen Kulturen zu sehen und etwas über Indigene Völker Nordamerikas zu lernen. Cutscenes, die den Spielablauf pausieren, bringen den Spielenden verschiedene Sagen und Praktiken der Iñupiat näher.
 Am Beispiel Alaskas kann die kulturelle Vielfalt der heutigen Vereinigten Staaten hervorgehoben und das Bild des "melting pot" verdeutlicht werden. Somit wird die [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] im Verlauf des Spiels gefördert. 
 
 Im Rahmen des Englischunterrichts wäre der Einsatz von "creative writing“ Aufgaben, in denen die Spielenden die Geschichte von Nuna weiterführen, denkbar. Darüber hinaus können im Anschluss an das Spiel verschiedene alaskanische Comics wie "Chickaloonies“ oder "Wintermoot“ gelesen werden. Diese Comics haben das Potential das [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Leseverstehen\|Leseverstehen]] zu fördern. 
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 22/09/2025, 10:20
+Zuletzt bearbeitet am: 14/10/2025, 10:51

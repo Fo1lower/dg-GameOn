@@ -13,7 +13,7 @@
 
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
->**Thematische Anbindung:** [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]],[[01_Background/Themen/Soziales Leben\|Soziales Leben]]
+>**Thematische Anbindung:** [[01_Background/Themen/Identity and Belonging\|Identity and Belonging]],[[01_Background/Themen/Soziales Leben\|Soziales Leben]],[[01_Background/Themen/USA\|USA]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 8-10,Q1/2
 
@@ -34,4 +34,4 @@ Die Geschichte wird fragmentiert durch verschiedene Funde/ Gegenstände im Haus 
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 28/08/2025, 14:09
+Zuletzt bearbeitet am: 14/10/2025, 10:33

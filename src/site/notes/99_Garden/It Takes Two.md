@@ -31,8 +31,7 @@ It Takes Two ist ein kooperatives Abenteuer-Spiel für zwei Spieler\*innen. Die
 
 "It takes two“ eignet sich im Englischunterricht vor allem für die Förderung funktional kommunikativer Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]) und stärkt die Zusammenarbeit im Team. Keine Aufgabe, vor der die Hauptfiguren gestellt werden, kann allein gelöst werden. So muss immer eine Absprache mit dem/ der Spielpartner:in getroffen werden, was eine spontane und flexible Kommunikation in der Zielsprache fördert. Darüber hinaus bietet die Thematik des Videospiels Anlass für Debatten. So kann zwischen Spiel-Sessions besprochen werden, wie Schüler\*innen die Beziehung der beiden Figuren erleben, und auf welches Ende die Erzählung in dieser Hinsicht hinauslaufen könnte.
 
-Auch das analytische Schreiben kann mit "It takes two“ eingeübt werden. Dabei können mehrere Figuren im Spiel wie z.B. May, Cody oder Dr. Hakim, genauer fokussiert werden. Die dargestellten Geschlechterrollen können hier ein möglicher Aspekt sein, der in die Figurenanalyse einfließt. So wird May als Ernährerin der Familie porträtiert, während Cody einen Hausmann darstellt. Die Geschlechterrollen erscheinen zunächst progressiv, werden jedoch im Spielverlauf mit Stereotype versehen. Cody beispielsweise wird als ängstlich und vorsichtig dargestellt.
-Die Auseinandersetzung mit dieser Thematik schließt an Vorgaben der Lehrpläne aus Sek I und Sek II an.
+Auch das analytische Schreiben kann mit "It takes two“ eingeübt werden. Dabei können mehrere Figuren im Spiel wie z.B. May, Cody oder Dr. Hakim, genauer fokussiert werden. Die dargestellten Geschlechterrollen können hier ein möglicher Aspekt sein, der in die Figurenanalyse einfließt. So wird May als Ernährerin der Familie porträtiert, während Cody einen Hausmann darstellt. Die Geschlechterrollen erscheinen zunächst progressiv, werden jedoch im Spielverlauf mit Stereotypen versehen. Cody beispielsweise wird als ängstlich und vorsichtig dargestellt.
 
 Auch die Symbolik im Videospiel kann mit Schüler:innen genauer in den Blick genommen werden. So gibt es im Verlauf des Spiels 25 Minigames, die als Spiegelbild von Cody’s und May’s Ehe gesehen werden können. Beispielsweise müssen die beiden im Tauziehen, Eislaufen oder Schach gegeneinander antreten. Eine genauere Analyse der einzelnen Minispiele kann Schüler:innen einen tieferen Blick in die Verbundenheit der Protagonisten geben und eine Reflexion eigener (freundschaftlicher) Beziehungen anregen.
 ### Links:
@@ -40,4 +39,4 @@ Auch die Symbolik im Videospiel kann mit Schüler:innen genauer in den Blick gen
 
 
 ---
-Zuletzt bearbeitet am: 28/08/2025, 14:10
+Zuletzt bearbeitet am: 14/10/2025, 10:40

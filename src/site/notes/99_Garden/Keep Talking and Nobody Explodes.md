@@ -30,7 +30,7 @@ Keep Talking and Nobody Explodes ist ein kooperatives Puzzle-Spiel für zwei ode
 ### Didaktische Anbindung:
 In dem Videospiel "Keep talking and nobody explodes“ nehmen jeweils zwei Schüler:innen aktiv am Geschehen teil, während der Rest der Lerngruppe Beobachtungsaufträge zugewiesen bekommt. Ein/e Schüler:in hat eine Rätselanleitung vor sich liegen, während der/die zweite Schüler:in das Spiel/ eine digitale Bombe bedient. Die restlichen Schülerinnen beobachten die Konversation und geben Feedback. Zwischen den Spielphasen können die Gruppen ihre Strategien und Text der Bedienungsanleitung gemeinsam besprechen, um so ihre weiteren Versuche zu optimieren.
 
-Wie deutlich wird, arbeiten die Lernenden an ihrer funktionalen kommunikativen Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]) und ihrer Sprachbewusstheit. Dadurch, dass die Schüler:innen unter Zeitdruck stehen, wird Flexibilität und Spontanität in Konversationen gefördert. Die Beschreibungen in der Anleitung und die nötigen Anweisungen zwischen den Spielenden erfordern ein verständnis von Konditionalsätzen, an deren Erarbeitung in der Sekundarstufe I durch das Spiel angeknüpft werden kann.
+Wie deutlich wird, arbeiten die Lernenden an ihrer funktionalen kommunikativen Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]) und ihrer Sprachbewusstheit. Dadurch, dass die Schüler:innen unter Zeitdruck stehen, wird Flexibilität und Spontanität in Konversationen gefördert. Die Beschreibungen in der Anleitung und die nötigen Anweisungen zwischen den Spielenden erfordern ein Verständnis von Konditionalsätzen, an deren Erarbeitung in der Sekundarstufe I durch das Spiel angeknüpft werden kann.
 
 
 
@@ -38,4 +38,4 @@ Wie deutlich wird, arbeiten die Lernenden an ihrer funktionalen kommunikativen K
 [Offizielle Webseite](https://keeptalkinggame.com)
 
 ---
-Zuletzt bearbeitet am: 28/08/2025, 14:11
+Zuletzt bearbeitet am: 14/10/2025, 10:41

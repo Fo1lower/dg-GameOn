@@ -34,7 +34,7 @@ Die Schüler:innen bewegen sich in einer dystopischen Welt und werden mit Vokabu
 
 Darüber hinaus bieten die aufwendig gestalteten Welten des Spiels die Möglichkeit das Beschreiben von Orten einzuüben. So kann, mündlich oder schriftlich, auf Gegenstände, Tiere, Pflanzen, Farbgebung, Licht und Symbolik eingegangen werden. Außerdem bietet sich die Storyline und das Setting an, kreatives Schreiben einzuüben. Dabei könnten die Schüler:innen z.B. gebeten werden die Geschichte um ein Kapitel zu erweitern oder ein alternatives Ende zu verfassen. 
 
-Eine mögliche Unterrichtsgestaltung hat Stefan Labez in "Englisch 5-10 Nr. 61 / Creative writing" im Jahr 2023 veröffentlicht. 
+Eine mögliche Unterrichtsgestaltung hat Stefan Labez im Jahr 2023 veröffentlicht. 
 
 ### Links:
 [Offizielle Webseite](https://www.team17.com/games/planet-alpha/)
@@ -42,4 +42,4 @@ Eine mögliche Unterrichtsgestaltung hat Stefan Labez in "Englisch 5-10 Nr. 61 /
 Labez, S. (2023). Surviving on Planet Alpha. _Englisch 5-10_. 61. Seite?. https://www.friedrich-verlag.de/friedrich-plus/sekundarstufe/englisch/schreiben/surviving-on-planet-alpha-14390 
 
 ---
-Zuletzt bearbeitet am: 03/09/2025, 15:51
+Zuletzt bearbeitet am: 14/10/2025, 10:57

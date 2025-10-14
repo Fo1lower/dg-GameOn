@@ -26,9 +26,9 @@
 
 
 ## Über Das Spiel:
-Not For Broadcast ist ein satirischer Simulator, der den/die Spieler\*in hinter die Kulissen einer chaotischen Live-Nachrichtensendung wirft. Als Regisseur\*in steuerst du, was auf Sendung geht: blende unpassende Äußerungen aus, halte die Werbetreibenden bei Laune und sorge dafür, dass die Show trotz aller Absurditäten weiterläuft.
+Not For Broadcast ist ein satirischer Simulator, der den/die Spieler\*in hinter die Kulissen einer chaotischen Live-Nachrichtensendung wirft. Als Regisseur\*in steuern Spielende, was auf Sendung geht. Sie blenden unpassende Äußerungen aus, halten die Werbetreibenden bei Laune und sorgen dafür, dass die Show trotz aller Absurditäten weiterläuft.
 ### Didaktische Anbindung:
-Das Videospiel zeigt einen fiktiven europäischen Staat, in dem die Schüler:innen in die Rolle von Alex Winston versetzt werden, der Produzent der "National Nightly News“ ist. Dabei kontrolliert er, was die Zuschauer:innen im Fernsehen sehen. Die Lernenden können die Nachrichten im Sinne des Regimes zensieren und belohnt  werden. Alternativ kann die Wahrheit gezeigt werden, was zur eignen Unterdrückung führt. 
+Das Videospiel zeigt einen fiktiven europäischen Staat, in dem die Schüler:innen in die Rolle von Alex Winston versetzt werden, der Produzent der "National Nightly News“ ist. Dabei kontrolliert er, was die Zuschauer:innen im Fernsehen sehen. Die Lernenden können die Nachrichten im Sinne des Regimes zensieren und belohnt  werden. Alternativ kann die Wahrheit gezeigt werden, was zur eigenen Unterdrückung führt. 
 
 Dadurch, dass das Videospiel den Fokus auf Desinformationskampagnen und Falschinformationen legt, könnte die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] der Schüler:innen gefördert werden. Denkbar wäre hier, dass die Lernenden  konkrete Tipps oder Regeln zum Schutz vor Desinformationen für jüngere Schüler:innen entwerfen.        
 
@@ -39,4 +39,4 @@ In dem Spiel werden in verschiedenen Szenen rassistische, antifeministische und 
 [Offizielle Webseite](https://www.notforbroadcastgame.com)
 
 ---
-Zuletzt bearbeitet am: 28/08/2025, 14:17
+Zuletzt bearbeitet am: 14/10/2025, 10:55

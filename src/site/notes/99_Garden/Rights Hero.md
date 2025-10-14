@@ -25,11 +25,11 @@ In dem Spiel "Rights Hero" begeben sich die Spielenden auf den fremden Planeten 
 ### Didaktische Anbindung:
 Jedes Level des Spiels "Rights Hero" nimmt zwei Rechte der UN-Kinderrechtskonvention in den Fokus. Dies bietet der Lehrkraft die Möglichkeit, die Schüler:innen an ihre Rechte spielerisch heranzuführen. Im Englischunterricht wird zeitgleich die [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]] gefördert. 
 
-Das erste Level beschäftigt sich beispielsweise mit dem Thema Kinderarbeit und dem Recht auf angemessene Lebensbedingungen. Nachdem die Schüler:innen das Level bewältigt haben, könnte über verschiedene Definitionen von Kinderarbeit in einer Paneldiskussion debattiert werden. Darüber hinaus lassen sich verschiedene Ideen besprechen, inwiefern der eigene Konsum mit Kinderarbeit im globalen Süden zusammenhängt. Die Schüler:innen lernen so Kinderrechte als globales Rechet anzuerkennen. 
+Das erste Level beschäftigt sich beispielsweise mit dem Thema Kinderarbeit und dem Recht auf angemessene Lebensbedingungen. Nachdem die Schüler:innen das Level bewältigt haben, könnte über verschiedene Definitionen von Kinderarbeit in einer Paneldiskussion debattiert werden. Darüber hinaus lassen sich verschiedene Ideen besprechen, inwiefern der eigene Konsum mit Kinderarbeit im globalen Süden zusammenhängt. Die Schüler:innen lernen so Kinderrechte als globales Recht anzuerkennen. 
 
 Alternativ kann auch mit Sachtexten gearbeitet werden, die über Beispiele von Kinderarbeit und -armut berichten. Ausgehend von solchen Texten können eigene Schreibprodukte angefertigt werden. So ist es denkbar, dass die Schüler einen Zeitungsbeitrag für die Schülerzeitung anfertigen oder einen fiktiven Blogpost erstellen. Kreative Schreibaufgaben sind ebenfalls denkbar, zum Beispiel indem die Schüler:innen in die Rolle des außerirdischen Botschafters schlüpfen und Berichte an den Planeten Spork schreiben. 
 ### Links:
 Mögliche Unterrichtsideen finden sie hier: https://rightshero.eu/wp-content/uploads/2023/11/Rights-Hero_Manual171123.pdf. 
 
 ---
-Zuletzt bearbeitet am: 01/10/2025, 09:52
+Zuletzt bearbeitet am: 14/10/2025, 10:58

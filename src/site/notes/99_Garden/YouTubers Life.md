@@ -13,7 +13,7 @@
 
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
->**Thematische Anbindung:** [[01_Background/Themen/Soziales Leben\|Soziales Leben]]
+>**Thematische Anbindung:** [[01_Background/Themen/Soziales Leben\|Soziales Leben]],[[01_Background/Themen/Work and Education\|Work and Education]],[[01_Background/Themen/Science & Technology\|Science & Technology]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Aufgabe\|Aufgabe]],[[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** 5-7,8-10
 
@@ -24,7 +24,7 @@
 ## Über Das Spiel:
 In dem Videospiel "Youtubers Life" schlüpfen die Schüler:innen in die Rolle eines "Content Creators", der sich eine Karriere auf der Videoplattform YouTube aufbaut. Die Spieler kümmern sich um die Wahl des Avatar, YouTube Kanals, Einnahmen, Freundschaften und alltägliche Dinge wie Schlaf. Das Ziel ist es so viel Ruhm, Ansehen und Geld zu gewinnen wie möglich. Dabei können die Spieler den Videokanal stetig erweitern, die Lebenssituation verbessern und den Kreis an sozialen Kontakten erweitern.  
 ### Didaktische Anbindung:
-Das Videospiel "Youtubers Life" ist besonders aufgrund seines Bezuges zur Lebenswelt der Schüler:innen für den Einsatz im Englischunterricht geeignet. So sind viele Schüler:innen tagtäglich  auf sozialen Medien mit "Content Creators" konfrontiert und sehen die Produktion von Videos und Bildern im Netz als attraktiven Beruf an. Durch das Spiel erhalten Sie die Möglichkeit, sich in die Lage eines Medienschaffenden zu versetzten und die weniger glamourösen Seiten dieses Berufes (wie z.B. das Handhaben von Einnahmen oder Vernetzung mit Unternehmen / anderen Medienschaffenden) kennen zu lernen. 
+Das Videospiel "Youtubers Life" ist besonders aufgrund seines Bezuges zur Lebenswelt der Schüler:innen für den Einsatz im Englischunterricht geeignet. So sind viele Schüler:innen tagtäglich auf sozialen Medien mit "Content Creators" konfrontiert und sehen die Produktion von Videos und Bildern im Netz als attraktiven Beruf an. Durch das Spiel erhalten Sie die Möglichkeit, sich in die Lage eines Medienschaffenden zu versetzten und die weniger glamourösen Seiten dieses Berufes (wie z.B. das Handhaben von Einnahmen oder Vernetzung mit Unternehmen / anderen Medienschaffenden) kennen zu lernen. 
 
  "Youtubers Life" bietet sich an, um verschiedene kreative Schreibaufgaben zu bearbeiten, wodurch die [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreibkompetenz]] geschult wird. Ausgehend von den zahlreichen Figuren können  beispielsweise Tagebucheinträge, Online-Chats oder fiktive Weitererzählungen der Geschichte angefertigt werden. 
 
@@ -32,4 +32,4 @@ In höheren Stufen kann der Beruf des Medienschaffenden durch Gebrauchstexte kri
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 24/09/2025, 12:18
+Zuletzt bearbeitet am: 14/10/2025, 11:06

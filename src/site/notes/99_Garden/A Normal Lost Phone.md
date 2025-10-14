@@ -33,7 +33,7 @@ A Normal Lost Phone beschäftigt sich mit komplexen Themen von Identität und He
 ### Didaktische Anbindung:
 In "A normal lost phone“ müssen die Lernenden auf einem gefundenen Smartphone Informationen über den:die Besitzer:in sammeln. So müssen beispielsweise Passwörter erraten werden, um an diese Informationen zu gelangen. Dies bietet Anlass, um die fremdsprachenbezogene digitale Kompetenz der Schüler:innen zu stärken und digitale Sicherheit/ Privatsphäre zu thematisieren.
 
-Der:Die Besitzer:in des Smartphones entlarvt sich als Sam, von dem der:die Spieler:in im Verlauf des Spiels immer mehr erfährt. Dabei stehen Fragen rund um LGBTQ+ im Vordergrund. Das Videospiel bietet die Möglichkeit, diese, für viele Jugendliche relevante Thematik, im Unterricht aufzugreifen. In vielen Lehrplänen der Sekundarstufe II sind 
+Der:Die Besitzer:in des Smartphones entlarvt sich als Sam, von dem der:die Spieler:in im Verlauf des Spiels immer mehr erfährt. Dabei stehen Fragen rund um LGBTQ+ ebenso im Vordergrund, wie Familiendynamiken und Freundschaften des Teenagerlebens. 
 
 Das Videospiel ermöglicht es die [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] zu fördern. Die Coming-of-Age-Geschichte  kann im Englischunterricht als Beispiel dieses Genres analysiert werden. Wie bei diesen Geschichten üblich durchläuft der:die Protagonist:in eine Entwicklung, in der er/ sie zu sich findet bzw. reifer wird. Sam findet im Spielverlauf den Mut sich vor jemandem zu Outen und ein neues Leben zu beginnen. Die non-lineare und fragmentierte Erzählweise hält die Spieler:innen dazu an, wichtige Informationen zu identifizieren und Leerstellen mit eigenem sozio-kulturellen Wissen zu erschließen. 
 ### Links:
@@ -46,5 +46,5 @@ Das Videospiel ermöglicht es die [[01_Background/Kompetenzen/Text- und Medienko
 
 
 ---
-Zuletzt bearbeitet am: 28/08/2025, 14:00
+Zuletzt bearbeitet am: 14/10/2025, 09:57
 

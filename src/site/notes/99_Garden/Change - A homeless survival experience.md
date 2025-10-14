@@ -13,7 +13,7 @@
 
 >[!tldr]+ Didaktische Informationen
 >**Kompetenzen:** [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz\|Funktionale Kommunikative Kompetenz]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]],[[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]],[[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]]
->**Thematische Anbindung:** [[01_Background/Themen/Soziales Leben\|Soziales Leben]]
+>**Thematische Anbindung:** [[01_Background/Themen/Soziales Leben\|Soziales Leben]],[[01_Background/Themen/Work and Education\|Work and Education]]
 >**Einsatz als:** [[01_Background/Grundbegriffe/Das Spiel als Text\|Text]]
 >**Jahrgangstufe:** Q1/2
 
@@ -26,13 +26,12 @@
 
 
 ## Über Das Spiel:
-Das survival Spiel "Change - a homeless survival experience" zeigt die Lebenswelt einer obdachlosen Person, die auf der Straße überleben muss. Die Spielenden werden mit der Geschichte des Protagonisten vertraut gemacht und entwickeln ein Verständnis für die Gründe, warum Menschen in Obdachlosigkeit und Armut geraten. Darüber hinaus wird dargestellt, wie hart das Leben auf der Straße ist und welchen negativen Einflüssen wie z.B. Drogen oder Gewalt die betroffene Person ausgesetzt ist. 
-
+Das survival Spiel "Change - a homeless survival experience" zeigt die Lebenswelt einer obdachlosen Person, die auf der Straße überleben muss. Die Spielenden werden mit der Geschichte des Protagonisten vertraut gemacht und entwickeln ein Verständnis für die Gründe, warum Menschen in Obdachlosigkeit und Armut geraten. 
 ### Zur Altersempfehlung:
-"Change" beschäftigt sich mit komplexen Themen von Obdachlosigkeit und thematisiert unter anderem Drogenkonsum und Gewalt. Das Spiel hat zum gegenwärtigen Zeitpunkt eine Altersfreigabe ab 16 auf Steam. Eine offizielle Empfehlung der USK/ PEGI gibt es nicht. 
- 
+"Change" beschäftigt sich mit komplexen Themen von Obdachlosigkeit und thematisiert unter anderem Drogenkonsum und Gewalt. Das Spiel hat zum gegenwärtigen Zeitpunkt eine Altersfreigabe ab 16 auf Steam. 
+
 ### Didaktische Anbindung:
-"Change" kann die funktionale kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]]), als auch [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] fördern. Das Spiel bietet den Schüler:innen die Möglichkeit sich in die Lage eines Obdachlosen hinein zu versetzten und Empathie für Menschen in Not zu entwickeln. Der Effekt der non-linearen Erzählstruktur, sowie die Hintergrundgeschichten der einzelnen Charaktere können genauer im Englischunterricht analysiert werden. So kann z.B. eine Charakterisierung zu den unterschiedlichen Hauptfiguren geschrieben werden. 
+"Change" kann zur Förderung funktional kommunikativer Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Schreiben\|Schreiben]]), oder auch [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] eingesetzt werden. Das Spiel bietet den Schüler:innen die Möglichkeit sich in die Lage eines Obdachlosen hinein zu versetzten und Empathie für Menschen in Not zu entwickeln. Der Effekt der non-linearen Erzählstruktur, sowie die Hintergrundgeschichten der einzelnen Charaktere können genauer im Englischunterricht analysiert werden. So kann z.B. eine Charakterisierung zu den unterschiedlichen Hauptfiguren geschrieben werden. 
 
 Darüber hinaus bietet das Spiel Anlass zu Diskussionsrunden, durch die funktionale kommunikative Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]) weiterentwickelt werden. So kann man sich über die dargestellten Biografien austauschen und diskutieren, wie man Menschen frühzeitig helfen kann, um nicht in Obdachlosigkeit zu geraten.
 
@@ -40,4 +39,4 @@ Zusätzlich sind Internetrecherchen zu Anlaufstellen für Bedürftige in der jew
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 28/08/2025, 14:06
+Zuletzt bearbeitet am: 14/10/2025, 10:12

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Spielesammlung/Minecraft.md","permalink":"/spielesammlung/minecraft/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Spielesammlung/Minecraft.md","permalink":"/spielesammlung/minecraft/","noteIcon":"2"}
 ---
 
 ---
@@ -43,9 +43,11 @@ Im Englischunterricht kann der Fokus hier auf kooperative Kommunikation ([[01_Ba
 #### Kreativ-Modus
 Der kreative Modus entfernt die Komponenten des Sammelns von Ressourcen und die Bedrohung durch Monster. Stattdessen stehen Spielenden endlose Mengen aller Blöcke zu verfügen, mit denen sie wie mit virtuellen Bausteinen die Welt nach ihren Vorstellungen formen können.
 
-Ähnlich wie im Survival-Modus, können Schüler\*innen hier alleine oder in Gruppen Projektorientiert arbeiten und gemeinsame Bauprojekte sprachlich planen, diskutieren und umsetzen. So könnten z
+Ähnlich wie im Survival-Modus, können Schüler\*innen hier alleine oder in Gruppen Projektorientiert arbeiten und gemeinsame Bauprojekte sprachlich planen, diskutieren und umsetzen. Dabei können klassische Unterrichtsinhalte wie "My Dream House" oder die Beschreibung von Wegen und Ortschaften aufgegriffen und im Spiel realisiert werden.
 
-Ihr Charakter wird in eine zufällig kreierte Welt versetzt, in der Ressourcen abgebaut und Gesellschaften erschaffen werden müssen. Das Spiel ist dabei deutlich in einen Wechsel Da das Spiel den Lernenden viel Freiraum gibt, bietet es sich an, dass die Lehrkraft sowohl konkrete Lernziele, als auch Aufgaben vor Spielbeginn mit den Schüler:innen bespricht. Darüber hinaus sollte die Lehrkraft eine Welt aussuchen, in der alle Spielenden die Aufgaben bearbeiten. Hierfür bieten sich die „Education Maps“ auf Internetseiten wie „planetminecraft.com“ an. Das Spiel kann vielfältig im Englischunterricht eingesetzt werden, z.B. um das Setting einer Lektüre nachzubauen oder eine Geschichte weiter zu erzählen. Darüber hinaus gibt es spezifische „Education Maps“ zu historischen Ereignissen z.B. aus der Kolonialzeit Amerikas oder England zur Zeit von Königin Elisabeth I. Dies bietet den Schüler:innen die Möglichkeit auf spielerische Weise in die Geschichte verschiedener englischsprachiger Länder einzutauchen und ein tieferes Verständnis für deren Kultur zu bekommen. 
+#### Abenteuer-Modus
+Der Abenteuer-Modus stellt im Grunde eine Realisierung von *Escape Rooms* in Minecraft dar. Spielende können Karten erstellen und dabei festlegen, inwieweit andere Spielende mit Blöcken und Gegenständen interagieren können. Für den Unterricht sind hier vor allem Ideen wie "Treasure Hunts" interessant, mit denen z.B. Wegbeschreibungen geübt und angewandt werden können,
+
 ### Links:
 Ellison, T. L., & Evans, J. N. (2016). " Minecraft," Teachers, Parents, and Learning: What They Need to Know and Understand. _School Community Journal_, _26_(2), 25-43. [https://files.eric.ed.gov/fulltext/EJ1123979.pdf](https://files.eric.ed.gov/fulltext/EJ1123979.pdf) 
 
@@ -53,4 +55,4 @@ Marlatt, R. (2018). Literary analysis using Minecraft: An Asian American youth c
 
 
 ---
-Zuletzt bearbeitet am: 28/08/2025, 14:15
+Zuletzt bearbeitet am: 14/10/2025, 10:50

@@ -18,16 +18,16 @@
 >**Jahrgangstufe:** 8-10,Q1/2
 
 ## Über Das Spiel:
-Harmony Square ist ein Spiel mit Desinformations-Thematik. Spieler\*innen übernehmen die Rolle eines Mitarbeiters, der für Harmonie im fiktiven Ort Harmony Square sorgen soll. Allerdings geht es nicht um echte Harmonie, sondern darum, Spannungen zwischen verschiedenen Gruppen zu schüren und Desinformation zu verbreiten.
+Harmony Square ist ein Spiel mit Desinformations-Thematik. Spieler:innen übernehmen die Rolle eines "Chief Disinformation Officers", dessen Aufgabe es ist Unruhe auf den Sozialen Medien der fiktiven Ortschaft Harmony Square zu stiften. Spielende verbreiten Falschinformationen, bezahlen Bot-Armeen und verbreiten Memes, um das Engagement ihrer Kanäle zu maximieren.
 
 ### Altersfreigabe 
 Das Spiel ist laut den Entwicklern ab 15 Jahren geeignet. Die non-profit Organisation "commonsense.org" empfiehlt das Spiel in den Jahrgangsstufen 8-12. 
 ### Didaktische Anbindung:
-Im Videospiel "Harmony Square“ werden die Lernenden in die Rolle des „Chief Disinformation Officer“ versetzt, der möglichst viel Desinformationen im Internet verbreiten muss.
+Im Videospiel "Harmony Square“ werden die Lernenden in die Rolle des „Chief Disinformation Officer“ versetzt, der möglichst viel Desinformationen im Internet verbreiten muss. Das Spiel folgt dabei dem Ansatz der "Inoculation Theory": Durch Ausüben der Tätigkeit sollen Spielende für Desinformationsstrategien in sozialen Medien sensibilisiert werden.
 
 Das Spiel eröffnet die Möglichkeit einzelne Taktiken von Desinformation wie z.B „trolling“ oder "emotional language“ zu erkennen und im eigenen Medienkonsum zu berücksichtigen. Somit kann die  [[01_Background/Kompetenzen/Text- und Medienkompetenz\|Text- und Medienkompetenz]] gefördert werden. Darüber hinaus kann unter den Lernenden diskutiert werden, wie es sich angefühlt hat Desinformationen zu verbreiten und ob sie bereits selbst im Umgang mit dem Internet auf ähnliche Falschinformationen gestoßen sind. Dies könnte zum Erwerb funktionale kommunikative Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]]) beitragen.
 ### Links:
 [spielbar auf Developerseite](https://harmonysquare.game)
 
 ---
-Zuletzt bearbeitet am: 28/08/2025, 14:09
+Zuletzt bearbeitet am: 14/10/2025, 10:36

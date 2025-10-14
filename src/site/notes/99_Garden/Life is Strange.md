@@ -38,12 +38,13 @@ Max ist ein tiefgründiger Charakter, der im Laufe des Spiels viele Entwicklunge
 
 Kreatives Schreiben könnte an das Spiel anknüpfen, indem die Spielenden Max’s Lebensgeschichte weiter führen oder die Geschichte aus der Perspektive von Chloe schreiben. Dies würde jedoch voraussetzten, dass das gesamte Spiel durchgespielt wurde. 
 
-Eine mögliche Unterrichtsgestaltung hat Dr. Daniel Becker in "Videospiele im Fremdsprachenunterricht" im Jahr 2021 veröffentlicht. 
+Eine mögliche Unterrichtsgestaltung haben Daniel Becker und Frauke Matz im Jahr 2020 veröffentlicht. 
 ### Links:
-Becker, D. (2021). _Videospiele im Fremdsprachenunterricht_. Narr Francke Attempto Verlag.
+Becker, Daniel & Matz, Frauke (2020): Your life is still yours to live– Erzählstrukturen im Videospiel Life is Strange analysieren und visualisieren, narrative Kompetenz schulen. In: Der Fremdsprachliche Unterricht Englisch 165, 32–38.
+
 https://www.stiftung-digitale-spielekultur.de/app/uploads/2020/10/Games-machen-Schule-Machbarkeitsstudie-NRW-Handreichung-fuer-Lehrkraefte.pdf 
  
 [Offizielle Webseite](https://lifeisstrange.square-enix-games.com/en-gb)
 
 ---
-Zuletzt bearbeitet am: 28/08/2025, 14:15
+Zuletzt bearbeitet am: 14/10/2025, 10:45

@@ -18,8 +18,8 @@
 >**Jahrgangstufe:** Q1/2
 
 >[!tldr]+ Spielzeit: 
->Die durchschnittliche Spielzeit beträgt `=default(this.hltb-time, "")`.  
-><sub>Quelle: `=default(this.hltb-url, "")`</sub>
+>Die durchschnittliche Spielzeit beträgt 11 Stunden.  
+><sub>Quelle: https://howlongtobeat.com/game/22658</sub>
 
 >[!hint]+ Spieltrailer:
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/BALBUyoTxQM?si=ght2o6f0J2QX60D3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -27,7 +27,7 @@
 ## Über Das Spiel:
 "This War of Mine" begleitet eine Gruppe von Zivilisten, die versucht in Zeiten eines Krieges zu überleben. Ihre Stadt ist überwiegend von Soldaten und feindlichen Gruppen besetzt, die der Gruppe auf ihren Erkundungen durch die Stadt begegnen. Am Tag ist es die Aufgabe der Gruppe  ihren Unterschlupf zu sichern, Waffen anzufertigen und zu kochen, während sie am Abend auf die Suche nach überlebenswichtigen Gegenständen sind. Ziel ist es so lange durchzuhalten, bis ein Waffenstillstand vereinbart wurde. 
 ### Didaktische Anbindung:
-Das Spiel bietet die Möglichkeit [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] in der Zielsprache zu fördern. Die simulierte Welt stellt das harte Leben von Zivilisten in Kriegsgebieten dar. Verbunden mit Rechercheaufgaben eignet sich das Spiel, um mehr über  politische Konflikte und Kriege zu erfahren und diskutieren. Es kann einen Beitrag dazu leisten, dass sich die Lernenden als "global citizens" verstehen und Konflikte heutiger Zeit besser nachvollziehen. Hier können Brücken zu Themen wie dem American Dream geschlagen werden, da sich die U.S.A. lange als Weltpolizei verstand und in verschiedene Kriege eingriff oder selbst ausführte.  
+Das Spiel bietet die Möglichkeit [[01_Background/Kompetenzen/Interkulturelle Kompetenz\|Interkulturelle Kompetenz]] in der Zielsprache zu fördern. Die simulierte Welt stellt das harte Leben von Zivilisten in Kriegsgebieten dar. Verbunden mit Rechercheaufgaben eignet sich das Spiel, um mehr über  politische Konflikte und Kriege zu erfahren und diskutieren. Es kann einen Beitrag dazu leisten, dass sich die Lernenden als "global citizens" verstehen und Konflikte heutiger Zeit besser nachvollziehen. Hier können Brücken zu Themen wie dem American Dream und der Rolle politischer Großmächte in globalen Konflikten geschlagen werden.  
 
 Es gibt zahlreiche ­Situationen, die von den Schüler:innen bewältigt werden müssen um die schwere Lage im Krieg zu überleben. Dies bietet Anlass, das eigene Spielverhalten in der Fremdsprache zu diskutieren und sich mit eigenen Werten und Prinzipien auseinander zu setzten. Hier kann fächerübergreifend mit den Religions- und Ethiklehrer:innen oder den Politiklehrer:innen gearbeitet werden. 
 
@@ -35,4 +35,4 @@ Das Spiel ist außerdem geeignet, um das  [[01_Background/Kompetenzen/Funktional
 ### Links:
 
 ---
-Zuletzt bearbeitet am: 01/10/2025, 08:28
+Zuletzt bearbeitet am: 14/10/2025, 11:04

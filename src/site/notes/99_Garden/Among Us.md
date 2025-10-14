@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Spielesammlung/Among Us.md","permalink":"/spielesammlung/among-us/","noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Spielesammlung/Among Us.md","permalink":"/spielesammlung/among-us/","noteIcon":"2"}
 ---
 
 ---
@@ -31,7 +31,7 @@ Among Us ist ein Online-Multiplayer-Spiel für 4 bis 10 Spieler\*innen, in dem 
 
 ### Didaktische Anbindung:
 
-Das Spiel "Among Us“ eignet sich besonders gut um die funktional kommunikative Kompetenz ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprachliche Mittel\|Sprachliche Mittel]] ) einzuüben. In den Meeting-Phasen im Spiel müssen die Spieler:innen verschiedene Redewendungen verwenden, um sich darüber auszutauschen, wer gegen die Gruppe arbeitet. Die Lehrkraft kann zunächst ein 2Let’s Play“ Video zeigen, aus dem sich die Schüler:innen Notizen zu essentiellen "phrases“ im Spiel machen. Während des Spiels können dann die neuen Redewendungen eingeübt werden. Darüber hinaus können grammatische Strukturen wie das past progressive und simple past mündlich eingeübt werden, indem die Spieler:innen darüber reden, an welchen "tasks“ sie arbeiteten, als das Meeting einberufen wurde.
+Das Spiel "Among Us“ eignet sich besonders gut um funktionale kommunikative Kompetenzen ([[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprechen\|Sprechen]], [[01_Background/Kompetenzen/Funktionale Kommunikative Kompetenz#Sprachliche Mittel\|Sprachliche Mittel]] ) zu fokussieren. Der Ablauf der Meeting-Phasen, in welchen Spieler:innen über die Identität des möglichen Saboteurs diskutieren, kann durch vorbereitete Redemittel gestützt werden. Während des Spiels können dann die neuen Redewendungen eingeübt werden. Zwischen Spielphasen reflektieren Lernende über erfolgreiche und verworfene Strategien und können Bedarfe an weitere sprachliche Mittel formulieren. Auch grammatische Strukturen wie das past progressive und simple past könnten hier mündlich eingeübt werden, indem die Spieler:innen gezielt darüber reden, an welchen "tasks“ sie arbeiteten, als das Meeting einberufen wurde.
 
 Das Setting, welches u.a. eine Raumstation darstellt, kann genutzt werden, um Bildbeschreibungen mündlich einzuüben. So könnte die Lehrkraft Bildschirmaufnahmen verschiedener Räume zeigen, die von den Schülern beschrieben werden sollen.
 
@@ -44,4 +44,4 @@ Müller, M. (2023). Among us: Wer ist der Verräter?. Ein fesselndes interaktive
 
 
 ---
-Zuletzt bearbeitet am: 28/08/2025, 14:04
+Zuletzt bearbeitet am: 14/10/2025, 10:02
